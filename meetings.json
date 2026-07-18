@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T05:49:18.444Z",
+  "generated": "2026-07-18T05:34:48.637Z",
   "timezone": "Europe/Amsterdam",
   "count": 943,
   "programs": [
@@ -5133,16 +5133,17 @@
       "lng": 5.5347417,
       "types": [
         "MED",
-        "O"
+        "O",
+        "TOP"
       ],
       "lang": null,
       "isOnline": false,
       "conferenceUrl": null,
       "conferencePhone": null,
-      "notes": null,
+      "notes": "1e en 3e maandag van de maand hebben we een spreker meeting.",
       "locationNotes": "Ingang via poort aan de zijkant van t huis.",
       "url": "https://www.nanederland.nl/meetings/na-meeting-mondaynight-herstel-kartel/",
-      "updated": "2026-07-13 14:54:07"
+      "updated": "2026-07-17 10:01:20"
     },
     {
       "id": "NA:na-meeting-rondje-week",
@@ -7567,7 +7568,7 @@
     {
       "id": "NA:na-mannenmeeting",
       "program": "NA",
-      "name": "NA-Mannenmeeting Amsterdam",
+      "name": "NA-Mannenmeeting Amsterdam (per 27 juli andere locatie)",
       "day": 1,
       "time": "20:00",
       "endTime": "21:30",
@@ -7590,10 +7591,10 @@
       "isOnline": false,
       "conferenceUrl": null,
       "conferencePhone": null,
-      "notes": "LET OP: vanaf maandag 2 december 2024 nieuwe locatie!",
+      "notes": "De meeting verhuist met ingang van 27 juli 2026 naar\nBuurtkamer\nJohn Blankensteinstraat 1B\n1095MB Amsterdam",
       "locationNotes": null,
       "url": "https://www.nanederland.nl/meetings/na-mannenmeeting/",
-      "updated": "2026-07-13 14:51:52"
+      "updated": "2026-07-17 09:57:00"
     },
     {
       "id": "NA:na-meeting-enkhuizen",
@@ -10552,13 +10553,13 @@
       "time": "19:30",
       "endTime": "20:30",
       "timezone": "Europe/Amsterdam",
-      "location": "Life Builders",
-      "address": "Dampten 16",
-      "city": "Hoorn",
-      "postalCode": "1624 NR",
+      "location": "stichting cultuurcentrum de Plataan",
+      "address": "Pastoor Nuijenstraat 1",
+      "city": "Zwaag",
+      "postalCode": "1689 GM",
       "region": "Noord-Holland",
-      "lat": 52.6471078,
-      "lng": 5.0464103,
+      "lat": 52.668391,
+      "lng": 5.0760841,
       "types": [
         "BEG",
         "IW",
@@ -10573,7 +10574,7 @@
       "notes": "Toegankelijkheid:\nRolstoeltoegankelijk Rolstoelvriendelijk ruimte\nParkeergelegenheid aanwezig\n\nTijden:\nDeur open vanaf 19:00\n\nBusiness Meeting:\n1e dinsdag van de maand, 20:45 – 21:45\n\nTraditie meeting:\nElke 3e dinsdag van de maand: Traditie-meeting na de reguliere meeting.",
       "locationNotes": null,
       "url": "https://www.nanederland.nl/meetings/na-meeting-hoorn-dinsdag/",
-      "updated": "2026-07-13 14:53:34"
+      "updated": "2026-07-17 10:05:20"
     },
     {
       "id": "NA:na-huizen-meeting-dinsdag",
@@ -15065,10 +15066,10 @@
       "isOnline": false,
       "conferenceUrl": null,
       "conferencePhone": null,
-      "notes": "Deur open om 19:00u, 1e woensdag - Stappenwerkboek, 2e woensdag - Folder, 3e woensdag - Spreker, 4e woensdag - Topics en 5e woensdag - vrij sharen.",
-      "locationNotes": null,
+      "notes": "Deur open om 19:00u,\n\n1e woensdag - Stappenwerkboek.\n2e woensdag Hulp Vragen.\n3e woensdag - Spreker.\n4e woensdag - Topics.\n5e woensdag Tradities.\n\ncontact: Ferdy +31634725615",
+      "locationNotes": "Parkeren: De Haven of nabij de kruising Kerksteeg/Groenestraat",
       "url": "https://www.nanederland.nl/meetings/na-meeting-vollenhove/",
-      "updated": "2026-07-15 08:48:25"
+      "updated": "2026-07-17 09:53:09"
     },
     {
       "id": "NA:na-meeting-weert",
@@ -19411,18 +19412,18 @@
     {
       "id": "NA:na-meeting-ridderkerk",
       "program": "NA",
-      "name": "NA-meeting Ridderkerk. (nieuwe locatie per 23 juli 2026)",
+      "name": "NA-meeting Ridderkerk.",
       "day": 4,
       "time": "19:30",
       "endTime": "20:45",
       "timezone": "Europe/Amsterdam",
-      "location": "Buurthuis S.W.S Ridderkerk",
-      "address": "Reijerweg 62",
+      "location": "trefpunt oost",
+      "address": "De Genestetstraat 2",
       "city": "Ridderkerk",
-      "postalCode": "2983 AT",
+      "postalCode": "2985 CG",
       "region": "Zuid-Holland",
-      "lat": 51.8849687,
-      "lng": 4.6043913,
+      "lat": 51.8624031,
+      "lng": 4.604305,
       "types": [
         "BT",
         "O",
@@ -19436,7 +19437,7 @@
       "notes": "Je bent vanaf 19:00 welkom voor een praatje en koffie/thee. Nederlandstalige meeting. Elke 1e donderdag van de maand business meeting. Contactpersoon: Angelique 0613191553\n\nVanaf 23 juli zal het nieuwe adres zijn:\n\nTrefpunt Oost\nDe Genestetstraat 2\n2985 CG Ridderkerk",
       "locationNotes": "gratis parkeren.",
       "url": "https://www.nanederland.nl/meetings/na-meeting-ridderkerk/",
-      "updated": "2026-07-13 14:50:38"
+      "updated": "2026-07-17 10:31:11"
     },
     {
       "id": "NA:na-meeting-roosendaal",
