@@ -35,22 +35,29 @@ bron.
       "programs": ["NA", "AA", "CA"],
       "meetings": [
         {
-          "id": "NA:...",
+          "id": "NA:just-for-today",
           "program": "NA",              // NA | AA | CA
           "name": "Just For Today",
           "day": 1,                     // 0 = zondag
           "time": "20:00",
           "endTime": "21:30",           // 90 minuten als de bron er geen geeft
+          "timezone": "Europe/Amsterdam",
           "location": "Buurthuis De Meeuw",
-          "address": "Kanaalstraat 12",
-          "city": "Amsterdam",
-          "types": ["O"],               // O open · C besloten · ONL online · W vrouwen · M mannen
-          "lang": "nl",
-          "isOnline": false,
-          "conferenceUrl": null,
-          "lat": 52.366,
+          "address": "Kanaalstraat 12",  // null bij een online meeting
+          "city": "Amsterdam",           // null bij een online meeting
+          "postalCode": "1054 XL",       // null als de bron er geen geeft
+          "region": "Noord-Holland",     // de provincie, niet de plaats
+          "lat": 52.366,                 // null bij online of als de bron ze mist
           "lng": 4.86,
-          "notes": ""
+          "types": ["O"],               // O open · C besloten · ONL online · W vrouwen · M mannen
+          "lang": "nl",                  // "nl" | "en" | "pl" | "ru" | null
+          "isOnline": false,
+          "conferenceUrl": null,         // gevuld bij online/hybride, anders null
+          "conferencePhone": null,
+          "notes": null,                 // vrije tekst van de groep, of null
+          "locationNotes": null,         // extra uitleg over de plek, of null
+          "url": "https://www.nanederland.nl/meetings/just-for-today/",
+          "updated": "2026-07-13 14:48:49"
         }
       ]
     }
