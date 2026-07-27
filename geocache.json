@@ -1,0 +1,445 @@
+{
+ "be|181 chaussée de vleurgat, brussels": {
+  "lat": 50.8219674,
+  "lng": 4.3664933,
+  "adres": "181 Chaussée de Vleurgat, Brussels",
+  "ts": 1785163224787
+ },
+ "be|26 rue de la victoire, 1060 saint-gilles, bruxelles": {
+  "lat": 50.8319737,
+  "lng": 4.3464777,
+  "adres": "26 Rue de la Victoire, 1060 Saint-Gilles, Bruxelles",
+  "ts": 1785163224787
+ },
+ "be|27 rue charles de loupoigne, 1348 louvain-la-neuve": {
+  "lat": 50.6729074,
+  "lng": 4.6164082,
+  "adres": "27 Rue Charles de Loupoigne, 1348 Louvain-La-Neuve",
+  "ts": 1785163224787
+ },
+ "be|3 venelle des capucins, namur": {
+  "lat": 50.4651586,
+  "lng": 4.8661549,
+  "adres": "3 Venelle des Capucins, Namur",
+  "ts": 1785163224787
+ },
+ "be|3 venelles des capucins, 5000 namur": {
+  "mis": true,
+  "adres": "3 Venelles des Capucins, 5000 Namur",
+  "ts": 1785163224787
+ },
+ "be|32 chaussée de boondael 1050 ixelles, brussel": {
+  "lat": 50.8268441,
+  "lng": 4.3752685,
+  "adres": "32 Chaussée de Boondael 1050 Ixelles, Brussel",
+  "ts": 1785163224787
+ },
+ "be|32 chaussée de boondael, 1050 ixelles, espace lumen, bruxelles": {
+  "lat": 50.8268441,
+  "lng": 4.3752685,
+  "adres": "32 Chaussée de Boondael, 1050 Ixelles, Espace Lumen, Bruxelles",
+  "ts": 1785163224787
+ },
+ "be|7 rue prunieau, charleroi": {
+  "lat": 50.4076446,
+  "lng": 4.4456446,
+  "adres": "7 Rue Prunieau, Charleroi",
+  "ts": 1785163224787
+ },
+ "be|8 place du nouveau marché aux grains, bruxelles": {
+  "lat": 50.8512736,
+  "lng": 4.3444958,
+  "adres": "8 Place du nouveau marché aux grains, Bruxelles",
+  "ts": 1785163224787
+ },
+ "be|8 rue du jardin des olives, 1000 bruxelles": {
+  "lat": 50.8453562,
+  "lng": 4.3479173,
+  "adres": "8 Rue du jardin des olives, 1000 Bruxelles",
+  "ts": 1785163224787
+ },
+ "be|8 rue jardin des olives, bruxelles": {
+  "lat": 50.8453562,
+  "lng": 4.3479173,
+  "adres": "8 Rue jardin des olives, Bruxelles",
+  "ts": 1785163224787
+ },
+ "be|9 rue léon bernus, charleroi": {
+  "lat": 50.4141425,
+  "lng": 4.4493693,
+  "adres": "9 Rue Léon Bernus, Charleroi",
+  "ts": 1785163224787
+ },
+ "be|av. jacques sermon 93, 1090 jette": {
+  "lat": 50.8701016,
+  "lng": 4.3227676,
+  "adres": "Av. Jacques Sermon 93, 1090 Jette",
+  "ts": 1785163224787
+ },
+ "be|boomgaardstraat 7, antwerpen": {
+  "lat": 51.1996655,
+  "lng": 4.4168821,
+  "adres": "Boomgaardstraat 7, Antwerpen",
+  "ts": 1785163224787
+ },
+ "be|boulevard dolez 17, mons": {
+  "lat": 50.4526333,
+  "lng": 3.9602767,
+  "adres": "Boulevard Dolez 17, Mons",
+  "ts": 1785163224787
+ },
+ "be|breugelstraat 31, antwerpen": {
+  "lat": 51.1083178,
+  "lng": 4.9973607,
+  "adres": "Breugelstraat 31, Antwerpen",
+  "ts": 1785163224787
+ },
+ "be|chaussée de vleurgat 181, 1050 bruxelles": {
+  "lat": 50.8219674,
+  "lng": 4.3664933,
+  "adres": "Chaussée de Vleurgat 181, 1050 Bruxelles",
+  "ts": 1785163224787
+ },
+ "be|dokter haeckstraat 33, grembergen": {
+  "mis": true,
+  "adres": "Dokter Haeckstraat 33, Grembergen",
+  "ts": 1785163224787
+ },
+ "be|falconrui 51, antwerpen": {
+  "lat": 51.2254392,
+  "lng": 4.4082625,
+  "adres": "Falconrui 51, Antwerpen",
+  "ts": 1785163224787
+ },
+ "be|fransenplaats 1, antwerpen": {
+  "lat": 51.2004893,
+  "lng": 4.3981945,
+  "adres": "Fransenplaats 1, Antwerpen",
+  "ts": 1785163224787
+ },
+ "be|grote markt 54, kortrijk": {
+  "lat": 50.8281745,
+  "lng": 3.26408,
+  "adres": "Grote Markt 54, Kortrijk",
+  "ts": 1785163224787
+ },
+ "be|heilig-kruisstraat 16, mortsel": {
+  "lat": 51.171175,
+  "lng": 4.4471147,
+  "adres": "Heilig-Kruisstraat 16, Mortsel",
+  "ts": 1785163224787
+ },
+ "be|hofkwartier 23, herentals": {
+  "lat": 51.1786509,
+  "lng": 4.8350907,
+  "adres": "Hofkwartier 23, Herentals",
+  "ts": 1785163224787
+ },
+ "be|hundelgemsesteenweg 7, 9050 ledeberg, gent": {
+  "lat": 51.0335006,
+  "lng": 3.7408669,
+  "adres": "Hundelgemsesteenweg 7, 9050 Ledeberg, Gent",
+  "ts": 1785163224787
+ },
+ "be|kanaalbrugstraat 5c, halle": {
+  "lat": 50.7402965,
+  "lng": 4.2432158,
+  "adres": "Kanaalbrugstraat 5c, Halle",
+  "ts": 1785163224787
+ },
+ "be|kapellestraat 136, aartselaar": {
+  "lat": 51.128551,
+  "lng": 4.3897,
+  "adres": "Kapellestraat 136, Aartselaar",
+  "ts": 1785163224787
+ },
+ "be|koningin astridlaan 105, maaseik": {
+  "lat": 51.0989716,
+  "lng": 5.7727247,
+  "adres": "Koningin Astridlaan 105, Maaseik",
+  "ts": 1785163224787
+ },
+ "be|lange lozanastraat 200, antwerpen": {
+  "lat": 51.202853,
+  "lng": 4.4053598,
+  "adres": "Lange Lozanastraat 200, Antwerpen",
+  "ts": 1785163224787
+ },
+ "be|lange lozannastraat 200, antwerpen": {
+  "mis": true,
+  "adres": "Lange Lozannastraat 200, Antwerpen",
+  "ts": 1785163224787
+ },
+ "be|markt 54, mol": {
+  "lat": 51.1830532,
+  "lng": 5.1132269,
+  "adres": "Markt 54, Mol",
+  "ts": 1785163224787
+ },
+ "be|merksemsesteenweg 26, deurne": {
+  "lat": 51.2291496,
+  "lng": 4.459446,
+  "adres": "Merksemsesteenweg 26, Deurne",
+  "ts": 1785163224787
+ },
+ "be|norbert neeckxlaan 50, lommel": {
+  "lat": 51.2261254,
+  "lng": 5.3241157,
+  "adres": "Norbert Neeckxlaan 50, Lommel",
+  "ts": 1785163224787
+ },
+ "be|oud kerkhof 13, lier": {
+  "lat": 51.1285073,
+  "lng": 4.5680058,
+  "adres": "Oud Kerkhof 13, Lier",
+  "ts": 1785163224787
+ },
+ "be|parochiecentrum d'ouwe kerk, lage kaart 644, brasschaat": {
+  "lat": 51.3177515,
+  "lng": 4.5048888,
+  "adres": "Parochiecentrum d'Ouwe Kerk, Lage Kaart 644, Brasschaat",
+  "ts": 1785163224787
+ },
+ "be|peperfabriek, breughelstraat 31, antwerpen": {
+  "lat": 51.2078387,
+  "lng": 4.4149141,
+  "adres": "Peperfabriek, Breughelstraat 31, Antwerpen",
+  "ts": 1785163224787
+ },
+ "be|peter benoitlaan 6, lier": {
+  "lat": 51.1420277,
+  "lng": 4.5406251,
+  "adres": "Peter Benoitlaan 6, Lier",
+  "ts": 1785163224787
+ },
+ "be|rijkeklarenstraat 83, 8900 ieper": {
+  "lat": 50.8482242,
+  "lng": 2.8904958,
+  "adres": "Rijkeklarenstraat 83, 8900 Ieper",
+  "ts": 1785163224787
+ },
+ "be|rock in squat , n° 158 avenue de tervuren ,1150 woluwe saint pierre, bruxelles": {
+  "lat": 50.8192402,
+  "lng": 4.4779964,
+  "adres": "Rock in squat , n° 158 avenue de tervuren ,1150 Woluwe Saint Pierre, Bruxelles",
+  "ts": 1785163224787
+ },
+ "be|rue buisseret 1, 4000 liège": {
+  "lat": 50.6233443,
+  "lng": 5.5713458,
+  "adres": "Rue Buisseret 1, 4000 Liège",
+  "ts": 1785163224787
+ },
+ "be|rue de la stratégie 3, 1160 auderghem, bruxelles": {
+  "lat": 50.8239067,
+  "lng": 4.4004549,
+  "adres": "Rue de la stratégie 3, 1160 Auderghem, Bruxelles",
+  "ts": 1785163224787
+ },
+ "be|rue du jardin des olives 8, bruxelles": {
+  "lat": 50.8453562,
+  "lng": 4.3479173,
+  "adres": "Rue du Jardin des Olives 8, Bruxelles",
+  "ts": 1785163224787
+ },
+ "be|rue prunieau, 7, charleroi": {
+  "lat": 50.4076446,
+  "lng": 4.4456446,
+  "adres": "Rue Prunieau, 7, Charleroi",
+  "ts": 1785163224787
+ },
+ "be|salvatorstraat 25, hasselt": {
+  "lat": 50.9135613,
+  "lng": 5.3443122,
+  "adres": "Salvatorstraat 25, Hasselt",
+  "ts": 1785163224787
+ },
+ "be|schijfstraat 105, kiel": {
+  "lat": 51.19068,
+  "lng": 4.3731735,
+  "adres": "Schijfstraat 105, Kiel",
+  "ts": 1785163224787
+ },
+ "be|schoytestraat 19, antwerpen": {
+  "lat": 51.2150977,
+  "lng": 4.3997447,
+  "adres": "Schoytestraat 19, Antwerpen",
+  "ts": 1785163224787
+ },
+ "be|sint pietersvliet 11, antwerpen": {
+  "lat": 51.2259832,
+  "lng": 4.4009841,
+  "adres": "Sint Pietersvliet 11, Antwerpen",
+  "ts": 1785163224787
+ },
+ "be|st andrew's church, chaussée de vleurgat 181, 1050 bruxelles, brussels": {
+  "lat": 50.8219674,
+  "lng": 4.3664933,
+  "adres": "St Andrew's Church, Chaussée de Vleurgat 181, 1050 Bruxelles, Brussels",
+  "ts": 1785163224787
+ },
+ "be|st andrew's church, chaussée de vleurgat 181, bruxelles": {
+  "lat": 50.8219674,
+  "lng": 4.3664933,
+  "adres": "St Andrew's Church, Chaussée de Vleurgat 181, Bruxelles",
+  "ts": 1785163224787
+ },
+ "be|stationstraat 41, sint truiden": {
+  "mis": true,
+  "adres": "Stationstraat 41, Sint Truiden",
+  "ts": 1785163224787
+ },
+ "be|stationstraat 80, turnhout": {
+  "lat": 51.3237523,
+  "lng": 4.9399124,
+  "adres": "Stationstraat 80, Turnhout",
+  "ts": 1785163224787
+ },
+ "be|streekweg 11, balen": {
+  "lat": 51.1921088,
+  "lng": 5.1825962,
+  "adres": "Streekweg 11, Balen",
+  "ts": 1785163224787
+ },
+ "be|van schoonbekestraat 54, antwerpen": {
+  "lat": 51.2030424,
+  "lng": 4.4075143,
+  "adres": "Van Schoonbekestraat 54, Antwerpen",
+  "ts": 1785163224787
+ },
+ "be|velderblok 2a, kessel-lo": {
+  "lat": 50.9006627,
+  "lng": 4.7315666,
+  "adres": "Velderblok 2a, Kessel-Lo",
+  "ts": 1785163224787
+ },
+ "be|venusstraat 11, antwerpen": {
+  "lat": 51.2240166,
+  "lng": 4.409354,
+  "adres": "Venusstraat 11, Antwerpen",
+  "ts": 1785163224787
+ },
+ "be|villa rijckendael, grote winkellaan 106, strombeek": {
+  "mis": true,
+  "adres": "Villa Rijckendael, Grote Winkellaan 106, Strombeek",
+  "ts": 1785163224787
+ },
+ "be|vlasdam 7;, lokeren": {
+  "lat": 51.1034973,
+  "lng": 3.9843719,
+  "adres": "Vlasdam 7;, Lokeren",
+  "ts": 1785163224787
+ },
+ "be|vrijdagmarkt 9, gent": {
+  "lat": 51.057566,
+  "lng": 3.7250866,
+  "adres": "Vrijdagmarkt 9, Gent",
+  "ts": 1785163224787
+ },
+ "be|zegelstraat 13, borgerhout": {
+  "lat": 51.2140153,
+  "lng": 4.443812,
+  "adres": "Zegelstraat 13, Borgerhout",
+  "ts": 1785163224787
+ },
+ "be|zuiderlaan 42, waregem": {
+  "lat": 50.8808867,
+  "lng": 3.4327611,
+  "adres": "Zuiderlaan 42, Waregem",
+  "ts": 1785163224787
+ },
+ "ca|310 york st, cornwall, ontario, québec, k6j 3z3": {
+  "lat": 45.4320172,
+  "lng": -75.6828317,
+  "adres": "310 York St, Cornwall, Ontario, Québec, K6J 3Z3",
+  "ts": 1785163224787
+ },
+ "ca|356 rue waterloo, waterloo, québec, j0e 2n0": {
+  "lat": 45.3432756,
+  "lng": -72.5262228,
+  "adres": "356 Rue Waterloo, Waterloo, Québec, J0E 2N0",
+  "ts": 1785163224787
+ },
+ "ca|499 5e avenue, église st-paul , shawinigan, secteur grand-mère, québec, g9t 2m3": {
+  "lat": 48.3848977,
+  "lng": -77.2390678,
+  "adres": "499 5e avenue, église St-Paul , Shawinigan, secteur Grand-Mère, Québec, G9T 2M3",
+  "ts": 1785163224787
+ },
+ "lv|bārddziņu iela 2, rīga": {
+  "lat": 56.9390506,
+  "lng": 24.1321099,
+  "adres": "Bārddziņu iela 2, Rīga",
+  "ts": 1785163224787
+ },
+ "lv|deglava iela 63a, rīga": {
+  "lat": 56.9505354,
+  "lng": 24.1840724,
+  "adres": "Deglava iela 63a, Rīga",
+  "ts": 1785163224787
+ },
+ "lv|filozofu iela 69, ģintermuiža, jelgava": {
+  "lat": 56.6380216,
+  "lng": 23.6924823,
+  "adres": "Filozofu iela 69, Ģintermuiža, Jelgava",
+  "ts": 1785163224787
+ },
+ "lv|mālkalnes prospekts 30, lv-5001, ogre": {
+  "lat": 56.8225082,
+  "lng": 24.5999874,
+  "adres": "Mālkalnes prospekts 30, LV-5001, Ogre",
+  "ts": 1785163224787
+ },
+ "lv|rūpniecības iela 22, 1. stāvs, ventspils": {
+  "lat": 57.380923,
+  "lng": 21.5928262,
+  "adres": "Rūpniecības iela 22, 1. stāvs, Ventspils",
+  "ts": 1785163224787
+ },
+ "lv|rūpniecības iela 7, bauskas pilsēta, bauskas sociālais dienests, bauska": {
+  "lat": 56.4073317,
+  "lng": 24.1803715,
+  "adres": "Rūpniecības iela 7, Bauskas pilsēta, Bauskas sociālais dienests, Bauska",
+  "ts": 1785163224787
+ },
+ "lv|src \"ratnieki\", salas pagasts, lv-2105, mārupes novads": {
+  "mis": true,
+  "adres": "SRC \"Ratnieki\", Salas pagasts, LV-2105, Mārupes novads",
+  "ts": 1785163224787
+ },
+ "lv|stabu iela 11, rīga": {
+  "lat": 56.9592672,
+  "lng": 24.1227601,
+  "adres": "Stabu iela 11, Rīga",
+  "ts": 1785163224787
+ },
+ "lv|torņkalna iela 3, rīga": {
+  "mis": true,
+  "adres": "Torņkalna iela 3, Rīga",
+  "ts": 1785163224787
+ },
+ "lv|vidrižu iela 1c, rīga": {
+  "lat": 56.9778015,
+  "lng": 24.1775828,
+  "adres": "Vidrižu iela 1C, Rīga",
+  "ts": 1785163224787
+ },
+ "nl|nieuwe markt 3c, uden": {
+  "lat": 51.6560212,
+  "lng": 5.6166845,
+  "adres": "Nieuwe markt 3c, Uden",
+  "ts": 1785163224787
+ },
+ "nl|wittenburgstraat 14, zevenaar": {
+  "lat": 51.9270824,
+  "lng": 6.0768315,
+  "adres": "Wittenburgstraat 14, Zevenaar",
+  "ts": 1785163224787
+ },
+ "nl|zenderenbrink 4, 7544 dz, enschede": {
+  "lat": 52.1940094,
+  "lng": 6.8766727,
+  "adres": "Zenderenbrink 4, 7544 DZ, Enschede",
+  "ts": 1785163224787
+ }
+}
