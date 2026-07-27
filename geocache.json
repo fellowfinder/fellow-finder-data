@@ -3058,11 +3058,479 @@
   "adres": "Zeharkalea, 34, Ermua",
   "ts": 1785182768819
  },
+ "fr|1 av. de la division leclerc, puteaux": {
+  "lat": 48.8949287,
+  "lng": 2.2405569,
+  "adres": "1 Av. de la Division Leclerc, Puteaux",
+  "ts": 1785184761256
+ },
+ "fr|1 avenue des broussailles, cannes, france": {
+  "lat": 43.5615315,
+  "lng": 7.0048045,
+  "adres": "1 Avenue des Broussailles, Cannes, France",
+  "ts": 1785184761256
+ },
+ "fr|1 avenue dr paul pompidor, narbonne, france": {
+  "mis": true,
+  "adres": "1 Avenue Dr Paul Pompidor, Narbonne, France",
+  "ts": 1785184761256
+ },
+ "fr|1 pl. de la mairie, saint-évarzec": {
+  "lat": 47.9363947,
+  "lng": -4.0229368,
+  "adres": "1 Pl. de la Mairie, Saint-Évarzec",
+  "ts": 1785184761256
+ },
+ "fr|1 pl. des anciens combattants d'afrique du n, antony": {
+  "mis": true,
+  "adres": "1 Pl. des Anciens Combattants d'Afrique du N, Antony",
+  "ts": 1785184761256
+ },
+ "fr|1 place 1er mai, castres, france": {
+  "mis": true,
+  "adres": "1 Place 1er Mai, Castres, France",
+  "ts": 1785184761256
+ },
+ "fr|1 place saint-vivien, saintes, france": {
+  "lat": 45.7496249,
+  "lng": -0.6340678,
+  "adres": "1 Place Saint-Vivien, Saintes, France",
+  "ts": 1785184761256
+ },
+ "fr|1 rue alexandre ribot, brest": {
+  "lat": 48.3980715,
+  "lng": -4.4842584,
+  "adres": "1 Rue Alexandre Ribot, Brest",
+  "ts": 1785184761256
+ },
+ "fr|1 rue cabanis, paris, france": {
+  "lat": 48.8283176,
+  "lng": 2.3390755,
+  "adres": "1 Rue Cabanis, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|1 rue de plouénan, saint-pol-de-léon, france": {
+  "lat": 48.675675,
+  "lng": -3.988795,
+  "adres": "1 Rue de Plouénan, Saint-Pol-de-Léon, France",
+  "ts": 1785184761256
+ },
+ "fr|1 rue du coetlosquet, metz": {
+  "lat": 49.1152294,
+  "lng": 6.1744544,
+  "adres": "1 Rue du Coetlosquet, Metz",
+  "ts": 1785184761256
+ },
+ "fr|1 rue du dr emile maillard, cholet, france": {
+  "mis": true,
+  "adres": "1 Rue du Dr Emile Maillard, Cholet, France",
+  "ts": 1785184761256
+ },
+ "fr|1 rue du presbytère, douvaine": {
+  "lat": 46.30592,
+  "lng": 6.2989776,
+  "adres": "1 Rue du Presbytère, Douvaine",
+  "ts": 1785184761256
+ },
+ "fr|1 rue jean moulin, charleville-mézières, france": {
+  "lat": 49.7519396,
+  "lng": 4.7323088,
+  "adres": "1 Rue Jean Moulin, Charleville-Mézières, France",
+  "ts": 1785184761256
+ },
+ "fr|1 rue jean paul sartre, le havre, france": {
+  "lat": 49.4962576,
+  "lng": 0.1136091,
+  "adres": "1 Rue Jean Paul Sartre, Le Havre, France",
+  "ts": 1785184761256
+ },
+ "fr|1 rue jean sarment, pornic, france": {
+  "lat": 47.123941,
+  "lng": -2.1122058,
+  "adres": "1 Rue Jean Sarment, Pornic, France",
+  "ts": 1785184761256
+ },
+ "fr|1 rue roger salengro, escaudain": {
+  "lat": 50.3272465,
+  "lng": 3.3583476,
+  "adres": "1 Rue Roger Salengro, Escaudain",
+  "ts": 1785184761256
+ },
+ "fr|1 rue saint-nicolas, sarreguemines": {
+  "lat": 49.1107164,
+  "lng": 7.0653595,
+  "adres": "1 Rue Saint-Nicolas, Sarreguemines",
+  "ts": 1785184761256
+ },
+ "fr|1 rue surcouf, le barcarès, france": {
+  "lat": 42.7888514,
+  "lng": 3.0364733,
+  "adres": "1 Rue Surcouf, Le Barcarès, France",
+  "ts": 1785184761256
+ },
+ "fr|1 rue théophile gautier, saint-quentin, france": {
+  "lat": 49.8525965,
+  "lng": 3.2809976,
+  "adres": "1 Rue Théophile Gautier, Saint-Quentin, France",
+  "ts": 1785184761256
+ },
+ "fr|10 rue anatole de monzie, nantes": {
+  "lat": 47.20355,
+  "lng": -1.5412985,
+  "adres": "10 Rue Anatole de Monzie, Nantes",
+  "ts": 1785184761256
+ },
+ "fr|10 rue de la fontaine, torcy, france": {
+  "lat": 48.844085,
+  "lng": 2.6522324,
+  "adres": "10 Rue de la Fontaine, Torcy, France",
+  "ts": 1785184761256
+ },
+ "fr|10 rue des carreaux, boulogne-sur-mer": {
+  "lat": 50.7252735,
+  "lng": 1.6081107,
+  "adres": "10 Rue des Carreaux, Boulogne-sur-Mer",
+  "ts": 1785184761256
+ },
+ "fr|10 rue mirabeau, rennes, france": {
+  "lat": 48.1222275,
+  "lng": -1.6497141,
+  "adres": "10 Rue Mirabeau, Rennes, France",
+  "ts": 1785184761256
+ },
+ "fr|10 rue saint-georges, bergerac, france": {
+  "lat": 44.8516759,
+  "lng": 0.4838368,
+  "adres": "10 Rue Saint-Georges, Bergerac, France",
+  "ts": 1785184761256
+ },
+ "fr|10 rue sainte-elisabeth, paris, france": {
+  "lat": 48.8660436,
+  "lng": 2.3597003,
+  "adres": "10 Rue Sainte-Elisabeth, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|10 rue sergent bobillot, grenoble, france": {
+  "lat": 45.1822727,
+  "lng": 5.7208836,
+  "adres": "10 Rue Sergent Bobillot, Grenoble, France",
+  "ts": 1785184761256
+ },
+ "fr|100 rue georges clemenceau, marennes, france": {
+  "lat": 45.823713,
+  "lng": -1.106562,
+  "adres": "100 Rue Georges Clemenceau, Marennes, France",
+  "ts": 1785184761256
+ },
+ "fr|101 boulevard des états-unis, lyon, france": {
+  "lat": 45.7301653,
+  "lng": 4.8672642,
+  "adres": "101 Boulevard des États-Unis, Lyon, France",
+  "ts": 1785184761256
+ },
+ "fr|101 rue de paris, tournan-en-brie": {
+  "lat": 48.7384717,
+  "lng": 2.7521776,
+  "adres": "101 Rue de Paris, Tournan-en-Brie",
+  "ts": 1785184761256
+ },
+ "fr|109 av. de la gare de saint-joseph, nantes": {
+  "lat": 47.2583314,
+  "lng": -1.5205756,
+  "adres": "109 Av. de la Gare de Saint-Joseph, Nantes",
+  "ts": 1785184761256
+ },
+ "fr|11 avenue de boufflers, nancy": {
+  "lat": 48.6887235,
+  "lng": 6.1635706,
+  "adres": "11 Avenue de Boufflers, Nancy",
+  "ts": 1785184761256
+ },
+ "fr|11 boulevard henri régnier, paray-le-monial, france": {
+  "lat": 46.4522611,
+  "lng": 4.1128229,
+  "adres": "11 Boulevard Henri Régnier, Paray-le-Monial, France",
+  "ts": 1785184761256
+ },
+ "fr|11 rue de la buffa, nice": {
+  "lat": 43.6972435,
+  "lng": 7.2638377,
+  "adres": "11 Rue de la Buffa, Nice",
+  "ts": 1785184761256
+ },
+ "fr|11 rue de la buffa, nice, france": {
+  "lat": 43.6972435,
+  "lng": 7.2638377,
+  "adres": "11 Rue de la Buffa, Nice, France",
+  "ts": 1785184761256
+ },
+ "fr|11 rue de la mairie, domont, france": {
+  "lat": 49.0250561,
+  "lng": 2.3260244,
+  "adres": "11 Rue de la Mairie, Domont, France",
+  "ts": 1785184761256
+ },
+ "fr|11 rue de la république, blanquefort, france": {
+  "lat": 44.9093093,
+  "lng": -0.632515,
+  "adres": "11 Rue de la République, Blanquefort, France",
+  "ts": 1785184761256
+ },
+ "fr|11 rue de vuillecin, pontarlier, france": {
+  "lat": 46.9192256,
+  "lng": 6.3425693,
+  "adres": "11 Rue de Vuillecin, Pontarlier, France",
+  "ts": 1785184761256
+ },
+ "fr|11 rue des saulées, chamalières, france": {
+  "lat": 45.7768917,
+  "lng": 3.0663776,
+  "adres": "11 Rue des Saulées, Chamalières, France",
+  "ts": 1785184761256
+ },
+ "fr|11 rue du marché, enghien-les-bains, france": {
+  "lat": 48.9692397,
+  "lng": 2.3106259,
+  "adres": "11 Rue du Marché, Enghien-les-Bains, France",
+  "ts": 1785184761256
+ },
+ "fr|11 rue du vilar, perpignan, france": {
+  "lat": 42.6825239,
+  "lng": 2.9043574,
+  "adres": "11 Rue du Vilar, Perpignan, France",
+  "ts": 1785184761256
+ },
+ "fr|11 rue fernand chapsal, saintes, france": {
+  "lat": 45.7439938,
+  "lng": -0.634064,
+  "adres": "11 Rue Fernand Chapsal, Saintes, France",
+  "ts": 1785184761256
+ },
+ "fr|111 imp. marcel dubois, hénin-beaumont, france": {
+  "lat": 50.410637,
+  "lng": 2.937413,
+  "adres": "111 Imp. Marcel Dubois, Hénin-Beaumont, France",
+  "ts": 1785184761256
+ },
+ "fr|113 av. philippon, pau": {
+  "lat": 43.3240989,
+  "lng": -0.3603542,
+  "adres": "113 Av. Philippon, Pau",
+  "ts": 1785184761256
+ },
+ "fr|113 rue du général leclerc, créteil, france": {
+  "lat": 48.789184,
+  "lng": 2.466697,
+  "adres": "113 Rue du Général Leclerc, Créteil, France",
+  "ts": 1785184761256
+ },
+ "fr|115 rue de la santé, paris, france": {
+  "lat": 48.8286755,
+  "lng": 2.3417204,
+  "adres": "115 Rue de la Santé, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|115 rue saint-gabriel, lille": {
+  "lat": 50.6397703,
+  "lng": 3.0866137,
+  "adres": "115 Rue Saint-Gabriel, Lille",
+  "ts": 1785184761256
+ },
+ "fr|116 rue du commerce, gex": {
+  "lat": 46.332907,
+  "lng": 6.0574247,
+  "adres": "116 Rue du Commerce, Gex",
+  "ts": 1785184761256
+ },
+ "fr|12 bd robert schuman, angers, france": {
+  "lat": 47.4890744,
+  "lng": -0.5271021,
+  "adres": "12 Bd Robert Schuman, Angers, France",
+  "ts": 1785184761256
+ },
+ "fr|12 place du gén de gaulle, civray": {
+  "mis": true,
+  "adres": "12 Place du Gén de Gaulle, Civray",
+  "ts": 1785184761256
+ },
+ "fr|12 rue daru, paris, france": {
+  "lat": 48.8776132,
+  "lng": 2.301992,
+  "adres": "12 Rue Daru, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|12 rue de l'aqueduc, paris": {
+  "lat": 48.8803399,
+  "lng": 2.359723,
+  "adres": "12 Rue de l'Aqueduc, Paris",
+  "ts": 1785184761256
+ },
  "fr|12 rue de la libération, saint-andré-de-l'eure": {
   "lat": 48.9028713,
   "lng": 1.2735816,
   "adres": "12 Rue de la Libération, Saint-André-de-l'Eure",
   "ts": 1785182768819
+ },
+ "fr|12 rue des fossés saint-jacques, paris": {
+  "lat": 48.8456307,
+  "lng": 2.344132,
+  "adres": "12 Rue des Fossés Saint-Jacques, Paris",
+  "ts": 1785184761256
+ },
+ "fr|12 rue gustave eiffel, saint-brieuc, france": {
+  "lat": 48.5187842,
+  "lng": -2.7779649,
+  "adres": "12 Rue Gustave Eiffel, Saint-Brieuc, France",
+  "ts": 1785184761256
+ },
+ "fr|12 rue joseph cugnot, niort, france": {
+  "lat": 46.3157471,
+  "lng": -0.4785306,
+  "adres": "12 Rue Joseph Cugnot, Niort, France",
+  "ts": 1785184761256
+ },
+ "fr|12 rue pierre castagnou, paris": {
+  "lat": 48.8328018,
+  "lng": 2.3259657,
+  "adres": "12 Rue Pierre Castagnou, Paris",
+  "ts": 1785184761256
+ },
+ "fr|12 rue renaud de bourgogne, montbéliard, france": {
+  "lat": 47.520899,
+  "lng": 6.786757,
+  "adres": "12 Rue Renaud de Bourgogne, Montbéliard, France",
+  "ts": 1785184761256
+ },
+ "fr|123 boulevard de port-royal, paris, france": {
+  "lat": 48.8390915,
+  "lng": 2.3380946,
+  "adres": "123 Boulevard de Port-Royal, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|125 avenue jean rieux, toulouse, france": {
+  "lat": 43.5941258,
+  "lng": 1.4660171,
+  "adres": "125 Avenue Jean Rieux, Toulouse, France",
+  "ts": 1785184761256
+ },
+ "fr|125 rue des tuilières, limoges": {
+  "lat": 45.8512338,
+  "lng": 1.2528285,
+  "adres": "125 Rue des Tuilières, Limoges",
+  "ts": 1785184761256
+ },
+ "fr|13 place etienne pernet, paris, france": {
+  "lat": 48.8429149,
+  "lng": 2.2927819,
+  "adres": "13 Place Etienne Pernet, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|13 rue châteaubriand, pluduno, france": {
+  "lat": 48.5308402,
+  "lng": -2.2669736,
+  "adres": "13 Rue Châteaubriand, Pluduno, France",
+  "ts": 1785184761256
+ },
+ "fr|13 rue de l hôtel dieu, brienon-sur-armançon": {
+  "lat": 47.9920838,
+  "lng": 3.6161514,
+  "adres": "13 Rue de L Hôtel Dieu, Brienon-sur-Armançon",
+  "ts": 1785184761256
+ },
+ "fr|13 rue montaigne, auch, france": {
+  "lat": 43.6372036,
+  "lng": 0.5938038,
+  "adres": "13 Rue Montaigne, Auch, France",
+  "ts": 1785184761256
+ },
+ "fr|13 rue roger maillard, andernos-les-bains, france": {
+  "lat": 44.740185,
+  "lng": -1.097858,
+  "adres": "13 Rue Roger Maillard, Andernos-les-Bains, France",
+  "ts": 1785184761256
+ },
+ "fr|130 av. charles de gaulle, montauban": {
+  "lat": 44.008581,
+  "lng": 1.372578,
+  "adres": "130 Av. Charles de Gaulle, Montauban",
+  "ts": 1785184761256
+ },
+ "fr|135 rue du président coty, tourcoing, france": {
+  "lat": 50.743236,
+  "lng": 3.18194,
+  "adres": "135 Rue du Président Coty, Tourcoing, France",
+  "ts": 1785184761256
+ },
+ "fr|14 avenue de vichy, abrest, france": {
+  "lat": 46.0987925,
+  "lng": 3.445003,
+  "adres": "14 Avenue de Vichy, Abrest, France",
+  "ts": 1785184761256
+ },
+ "fr|14 avenue du général leclerc, nogaro, france": {
+  "lat": 43.7582272,
+  "lng": -0.0312217,
+  "adres": "14 Avenue du Général Leclerc, Nogaro, France",
+  "ts": 1785184761256
+ },
+ "fr|14 avenue jean jaurès, saint-dié-des-vosges, france": {
+  "lat": 48.2820185,
+  "lng": 6.9596846,
+  "adres": "14 Avenue Jean Jaurès, Saint-Dié-des-Vosges, France",
+  "ts": 1785184761256
+ },
+ "fr|14 place du 14 juillet, parentis-en-born, france": {
+  "mis": true,
+  "adres": "14 Place du 14 Juillet, Parentis-en-Born, France",
+  "ts": 1785184761256
+ },
+ "fr|14 rue des prêtres, remiremont": {
+  "lat": 48.0161691,
+  "lng": 6.5922217,
+  "adres": "14 Rue des Prêtres, Remiremont",
+  "ts": 1785184761256
+ },
+ "fr|14 rue du parc, bois-d'arcy, france": {
+  "lat": 48.798906,
+  "lng": 2.023523,
+  "adres": "14 Rue du Parc, Bois-d'Arcy, France",
+  "ts": 1785184761256
+ },
+ "fr|1427 av. roger salengro, chaville": {
+  "lat": 48.8094091,
+  "lng": 2.1892644,
+  "adres": "1427 Av. Roger Salengro, Chaville",
+  "ts": 1785184761256
+ },
+ "fr|146 av. du général patton, angers, france": {
+  "lat": 47.4729951,
+  "lng": -0.6046519,
+  "adres": "146 Av. du Général Patton, Angers, France",
+  "ts": 1785184761256
+ },
+ "fr|15 avenue tarayre, rodez, france": {
+  "lat": 44.3566199,
+  "lng": 2.5785876,
+  "adres": "15 Avenue Tarayre, Rodez, France",
+  "ts": 1785184761256
+ },
+ "fr|15 pl. de la marotte, carpentras, france": {
+  "lat": 44.0544806,
+  "lng": 5.0444163,
+  "adres": "15 Pl. de la Marotte, Carpentras, France",
+  "ts": 1785184761256
+ },
+ "fr|15 rue charles milcendeau, saint-jean-de-monts": {
+  "lat": 46.792023,
+  "lng": -2.0594405,
+  "adres": "15 Rue Charles Milcendeau, Saint-Jean-de-Monts",
+  "ts": 1785184761256
+ },
+ "fr|153 gr grande rue, aigueperse, france": {
+  "lat": 46.0310155,
+  "lng": 3.208729,
+  "adres": "153 Gr Grande Rue, Aigueperse, France",
+  "ts": 1785184761256
  },
  "fr|16 rue aristide briand, arras, france": {
   "lat": 50.29015,
@@ -3070,11 +3538,225 @@
   "adres": "16 Rue Aristide Briand, Arras, France",
   "ts": 1785182768819
  },
+ "fr|16 rue becot, paimpol": {
+  "lat": 48.7791444,
+  "lng": -3.0526993,
+  "adres": "16 Rue Becot, Paimpol",
+  "ts": 1785184761256
+ },
+ "fr|16 rue jean fieyre, brive-la-gaillarde": {
+  "lat": 45.1542838,
+  "lng": 1.5357235,
+  "adres": "16 Rue Jean Fieyre, Brive-la-Gaillarde",
+  "ts": 1785184761256
+ },
+ "fr|163 rue de paris, beauvais": {
+  "lat": 49.4172105,
+  "lng": 2.0979452,
+  "adres": "163 Rue de Paris, Beauvais",
+  "ts": 1785184761256
+ },
+ "fr|167 rue du général gerhardt, saint-lô": {
+  "lat": 49.1190365,
+  "lng": -1.0782437,
+  "adres": "167 Rue du Général Gerhardt, Saint-Lô",
+  "ts": 1785184761256
+ },
+ "fr|17 rue bayard, paris": {
+  "lat": 48.8667842,
+  "lng": 2.3076755,
+  "adres": "17 Rue Bayard, Paris",
+  "ts": 1785184761256
+ },
+ "fr|17 rue bayard, paris, france": {
+  "lat": 48.8667842,
+  "lng": 2.3076755,
+  "adres": "17 Rue Bayard, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|17 rue de la charbonnière, toulouse": {
+  "lat": 43.5738982,
+  "lng": 1.4482655,
+  "adres": "17 Rue de la Charbonnière, Toulouse",
+  "ts": 1785184761256
+ },
+ "fr|17 rue de la gare, pont-l'abbé, france": {
+  "lat": 47.8718533,
+  "lng": -4.2241823,
+  "adres": "17 Rue de la Gare, Pont-l'Abbé, France",
+  "ts": 1785184761256
+ },
+ "fr|17 rue des tanneurs, nemours, france": {
+  "mis": true,
+  "adres": "17 Rue des Tanneurs, Nemours, France",
+  "ts": 1785184761256
+ },
+ "fr|17 rue jean jaurès, rochefort, france": {
+  "lat": 45.9385272,
+  "lng": -0.9588374,
+  "adres": "17 Rue Jean Jaurès, Rochefort, France",
+  "ts": 1785184761256
+ },
+ "fr|17 rue périn, reims": {
+  "lat": 49.2647385,
+  "lng": 4.0252505,
+  "adres": "17 Rue Périn, Reims",
+  "ts": 1785184761256
+ },
+ "fr|17 rue saint-jean, dreux, france": {
+  "lat": 48.7389768,
+  "lng": 1.3690338,
+  "adres": "17 Rue Saint-Jean, Dreux, France",
+  "ts": 1785184761256
+ },
+ "fr|173 av. louis barthou, bordeaux": {
+  "lat": 44.8524625,
+  "lng": -0.615885,
+  "adres": "173 Av. Louis Barthou, Bordeaux",
+  "ts": 1785184761256
+ },
  "fr|177 rue du général de gaulle, la madeleine": {
   "lat": 50.6557615,
   "lng": 3.0732642,
   "adres": "177 Rue du Général de Gaulle, La Madeleine",
   "ts": 1785182768819
+ },
+ "fr|178 rue des renouillers, colombes, france": {
+  "lat": 48.925119,
+  "lng": 2.236357,
+  "adres": "178 Rue des Renouillers, Colombes, France",
+  "ts": 1785184761256
+ },
+ "fr|18 av. de la grangette, thonon-les-bains": {
+  "lat": 46.3631856,
+  "lng": 6.4664649,
+  "adres": "18 Av. de la Grangette, Thonon-les-Bains",
+  "ts": 1785184761256
+ },
+ "fr|18 imp. des oliviers, st paul": {
+  "lat": -21.047202,
+  "lng": 55.2682275,
+  "adres": "18 Imp. des Oliviers, St Paul",
+  "ts": 1785184761256
+ },
+ "fr|18 rue claude lorrain, paris": {
+  "lat": 48.8413774,
+  "lng": 2.2616539,
+  "adres": "18 Rue Claude Lorrain, Paris",
+  "ts": 1785184761256
+ },
+ "fr|18 rue des écoles, saint-cloud, france": {
+  "lat": 48.8416736,
+  "lng": 2.2177169,
+  "adres": "18 Rue des Écoles, Saint-Cloud, France",
+  "ts": 1785184761256
+ },
+ "fr|181 avenue daumesnil, paris, france": {
+  "lat": 48.8406306,
+  "lng": 2.392475,
+  "adres": "181 Avenue Daumesnil, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|184 rue du faubourg saint-antoine, paris, france": {
+  "lat": 48.8474086,
+  "lng": 2.3821554,
+  "adres": "184 Rue du Faubourg Saint-Antoine, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|187 avenue du mortier, saint-géréon, france": {
+  "lat": 47.3684154,
+  "lng": -1.2010772,
+  "adres": "187 Avenue du Mortier, Saint-Géréon, France",
+  "ts": 1785184761256
+ },
+ "fr|19 avenue de montrouge, bourg-la-reine": {
+  "lat": 48.7889176,
+  "lng": 2.3135353,
+  "adres": "19 Avenue de Montrouge, Bourg-la-Reine",
+  "ts": 1785184761256
+ },
+ "fr|19 avenue rené coty, lillebonne, france": {
+  "lat": 49.5196504,
+  "lng": 0.5439257,
+  "adres": "19 Avenue René Coty, Lillebonne, France",
+  "ts": 1785184761256
+ },
+ "fr|19 rue de sarthe, sablé-sur-sarthe": {
+  "lat": 47.836782,
+  "lng": -0.3285915,
+  "adres": "19 Rue de Sarthe, Sablé-sur-Sarthe",
+  "ts": 1785184761256
+ },
+ "fr|198 rue du faubourg du pont neuf, poitiers": {
+  "lat": 46.5726545,
+  "lng": 0.3626411,
+  "adres": "198 Rue du Faubourg du Pont Neuf, Poitiers",
+  "ts": 1785184761256
+ },
+ "fr|1a rue des vallons, altkirch, france": {
+  "lat": 47.6189082,
+  "lng": 7.2325738,
+  "adres": "1a Rue des Vallons, Altkirch, France",
+  "ts": 1785184761256
+ },
+ "fr|2 av. d'europe, muret": {
+  "lat": 43.4700058,
+  "lng": 1.3310479,
+  "adres": "2 Av. d'Europe, Muret",
+  "ts": 1785184761256
+ },
+ "fr|2 avenue émile cloud, serris, france": {
+  "mis": true,
+  "adres": "2 Avenue Émile Cloud, Serris, France",
+  "ts": 1785184761256
+ },
+ "fr|2 bis av. de coat kaer, quimperlé": {
+  "lat": 47.874386,
+  "lng": -3.553435,
+  "adres": "2 bis Av. de Coat Kaer, Quimperlé",
+  "ts": 1785184761256
+ },
+ "fr|2 bis rue de l'autan blanc, l'union": {
+  "lat": 43.6617056,
+  "lng": 1.4877724,
+  "adres": "2 Bis Rue de l'Autan Blanc, L'Union",
+  "ts": 1785184761256
+ },
+ "fr|2 bis rue saint-léger, saint-germain-en-laye, france": {
+  "lat": 48.8953661,
+  "lng": 2.0802043,
+  "adres": "2 bis Rue Saint-Léger, Saint-Germain-en-Laye, France",
+  "ts": 1785184761256
+ },
+ "fr|2 boulevard d'aurelle de paladines, paris, france": {
+  "lat": 48.8815843,
+  "lng": 2.2839631,
+  "adres": "2 Boulevard d'Aurelle de Paladines, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|2 impasse jean macé, nîmes, france": {
+  "lat": 43.8184549,
+  "lng": 4.3648383,
+  "adres": "2 Impasse Jean Macé, Nîmes, France",
+  "ts": 1785184761256
+ },
+ "fr|2 place cappel, sedan, france": {
+  "lat": 49.7019949,
+  "lng": 4.9455972,
+  "adres": "2 Place Cappel, Sedan, France",
+  "ts": 1785184761256
+ },
+ "fr|2 rue de la bride, tulle": {
+  "lat": 45.2690479,
+  "lng": 1.7708369,
+  "adres": "2 Rue de la Bride, Tulle",
+  "ts": 1785184761256
+ },
+ "fr|2 rue de la charité, lunéville": {
+  "lat": 48.5926799,
+  "lng": 6.4938158,
+  "adres": "2 Rue de la Charité, Lunéville",
+  "ts": 1785184761256
  },
  "fr|2 rue de la surveillance, compiègne": {
   "lat": 49.4177785,
@@ -3082,11 +3764,488 @@
   "adres": "2 Rue de la Surveillance, Compiègne",
   "ts": 1785182768819
  },
+ "fr|2 rue des ateliers, dax, france": {
+  "lat": 43.7077228,
+  "lng": -1.0410497,
+  "adres": "2 Rue des Ateliers, Dax, France",
+  "ts": 1785184761256
+ },
+ "fr|2 rue des bienfaiteurs, saint-junien, france": {
+  "lat": 45.9159789,
+  "lng": 0.9411167,
+  "adres": "2 Rue des Bienfaiteurs, Saint-Junien, France",
+  "ts": 1785184761256
+ },
+ "fr|2 rue des tulipes, orléans": {
+  "lat": 47.86655,
+  "lng": 1.7638628,
+  "adres": "2 Rue des Tulipes, Orléans",
+  "ts": 1785184761256
+ },
+ "fr|2 rue des écoles, migennes": {
+  "lat": 47.965242,
+  "lng": 3.5216158,
+  "adres": "2 Rue des Écoles, Migennes",
+  "ts": 1785184761256
+ },
+ "fr|2 rue du général ferrié, cannes": {
+  "lat": 43.550603,
+  "lng": 7.028301,
+  "adres": "2 Rue du Général Ferrié, Cannes",
+  "ts": 1785184761256
+ },
+ "fr|2 rue emile zola, barentin, france": {
+  "lat": 49.5475784,
+  "lng": 0.957438,
+  "adres": "2 Rue Emile Zola, Barentin, France",
+  "ts": 1785184761256
+ },
+ "fr|2 rue galilée, annonay": {
+  "lat": 45.2536345,
+  "lng": 4.6695147,
+  "adres": "2 Rue Galilée, Annonay",
+  "ts": 1785184761256
+ },
+ "fr|2 rue jean henri fabre, avignon": {
+  "mis": true,
+  "adres": "2 Rue Jean Henri Fabre, Avignon",
+  "ts": 1785184761256
+ },
+ "fr|2 rue robert rivetti, béziers, france": {
+  "lat": 43.3442009,
+  "lng": 3.2419457,
+  "adres": "2 Rue Robert Rivetti, Béziers, France",
+  "ts": 1785184761256
+ },
+ "fr|2 rue sainte-anne, blois": {
+  "lat": 47.584606,
+  "lng": 1.340313,
+  "adres": "2 Rue Sainte-Anne, Blois",
+  "ts": 1785184761256
+ },
+ "fr|2 rue vaillant, lambersart": {
+  "lat": 50.6407128,
+  "lng": 3.020176,
+  "adres": "2 Rue Vaillant, Lambersart",
+  "ts": 1785184761256
+ },
+ "fr|2 sq. des jonchères, angers": {
+  "lat": 47.4487587,
+  "lng": -0.5629082,
+  "adres": "2 Sq. des Jonchères, Angers",
+  "ts": 1785184761256
+ },
+ "fr|2-4 rue du général ferrié, cannes, france": {
+  "lat": 43.5505557,
+  "lng": 7.0292033,
+  "adres": "2-4 Rue du Général Ferrié, Cannes, France",
+  "ts": 1785184761256
+ },
+ "fr|20 av. du canada, rennes": {
+  "lat": 48.0872518,
+  "lng": -1.6829869,
+  "adres": "20 Av. du Canada, Rennes",
+  "ts": 1785184761256
+ },
+ "fr|20 avenue de l'yser, valence, france": {
+  "lat": 44.9361929,
+  "lng": 4.9060048,
+  "adres": "20 Avenue de l'Yser, Valence, France",
+  "ts": 1785184761256
+ },
+ "fr|20 avenue général leclerc, cagnes-sur-mer, france": {
+  "lat": 43.6586152,
+  "lng": 7.163901,
+  "adres": "20 Avenue Général Leclerc, Cagnes-sur-Mer, France",
+  "ts": 1785184761256
+ },
+ "fr|20 rue beaumont, nice, france": {
+  "lat": 43.7031938,
+  "lng": 7.2873977,
+  "adres": "20 Rue Beaumont, Nice, France",
+  "ts": 1785184761256
+ },
+ "fr|20 rue des aqueducs, lyon, france": {
+  "lat": 45.7580485,
+  "lng": 4.7956323,
+  "adres": "20 Rue des Aqueducs, Lyon, France",
+  "ts": 1785184761256
+ },
+ "fr|20 rue sala, lyon": {
+  "lat": 45.7559062,
+  "lng": 4.8290719,
+  "adres": "20 Rue Sala, Lyon",
+  "ts": 1785184761256
+ },
+ "fr|21 rue costes et bellonte, tours": {
+  "lat": 47.3544857,
+  "lng": 0.6806244,
+  "adres": "21 Rue Costes et Bellonte, Tours",
+  "ts": 1785184761256
+ },
+ "fr|212 rue armand silvestre, courbevoie": {
+  "lat": 48.905199,
+  "lng": 2.275918,
+  "adres": "212 Rue Armand Silvestre, Courbevoie",
+  "ts": 1785184761256
+ },
+ "fr|213 rue de la soleillette, saint-raphaël, france": {
+  "lat": 43.4290156,
+  "lng": 6.7710073,
+  "adres": "213 Rue de la Soleillette, Saint-Raphaël, France",
+  "ts": 1785184761256
+ },
+ "fr|22 avenue d'aligre, chartres": {
+  "lat": 48.455574,
+  "lng": 1.4897137,
+  "adres": "22 Avenue d'Aligre, Chartres",
+  "ts": 1785184761256
+ },
+ "fr|22 bd deganne, arcachon": {
+  "lat": 44.6541235,
+  "lng": -1.1490162,
+  "adres": "22 Bd Deganne, Arcachon",
+  "ts": 1785184761256
+ },
+ "fr|22 boulevard de la liberté, rennes, france": {
+  "lat": 48.1075998,
+  "lng": -1.6786317,
+  "adres": "22 Boulevard de la Liberté, Rennes, France",
+  "ts": 1785184761256
+ },
+ "fr|22 fbg sainte-croix, forbach, france": {
+  "mis": true,
+  "adres": "22 Fbg Sainte-Croix, Forbach, France",
+  "ts": 1785184761256
+ },
+ "fr|22 rue david d'angers, angers, france": {
+  "lat": 47.4712223,
+  "lng": -0.5494796,
+  "adres": "22 Rue David d'Angers, Angers, France",
+  "ts": 1785184761256
+ },
+ "fr|22 rue de france, nice": {
+  "lat": 43.696389,
+  "lng": 7.2624536,
+  "adres": "22 Rue de France, Nice",
+  "ts": 1785184761256
+ },
+ "fr|22 rue de la croix du bourdon, poitiers": {
+  "lat": 46.5880803,
+  "lng": 0.3699119,
+  "adres": "22 Rue de la Croix du Bourdon, Poitiers",
+  "ts": 1785184761256
+ },
+ "fr|22 rue des archives, paris": {
+  "lat": 48.8579083,
+  "lng": 2.3548958,
+  "adres": "22 Rue des Archives, Paris",
+  "ts": 1785184761256
+ },
+ "fr|22 rue malher, paris": {
+  "lat": 48.85673,
+  "lng": 2.3614963,
+  "adres": "22 Rue Malher, Paris",
+  "ts": 1785184761256
+ },
+ "fr|22 rue pasteur, sens": {
+  "lat": 48.1971754,
+  "lng": 2.9967563,
+  "adres": "22 Rue Pasteur, Sens",
+  "ts": 1785184761256
+ },
+ "fr|221 avenue de la capelette, marseille, france": {
+  "lat": 43.2791717,
+  "lng": 5.4119281,
+  "adres": "221 Avenue de la Capelette, Marseille, France",
+  "ts": 1785184761256
+ },
+ "fr|221 avenue du vercors, le mée-sur-seine, france": {
+  "lat": 48.5413437,
+  "lng": 2.6362167,
+  "adres": "221 Avenue du Vercors, Le Mée-sur-Seine, France",
+  "ts": 1785184761256
+ },
+ "fr|23 avenue george v, paris, france": {
+  "lat": 48.8675058,
+  "lng": 2.3009402,
+  "adres": "23 Avenue George V, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|23 rue de l'ermitage, versailles, france": {
+  "lat": 48.8142559,
+  "lng": 2.1226304,
+  "adres": "23 Rue de l'Ermitage, Versailles, France",
+  "ts": 1785184761256
+ },
+ "fr|23 rue de la sourdière, paris": {
+  "lat": 48.866456,
+  "lng": 2.332512,
+  "adres": "23 Rue de la Sourdière, Paris",
+  "ts": 1785184761256
+ },
+ "fr|23 rue de strasbourg, belfort, france": {
+  "lat": 47.6459818,
+  "lng": 6.8515909,
+  "adres": "23 Rue de Strasbourg, Belfort, France",
+  "ts": 1785184761256
+ },
+ "fr|23 rue pradier, ville-d'avray": {
+  "lat": 48.8295837,
+  "lng": 2.197131,
+  "adres": "23 Rue Pradier, Ville-d'Avray",
+  "ts": 1785184761256
+ },
+ "fr|23 rue vascosan, amiens, france": {
+  "lat": 49.8878349,
+  "lng": 2.3084436,
+  "adres": "23 Rue Vascosan, Amiens, France",
+  "ts": 1785184761256
+ },
+ "fr|23 rue victor eusen, brest, france": {
+  "lat": 48.3795963,
+  "lng": -4.5347316,
+  "adres": "23 Rue Victor Eusen, Brest, France",
+  "ts": 1785184761256
+ },
+ "fr|233 rue vendôme, lyon": {
+  "lat": 45.7570833,
+  "lng": 4.8473375,
+  "adres": "233 Rue Vendôme, Lyon",
+  "ts": 1785184761256
+ },
+ "fr|24 bis av. du général de gaulle, loches, france": {
+  "lat": 47.1267312,
+  "lng": 0.9911666,
+  "adres": "24 bis Av. du Général de Gaulle, Loches, France",
+  "ts": 1785184761256
+ },
+ "fr|24 rue de la muse, la rochelle": {
+  "lat": 46.1674466,
+  "lng": -1.2009629,
+  "adres": "24 Rue de la Muse, La Rochelle",
+  "ts": 1785184761256
+ },
+ "fr|24 rue jeu de ballon, aubagne, france": {
+  "lat": 43.2915176,
+  "lng": 5.5712554,
+  "adres": "24 Rue Jeu de Ballon, Aubagne, France",
+  "ts": 1785184761256
+ },
+ "fr|24 rue louis crétois, le mans": {
+  "lat": 47.9850465,
+  "lng": 0.207637,
+  "adres": "24 Rue Louis Crétois, Le Mans",
+  "ts": 1785184761256
+ },
+ "fr|24 rue paul déroulède, saint-maur-des-fossés": {
+  "lat": 48.7890673,
+  "lng": 2.4819464,
+  "adres": "24 Rue Paul Déroulède, Saint-Maur-des-Fossés",
+  "ts": 1785184761256
+ },
+ "fr|24 rue paul sion, lens": {
+  "lat": 50.4401372,
+  "lng": 2.8444863,
+  "adres": "24 Rue Paul Sion, Lens",
+  "ts": 1785184761256
+ },
+ "fr|240 rue de charleville, douai, france": {
+  "lat": 50.380611,
+  "lng": 3.0683736,
+  "adres": "240 Rue de Charleville, Douai, France",
+  "ts": 1785184761256
+ },
+ "fr|25 boulevard des anglais, aix-les-bains, france": {
+  "lat": 45.6959308,
+  "lng": 5.9145823,
+  "adres": "25 Boulevard des Anglais, Aix-les-Bains, France",
+  "ts": 1785184761256
+ },
+ "fr|25 rue balzac, dijon, france": {
+  "lat": 47.3409026,
+  "lng": 5.0473291,
+  "adres": "25 Rue Balzac, Dijon, France",
+  "ts": 1785184761256
+ },
+ "fr|254 avenue jean lorrain, fécamp, france": {
+  "lat": 49.7622614,
+  "lng": 0.3751099,
+  "adres": "254 Avenue Jean Lorrain, Fécamp, France",
+  "ts": 1785184761256
+ },
+ "fr|26 rue des capucins, angers": {
+  "lat": 47.488017,
+  "lng": -0.5543398,
+  "adres": "26 Rue des Capucins, Angers",
+  "ts": 1785184761256
+ },
+ "fr|26 rue rebeval, paris": {
+  "lat": 48.8738194,
+  "lng": 2.3751828,
+  "adres": "26 Rue Rebeval, Paris",
+  "ts": 1785184761256
+ },
+ "fr|27 rue aristide briand, osny, france": {
+  "lat": 49.0623995,
+  "lng": 2.0577108,
+  "adres": "27 Rue Aristide Briand, Osny, France",
+  "ts": 1785184761256
+ },
+ "fr|27 rue notre dame, vitré, france": {
+  "lat": 48.1246047,
+  "lng": -1.2113297,
+  "adres": "27 Rue Notre Dame, Vitré, France",
+  "ts": 1785184761256
+ },
+ "fr|28 avenue de l'ursuya, bayonne, france": {
+  "lat": 43.4794939,
+  "lng": -1.4989583,
+  "adres": "28 Avenue de l'Ursuya, Bayonne, France",
+  "ts": 1785184761256
+ },
+ "fr|28 avenue joliot curie, jurançon": {
+  "lat": 43.2903347,
+  "lng": -0.4006406,
+  "adres": "28 Avenue Joliot Curie, Jurançon",
+  "ts": 1785184761256
+ },
+ "fr|28 rue des ponts neufs, le mans": {
+  "lat": 48.0068447,
+  "lng": 0.1976993,
+  "adres": "28 Rue des Ponts Neufs, Le Mans",
+  "ts": 1785184761256
+ },
+ "fr|285 boulevard constantin descat, tourcoing, france": {
+  "lat": 50.695476,
+  "lng": 3.151524,
+  "adres": "285 Boulevard Constantin Descat, Tourcoing, France",
+  "ts": 1785184761256
+ },
+ "fr|288 chemin de saint-claude, antibes, france": {
+  "lat": 43.593482,
+  "lng": 7.112503,
+  "adres": "288 Chemin de Saint-Claude, Antibes, France",
+  "ts": 1785184761256
+ },
+ "fr|29 rue du champ bouillant, soissons": {
+  "lat": 49.3821824,
+  "lng": 3.3330524,
+  "adres": "29 Rue du Champ Bouillant, Soissons",
+  "ts": 1785184761256
+ },
+ "fr|29 rue san juan de porto rico, prades": {
+  "lat": 42.6159167,
+  "lng": 2.4227385,
+  "adres": "29 Rue San Juan de Porto Rico, Prades",
+  "ts": 1785184761256
+ },
+ "fr|2b rue de l'isernon, cran-gevrier, france": {
+  "lat": 45.8977374,
+  "lng": 6.1145736,
+  "adres": "2B Rue de l'Isernon, Cran-Gevrier, France",
+  "ts": 1785184761256
+ },
+ "fr|3 av. célestin sieur, ruffec": {
+  "lat": 46.0210025,
+  "lng": 0.1978554,
+  "adres": "3 Av. Célestin Sieur, Ruffec",
+  "ts": 1785184761256
+ },
+ "fr|3 avenue marcellin maurel, vence, france": {
+  "lat": 43.7219756,
+  "lng": 7.1134116,
+  "adres": "3 Avenue Marcellin Maurel, Vence, France",
+  "ts": 1785184761256
+ },
+ "fr|3 bd marceau, thuir": {
+  "lat": 42.6325705,
+  "lng": 2.7540791,
+  "adres": "3 Bd Marceau, Thuir",
+  "ts": 1785184761256
+ },
+ "fr|3 bis rue gabriel péri, sète": {
+  "lat": 43.40516,
+  "lng": 3.6957622,
+  "adres": "3 bis Rue Gabriel Péri, Sète",
+  "ts": 1785184761256
+ },
+ "fr|3 impasse alphonse daudet, cognac, france": {
+  "lat": 45.691991,
+  "lng": -0.3525613,
+  "adres": "3 Impasse Alphonse Daudet, Cognac, France",
+  "ts": 1785184761256
+ },
+ "fr|3 rue beauregard, besançon, france": {
+  "lat": 47.2439522,
+  "lng": 6.0338979,
+  "adres": "3 Rue Beauregard, Besançon, France",
+  "ts": 1785184761256
+ },
+ "fr|3 rue charles péguy, bartenheim, france": {
+  "lat": 47.6331101,
+  "lng": 7.4796094,
+  "adres": "3 Rue Charles Péguy, Bartenheim, France",
+  "ts": 1785184761256
+ },
+ "fr|3 rue de barboilloz, vesoul, france": {
+  "lat": 47.6301092,
+  "lng": 6.1626619,
+  "adres": "3 Rue de Barboilloz, Vesoul, France",
+  "ts": 1785184761256
+ },
+ "fr|3 rue de verdun, chelles, france": {
+  "lat": 48.870182,
+  "lng": 2.5765128,
+  "adres": "3 Rue de Verdun, Chelles, France",
+  "ts": 1785184761256
+ },
+ "fr|3 rue du bourg, sancé": {
+  "lat": 46.3407443,
+  "lng": 4.8291471,
+  "adres": "3 Rue du Bourg, Sancé",
+  "ts": 1785184761256
+ },
+ "fr|3 rue escoussières arnaud bernard, toulouse": {
+  "lat": 43.6106677,
+  "lng": 1.4414714,
+  "adres": "3 Rue Escoussières Arnaud Bernard, Toulouse",
+  "ts": 1785184761256
+ },
+ "fr|3 rue escoussières arnaud bernard, toulouse, france": {
+  "lat": 43.6106677,
+  "lng": 1.4414714,
+  "adres": "3 Rue Escoussières Arnaud Bernard, Toulouse, France",
+  "ts": 1785184761256
+ },
  "fr|3 rue la guerche, les herbiers": {
   "lat": 46.8620416,
   "lng": -1.005377,
   "adres": "3 Rue la Guerche, Les Herbiers",
   "ts": 1785182768819
+ },
+ "fr|3 rue rampal, paris": {
+  "lat": 48.8732644,
+  "lng": 2.3797094,
+  "adres": "3 Rue Rampal, Paris",
+  "ts": 1785184761256
+ },
+ "fr|3 rue rampal, paris, france": {
+  "lat": 48.8732644,
+  "lng": 2.3797094,
+  "adres": "3 Rue Rampal, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|3 square françois lahille, colomiers, france": {
+  "lat": 43.6094652,
+  "lng": 1.340234,
+  "adres": "3 Square François Lahille, Colomiers, France",
+  "ts": 1785184761256
+ },
+ "fr|30 rue du dr alexander fleming, wattrelos, france": {
+  "mis": true,
+  "adres": "30 Rue du Dr Alexander Fleming, Wattrelos, France",
+  "ts": 1785184761256
  },
  "fr|31 boulevard de la république, le puy-en-velay, france": {
   "lat": 45.045186,
@@ -3094,11 +4253,451 @@
   "adres": "31 Boulevard de la République, Le Puy-en-Velay, France",
   "ts": 1785182768819
  },
+ "fr|31 rue guillaume le bartz, vannes": {
+  "lat": 47.6463352,
+  "lng": -2.7787691,
+  "adres": "31 Rue Guillaume le Bartz, Vannes",
+  "ts": 1785184761256
+ },
+ "fr|31 rue guillaume le bartz, vannes, france": {
+  "lat": 47.6463352,
+  "lng": -2.7787691,
+  "adres": "31 Rue Guillaume le Bartz, Vannes, France",
+  "ts": 1785184761256
+ },
+ "fr|31 rue saint-pèlerin, auxerre, france": {
+  "lat": 47.7959667,
+  "lng": 3.575032,
+  "adres": "31 Rue Saint-Pèlerin, Auxerre, France",
+  "ts": 1785184761256
+ },
+ "fr|32 pl. de la paix, romorantin-lanthenay": {
+  "lat": 47.3593893,
+  "lng": 1.7421961,
+  "adres": "32 Pl. de la Paix, Romorantin-Lanthenay",
+  "ts": 1785184761256
+ },
+ "fr|32 place de la paix, romorantin-lanthenay, france": {
+  "lat": 47.3593893,
+  "lng": 1.7421961,
+  "adres": "32 Place de la Paix, Romorantin-Lanthenay, France",
+  "ts": 1785184761256
+ },
+ "fr|32 rue du solayer, clermont-ferrand, france": {
+  "lat": 45.8092144,
+  "lng": 3.1045173,
+  "adres": "32 Rue du Solayer, Clermont-Ferrand, France",
+  "ts": 1785184761256
+ },
+ "fr|321 rue jean marie vianney, ars-sur-formans, france": {
+  "lat": 45.993427,
+  "lng": 4.821538,
+  "adres": "321 Rue Jean Marie Vianney, Ars-sur-Formans, France",
+  "ts": 1785184761256
+ },
+ "fr|323 rue frédéric sevene, talence, france": {
+  "lat": 44.8075234,
+  "lng": -0.5742313,
+  "adres": "323 Rue Frédéric Sevene, Talence, France",
+  "ts": 1785184761256
+ },
+ "fr|327 av. thiers, bordeaux, france": {
+  "lat": 44.8511214,
+  "lng": -0.5417348,
+  "adres": "327 Av. Thiers, Bordeaux, France",
+  "ts": 1785184761256
+ },
+ "fr|330 rue emmanuel clairefond, saumur, france": {
+  "lat": 47.2682975,
+  "lng": -0.0674146,
+  "adres": "330 Rue Emmanuel Clairefond, Saumur, France",
+  "ts": 1785184761256
+ },
+ "fr|335 rue fernand bar, béthune, france": {
+  "lat": 50.53262,
+  "lng": 2.635084,
+  "adres": "335 Rue Fernand Bar, Béthune, France",
+  "ts": 1785184761256
+ },
+ "fr|336 rue du faubourg bannier, fleury-les-aubrais": {
+  "lat": 47.9287592,
+  "lng": 1.8961424,
+  "adres": "336 Rue du Faubourg Bannier, Fleury-les-Aubrais",
+  "ts": 1785184761256
+ },
+ "fr|34 avenue des platanes, chambray-lès-tours, france": {
+  "lat": 47.3415513,
+  "lng": 0.716182,
+  "adres": "34 Avenue des Platanes, Chambray-lès-Tours, France",
+  "ts": 1785184761256
+ },
+ "fr|34 rue de châteaudun, paris": {
+  "lat": 48.8762167,
+  "lng": 2.3364136,
+  "adres": "34 Rue de Châteaudun, Paris",
+  "ts": 1785184761256
+ },
  "fr|34 rue emile zola, mondeville": {
   "lat": 49.1739265,
   "lng": -0.3302546,
   "adres": "34 Rue Emile Zola, Mondeville",
   "ts": 1785182768819
+ },
+ "fr|35 avenue charles vidau, cavaillon, france": {
+  "lat": 43.8323411,
+  "lng": 5.0362806,
+  "adres": "35 Avenue Charles Vidau, Cavaillon, France",
+  "ts": 1785184761256
+ },
+ "fr|35 rue de la gare, ploërmel, france": {
+  "lat": 47.9322503,
+  "lng": -2.4020611,
+  "adres": "35 Rue de la Gare, Ploërmel, France",
+  "ts": 1785184761256
+ },
+ "fr|35 rue de la palud, marseille, france": {
+  "lat": 43.2936291,
+  "lng": 5.3798906,
+  "adres": "35 Rue de la Palud, Marseille, France",
+  "ts": 1785184761256
+ },
+ "fr|35 rue du maréchal leclerc de hautecloque, saint-gilles-croix-de-vie": {
+  "mis": true,
+  "adres": "35 Rue du Maréchal Leclerc de Hautecloque, Saint-Gilles-Croix-de-Vie",
+  "ts": 1785184761256
+ },
+ "fr|35 rue saint-roch, paris": {
+  "lat": 48.8660495,
+  "lng": 2.3326187,
+  "adres": "35 Rue Saint-Roch, Paris",
+  "ts": 1785184761256
+ },
+ "fr|35 rue saint-roch, paris, france": {
+  "lat": 48.8660495,
+  "lng": 2.3326187,
+  "adres": "35 Rue Saint-Roch, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|350 cr emile zola, villeurbanne, france": {
+  "mis": true,
+  "adres": "350 Cr Emile Zola, Villeurbanne, France",
+  "ts": 1785184761256
+ },
+ "fr|36 boulevard emmanuel rouquier, grasse, france": {
+  "lat": 43.6446837,
+  "lng": 6.9406036,
+  "adres": "36 Boulevard Emmanuel Rouquier, Grasse, France",
+  "ts": 1785184761256
+ },
+ "fr|36 rue falque, marseille": {
+  "lat": 43.2840786,
+  "lng": 5.3813815,
+  "adres": "36 Rue Falque, Marseille",
+  "ts": 1785184761256
+ },
+ "fr|37 rue hippolyte fillioux, bain-de-bretagne": {
+  "lat": 47.8380756,
+  "lng": -1.6816684,
+  "adres": "37 Rue Hippolyte Fillioux, Bain-de-Bretagne",
+  "ts": 1785184761256
+ },
+ "fr|38 chau. royale, st paul": {
+  "mis": true,
+  "adres": "38 Chau. Royale, St Paul",
+  "ts": 1785184761256
+ },
+ "fr|39 rue françois d'orbay, montpellier": {
+  "lat": 43.6145496,
+  "lng": 3.8260384,
+  "adres": "39 Rue François d'Orbay, Montpellier",
+  "ts": 1785184761256
+ },
+ "fr|39 rue françois d'orbay, montpellier, france": {
+  "lat": 43.6145496,
+  "lng": 3.8260384,
+  "adres": "39 Rue François d'Orbay, Montpellier, France",
+  "ts": 1785184761256
+ },
+ "fr|4 avenue pasteur, saint-mandé, france": {
+  "lat": 48.8444783,
+  "lng": 2.4243402,
+  "adres": "4 Avenue Pasteur, Saint-Mandé, France",
+  "ts": 1785184761256
+ },
+ "fr|4 place de l'église, conflans-sainte-honorine": {
+  "lat": 48.9920436,
+  "lng": 2.094898,
+  "adres": "4 Place de l'Église, Conflans-Sainte-Honorine",
+  "ts": 1785184761256
+ },
+ "fr|4 rte jean corona, sainte-maxime, france": {
+  "lat": 43.3146365,
+  "lng": 6.6350762,
+  "adres": "4 Rte Jean Corona, Sainte-Maxime, France",
+  "ts": 1785184761256
+ },
+ "fr|4 rue andré malraux, saint-étienne": {
+  "lat": 45.4397038,
+  "lng": 4.3850413,
+  "adres": "4 Rue André Malraux, Saint-Étienne",
+  "ts": 1785184761256
+ },
+ "fr|4 rue andré messager, brest, france": {
+  "lat": 48.4088136,
+  "lng": -4.498962,
+  "adres": "4 Rue André Messager, Brest, France",
+  "ts": 1785184761256
+ },
+ "fr|4 rue colonel fonferrier, brest": {
+  "lat": 48.3914492,
+  "lng": -4.4924921,
+  "adres": "4 Rue Colonel Fonferrier, Brest",
+  "ts": 1785184761256
+ },
+ "fr|4 rue de la chine, paris, france": {
+  "lat": 48.8657165,
+  "lng": 2.4007382,
+  "adres": "4 Rue de la Chine, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|4 rue du professeur robert debré, nîmes, france": {
+  "lat": 43.8240431,
+  "lng": 4.3261111,
+  "adres": "4 Rue du Professeur Robert Debré, Nîmes, France",
+  "ts": 1785184761256
+ },
+ "fr|4 rue jules ferry, chalon-sur-saône, france": {
+  "lat": 46.7977154,
+  "lng": 4.8672925,
+  "adres": "4 Rue Jules Ferry, Chalon-sur-Saône, France",
+  "ts": 1785184761256
+ },
+ "fr|4 rue lorette de la refoulais, nantes, france": {
+  "lat": 47.2210638,
+  "lng": -1.546609,
+  "adres": "4 Rue Lorette de la Refoulais, Nantes, France",
+  "ts": 1785184761256
+ },
+ "fr|4 rue saint-gervais, gisors": {
+  "lat": 49.278921,
+  "lng": 1.7746121,
+  "adres": "4 Rue Saint-Gervais, Gisors",
+  "ts": 1785184761256
+ },
+ "fr|40 avenue horace vernet, le vésinet, france": {
+  "lat": 48.8960673,
+  "lng": 2.1336807,
+  "adres": "40 Avenue Horace Vernet, Le Vésinet, France",
+  "ts": 1785184761256
+ },
+ "fr|40 rue jean jaurès, rezé, france": {
+  "lat": 47.1885019,
+  "lng": -1.5472948,
+  "adres": "40 Rue Jean Jaurès, Rezé, France",
+  "ts": 1785184761256
+ },
+ "fr|40 rue michel roulland, périgueux": {
+  "lat": 45.1903137,
+  "lng": 0.7091763,
+  "adres": "40 Rue Michel Roulland, Périgueux",
+  "ts": 1785184761256
+ },
+ "fr|404 avenue île-de-france, réunion": {
+  "lat": -20.9603501,
+  "lng": 55.6500582,
+  "adres": "404 Avenue Île-de-France, Réunion",
+  "ts": 1785184761256
+ },
+ "fr|41 rue saint-savournin, marseille, france": {
+  "lat": 43.297851,
+  "lng": 5.3887675,
+  "adres": "41 Rue Saint-Savournin, Marseille, France",
+  "ts": 1785184761256
+ },
+ "fr|42 rue de paris, houdan, france": {
+  "lat": 48.7928232,
+  "lng": 1.6006283,
+  "adres": "42 Rue de Paris, Houdan, France",
+  "ts": 1785184761256
+ },
+ "fr|42 rue des hauts pavés, nantes": {
+  "lat": 47.2243177,
+  "lng": -1.5646254,
+  "adres": "42 Rue des Hauts Pavés, Nantes",
+  "ts": 1785184761256
+ },
+ "fr|43 avenue philippe rochat, antibes, france": {
+  "lat": 43.5858941,
+  "lng": 7.1124442,
+  "adres": "43 Avenue Philippe Rochat, Antibes, France",
+  "ts": 1785184761256
+ },
+ "fr|43 route nationale 7, le muy": {
+  "lat": 43.4717302,
+  "lng": 6.5677766,
+  "adres": "43 Route Nationale 7, Le Muy",
+  "ts": 1785184761256
+ },
+ "fr|44 avenue de bremerhaven, cherbourg-octeville, france": {
+  "lat": 49.6317834,
+  "lng": -1.6102834,
+  "adres": "44 Avenue de Bremerhaven, Cherbourg-Octeville, France",
+  "ts": 1785184761256
+ },
+ "fr|44 avenue de la châtaigneraie, pessac, france": {
+  "lat": 44.7973516,
+  "lng": -0.6470114,
+  "adres": "44 Avenue de la Châtaigneraie, Pessac, France",
+  "ts": 1785184761256
+ },
+ "fr|44 pl. gambetta, mayenne": {
+  "lat": 48.3030064,
+  "lng": -0.62266,
+  "adres": "44 Pl. Gambetta, Mayenne",
+  "ts": 1785184761256
+ },
+ "fr|44 rue pierre de campet, saujon, france": {
+  "lat": 45.6753777,
+  "lng": -0.9254949,
+  "adres": "44 Rue Pierre de Campet, Saujon, France",
+  "ts": 1785184761256
+ },
+ "fr|44 rue volta, paris": {
+  "lat": 48.8665951,
+  "lng": 2.3580882,
+  "adres": "44 Rue Volta, Paris",
+  "ts": 1785184761256
+ },
+ "fr|45 avenue du général charles de gaulle, châlons-en-champagne": {
+  "lat": 48.951203,
+  "lng": 4.3685243,
+  "adres": "45 Avenue du Général Charles de Gaulle, Châlons-en-Champagne",
+  "ts": 1785184761256
+ },
+ "fr|45 avenue leconte de lisle, sainte-clotilde, réunion": {
+  "lat": -20.8929452,
+  "lng": 55.48387,
+  "adres": "45 Avenue Leconte de Lisle, Sainte-Clotilde, Réunion",
+  "ts": 1785184761256
+ },
+ "fr|45 rue de buffon, rouen": {
+  "lat": 49.4455985,
+  "lng": 1.0841218,
+  "adres": "45 Rue de Buffon, Rouen",
+  "ts": 1785184761256
+ },
+ "fr|46 av. du gros peuplier, aulnay-sous-bois": {
+  "lat": 48.926172,
+  "lng": 2.501114,
+  "adres": "46 Av. du Gros Peuplier, Aulnay-sous-Bois",
+  "ts": 1785184761256
+ },
+ "fr|46 avenue antoine de saint-exupéry, calais, france": {
+  "lat": 50.9461247,
+  "lng": 1.8894903,
+  "adres": "46 Avenue Antoine de Saint-Exupéry, Calais, France",
+  "ts": 1785184761256
+ },
+ "fr|46 bd des batignolles, paris": {
+  "lat": 48.8827443,
+  "lng": 2.3226262,
+  "adres": "46 Bd des Batignolles, Paris",
+  "ts": 1785184761256
+ },
+ "fr|47 rue de la roquette, paris, france": {
+  "lat": 48.8557877,
+  "lng": 2.3744443,
+  "adres": "47 Rue de la Roquette, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|47 rue henri bazin, nancy": {
+  "lat": 48.6970011,
+  "lng": 6.1943577,
+  "adres": "47 Rue Henri Bazin, Nancy",
+  "ts": 1785184761256
+ },
+ "fr|47 rue mustel, rouen, france": {
+  "lat": 49.4504987,
+  "lng": 1.0695881,
+  "adres": "47 Rue Mustel, Rouen, France",
+  "ts": 1785184761256
+ },
+ "fr|49 avenue jules ferry, sartrouville, france": {
+  "lat": 48.933773,
+  "lng": 2.154444,
+  "adres": "49 Avenue Jules Ferry, Sartrouville, France",
+  "ts": 1785184761256
+ },
+ "fr|49 rue champ lagarde, versailles, france": {
+  "lat": 48.802426,
+  "lng": 2.1526625,
+  "adres": "49 Rue Champ Lagarde, Versailles, France",
+  "ts": 1785184761256
+ },
+ "fr|49 rue de la providence, quimper": {
+  "lat": 47.9997034,
+  "lng": -4.1092578,
+  "adres": "49 Rue de la Providence, Quimper",
+  "ts": 1785184761256
+ },
+ "fr|49 rue de turbigo, paris, france": {
+  "lat": 48.8653205,
+  "lng": 2.3550493,
+  "adres": "49 Rue de Turbigo, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|49ter rue du portail magnanen, avignon": {
+  "lat": 43.9437247,
+  "lng": 4.8119008,
+  "adres": "49ter Rue du Portail Magnanen, Avignon",
+  "ts": 1785184761256
+ },
+ "fr|5 allée des érables, libourne, france": {
+  "lat": 44.903546,
+  "lng": -0.2179172,
+  "adres": "5 Allée des Érables, Libourne, France",
+  "ts": 1785184761256
+ },
+ "fr|5 bis bd lieutenant maurice knoblauch, saint-étienne )": {
+  "lat": 45.4528167,
+  "lng": 4.382425,
+  "adres": "5 Bis Bd Lieutenant Maurice Knoblauch, Saint-Étienne )",
+  "ts": 1785184761256
+ },
+ "fr|5 pass. saint-paul, paris, france": {
+  "lat": 48.8544571,
+  "lng": 2.3618484,
+  "adres": "5 Pass. Saint-Paul, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|5 place du marché, montreuil, france": {
+  "lat": 48.8581192,
+  "lng": 2.4333808,
+  "adres": "5 Place du Marché, Montreuil, France",
+  "ts": 1785184761256
+ },
+ "fr|5 place jules ferry, bergerac, france": {
+  "lat": 44.8553988,
+  "lng": 0.4844762,
+  "adres": "5 Place Jules Ferry, Bergerac, France",
+  "ts": 1785184761256
+ },
+ "fr|5 rue de creutzwald, ham-sous-varsberg, france": {
+  "lat": 49.1884483,
+  "lng": 6.6682156,
+  "adres": "5 Rue de Creutzwald, Ham-sous-Varsberg, France",
+  "ts": 1785184761256
+ },
+ "fr|5 rue de l'abbaye, paris, france": {
+  "lat": 48.8540705,
+  "lng": 2.3351901,
+  "adres": "5 Rue de l'Abbaye, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|5 rue du colonel moll, concarneau, france": {
+  "mis": true,
+  "adres": "5 Rue du Colonel Moll, Concarneau, France",
+  "ts": 1785184761256
  },
  "fr|5 rue perrée, paris, france": {
   "lat": 48.8640128,
@@ -3106,11 +4705,58 @@
   "adres": "5 Rue Perrée, Paris, France",
   "ts": 1785182768819
  },
+ "fr|50 rue de pornichet, saint-nazaire": {
+  "lat": 47.263151,
+  "lng": -2.2360864,
+  "adres": "50 Rue de Pornichet, Saint-Nazaire",
+  "ts": 1785184761256
+ },
+ "fr|51 rue alfred labarrière, porcheville, france": {
+  "lat": 48.9682457,
+  "lng": 1.7730056,
+  "adres": "51 Rue Alfred Labarrière, Porcheville, France",
+  "ts": 1785184761256
+ },
+ "fr|51 rue de la pompe, paris": {
+  "lat": 48.8620598,
+  "lng": 2.2758197,
+  "adres": "51 Rue de la Pompe, Paris",
+  "ts": 1785184761256
+ },
+ "fr|51 rue de la pompe, paris, france": {
+  "lat": 48.8620598,
+  "lng": 2.2758197,
+  "adres": "51 Rue de la Pompe, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|53 rue antoine marty, carcassonne": {
+  "lat": 43.2162348,
+  "lng": 2.356009,
+  "adres": "53 Rue Antoine Marty, Carcassonne",
+  "ts": 1785184761256
+ },
  "fr|53 rue des chantiers, versailles": {
   "lat": 48.7941045,
   "lng": 2.1422944,
   "adres": "53 Rue des Chantiers, Versailles",
   "ts": 1785182768819
+ },
+ "fr|53 rue du perrey, le havre, france": {
+  "lat": 49.4872329,
+  "lng": 0.1008799,
+  "adres": "53 Rue du Perrey, Le Havre, France",
+  "ts": 1785184761256
+ },
+ "fr|54 rue de coquard, villeneuve-sur-lot": {
+  "lat": 44.4008734,
+  "lng": 0.7007064,
+  "adres": "54 Rue de Coquard, Villeneuve-sur-Lot",
+  "ts": 1785184761256
+ },
+ "fr|54 rue dr fouques, toulon, france": {
+  "mis": true,
+  "adres": "54 Rue Dr Fouques, Toulon, France",
+  "ts": 1785184761256
  },
  "fr|54 rue jean-baptiste pigalle, paris": {
   "lat": 48.8809852,
@@ -3118,11 +4764,98 @@
   "adres": "54 Rue Jean-Baptiste Pigalle, Paris",
   "ts": 1785182768819
  },
+ "fr|54 rue jeanne d'arc, pertuis": {
+  "mis": true,
+  "adres": "54 Rue Jeanne D'arc, Pertuis",
+  "ts": 1785184761256
+ },
+ "fr|55 boulevard du maréchal joffre, fontainebleau, france": {
+  "lat": 48.4116798,
+  "lng": 2.6958104,
+  "adres": "55 Boulevard du Maréchal Joffre, Fontainebleau, France",
+  "ts": 1785184761256
+ },
+ "fr|55 rue andré marie ampère, salon-de-provence, france": {
+  "lat": 43.6397064,
+  "lng": 5.1075422,
+  "adres": "55 Rue André Marie Ampère, Salon-de-Provence, France",
+  "ts": 1785184761256
+ },
+ "fr|55 rue coste, caluire-et-cuire": {
+  "lat": 45.7848797,
+  "lng": 4.8332012,
+  "adres": "55 Rue Coste, Caluire-et-Cuire",
+  "ts": 1785184761256
+ },
+ "fr|550 rue andré malraux, dunkerque": {
+  "lat": 51.0444519,
+  "lng": 2.3783186,
+  "adres": "550 Rue André Malraux, Dunkerque",
+  "ts": 1785184761256
+ },
+ "fr|58 rue madame, paris": {
+  "lat": 48.8474878,
+  "lng": 2.3315242,
+  "adres": "58 Rue Madame, Paris",
+  "ts": 1785184761256
+ },
+ "fr|58 rue madame, paris, france": {
+  "lat": 48.8474878,
+  "lng": 2.3315242,
+  "adres": "58 Rue Madame, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|59 avenue alphonse legault, bruz, france": {
+  "lat": 48.0263316,
+  "lng": -1.7374739,
+  "adres": "59 Avenue Alphonse Legault, Bruz, France",
+  "ts": 1785184761256
+ },
+ "fr|59 rue de la barre, lille": {
+  "lat": 50.638481,
+  "lng": 3.0555061,
+  "adres": "59 Rue de la Barre, Lille",
+  "ts": 1785184761256
+ },
+ "fr|6 av. robert schuman, pau, france": {
+  "lat": 43.3099766,
+  "lng": -0.3657401,
+  "adres": "6 Av. Robert Schuman, Pau, France",
+  "ts": 1785184761256
+ },
+ "fr|6 avenue robert schuman, pau, france": {
+  "lat": 43.3099766,
+  "lng": -0.3657401,
+  "adres": "6 Avenue Robert Schuman, Pau, France",
+  "ts": 1785184761256
+ },
+ "fr|6 avenue yolande d'aragon, angers": {
+  "lat": 47.4711245,
+  "lng": -0.5682548,
+  "adres": "6 Avenue Yolande d'Aragon, Angers",
+  "ts": 1785184761256
+ },
+ "fr|6 quai du plessis, pontivy": {
+  "mis": true,
+  "adres": "6 Quai du Plessis, Pontivy",
+  "ts": 1785184761256
+ },
+ "fr|6 quai du plessis, pontivy, france": {
+  "mis": true,
+  "adres": "6 Quai du Plessis, Pontivy, France",
+  "ts": 1785184761256
+ },
  "fr|6 rue albert le barillier, anglet, france": {
   "lat": 43.4828266,
   "lng": -1.513199,
   "adres": "6 Rue Albert le Barillier, Anglet, France",
   "ts": 1785182768819
+ },
+ "fr|6 rue du 21 novembre, réding": {
+  "lat": 48.7445044,
+  "lng": 7.0976869,
+  "adres": "6 Rue du 21 Novembre, Réding",
+  "ts": 1785184761256
  },
  "fr|6 rue du caillou gris, toulouse": {
   "lat": 43.6200198,
@@ -3130,11 +4863,141 @@
   "adres": "6 Rue du Caillou Gris, Toulouse",
   "ts": 1785182768819
  },
+ "fr|6 rue du clocher, champigny-sur-marne": {
+  "lat": 48.812725,
+  "lng": 2.512237,
+  "adres": "6 Rue du Clocher, Champigny-sur-Marne",
+  "ts": 1785184761256
+ },
+ "fr|6 rue du marché, bletterans, france": {
+  "lat": 46.7454229,
+  "lng": 5.4533305,
+  "adres": "6 Rue du Marché, Bletterans, France",
+  "ts": 1785184761256
+ },
+ "fr|6 rue du mont ussy, fontainebleau, france": {
+  "lat": 48.4146282,
+  "lng": 2.7020284,
+  "adres": "6 Rue du Mont Ussy, Fontainebleau, France",
+  "ts": 1785184761256
+ },
+ "fr|6 rue du temple neuf, strasbourg, france": {
+  "lat": 48.5832331,
+  "lng": 7.749243,
+  "adres": "6 Rue du Temple Neuf, Strasbourg, France",
+  "ts": 1785184761256
+ },
+ "fr|6 rue edmond vitry, nogent-sur-marne": {
+  "lat": 48.8373155,
+  "lng": 2.4878147,
+  "adres": "6 Rue Edmond Vitry, Nogent-sur-Marne",
+  "ts": 1785184761256
+ },
+ "fr|6 rue jean ribault, dieppe": {
+  "lat": 49.9211918,
+  "lng": 1.0782599,
+  "adres": "6 Rue Jean Ribault, Dieppe",
+  "ts": 1785184761256
+ },
+ "fr|60 boulevard frédéric chaplet, laval, france )": {
+  "lat": 48.0680651,
+  "lng": -0.7899031,
+  "adres": "60 Boulevard Frédéric Chaplet, Laval, France )",
+  "ts": 1785184761256
+ },
+ "fr|61 rue paul doumer, royan, france": {
+  "lat": 45.6290929,
+  "lng": -1.0288156,
+  "adres": "61 Rue Paul Doumer, Royan, France",
+  "ts": 1785184761256
+ },
+ "fr|610 chem. de saint-sauveur, gaillac": {
+  "mis": true,
+  "adres": "610 Chem. de Saint-Sauveur, Gaillac",
+  "ts": 1785184761256
+ },
+ "fr|65 quai d'orsay, paris": {
+  "lat": 48.8622715,
+  "lng": 2.3066067,
+  "adres": "65 Quai d'Orsay, Paris",
+  "ts": 1785184761256
+ },
+ "fr|65 quai d'orsay, paris, france": {
+  "lat": 48.8622715,
+  "lng": 2.3066067,
+  "adres": "65 Quai d'Orsay, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|65 rue corvisart, paris": {
+  "lat": 48.830239,
+  "lng": 2.3491742,
+  "adres": "65 Rue Corvisart, Paris",
+  "ts": 1785184761256
+ },
+ "fr|67 rue saint-françois de sales, chambéry, france": {
+  "lat": 45.5669659,
+  "lng": 5.9253014,
+  "adres": "67 Rue Saint-François de Sales, Chambéry, France",
+  "ts": 1785184761256
+ },
+ "fr|68 avenue du teil, montélimar, france": {
+  "lat": 44.5582281,
+  "lng": 4.7333527,
+  "adres": "68 Avenue du Teil, Montélimar, France",
+  "ts": 1785184761256
+ },
+ "fr|68 rue falguière, paris": {
+  "lat": 48.8405897,
+  "lng": 2.3129106,
+  "adres": "68 Rue Falguière, Paris",
+  "ts": 1785184761256
+ },
+ "fr|69 rue gambetta, saint-tropez": {
+  "lat": 43.270878,
+  "lng": 6.641011,
+  "adres": "69 Rue Gambetta, Saint-Tropez",
+  "ts": 1785184761256
+ },
+ "fr|69 rue violet, paris, france": {
+  "lat": 48.8456131,
+  "lng": 2.2914171,
+  "adres": "69 Rue Violet, Paris, France",
+  "ts": 1785184761256
+ },
  "fr|6b rue danton, dijon": {
   "lat": 47.3205195,
   "lng": 5.0362578,
   "adres": "6B Rue Danton, Dijon",
   "ts": 1785182768819
+ },
+ "fr|6mrj+5v, taiarapu-ouest, polynésie française": {
+  "mis": true,
+  "adres": "6MRJ+5V, Taiarapu-Ouest, Polynésie française",
+  "ts": 1785184761256
+ },
+ "fr|7 av. léon pintard, saint-quentin-la-poterie": {
+  "lat": 44.0441721,
+  "lng": 4.4445317,
+  "adres": "7 Av. Léon Pintard, Saint-Quentin-la-Poterie",
+  "ts": 1785184761256
+ },
+ "fr|7 avenue du maréchal foch, rambouillet": {
+  "lat": 48.6478874,
+  "lng": 1.8257075,
+  "adres": "7 Avenue du Maréchal Foch, Rambouillet",
+  "ts": 1785184761256
+ },
+ "fr|7 pl. du petit martroy, pontoise, france": {
+  "lat": 49.0511546,
+  "lng": 2.0964335,
+  "adres": "7 Pl. du Petit Martroy, Pontoise, France",
+  "ts": 1785184761256
+ },
+ "fr|7 place charles muller, guérande": {
+  "lat": 47.3285899,
+  "lng": -2.428032,
+  "adres": "7 Place Charles Muller, Guérande",
+  "ts": 1785184761256
  },
  "fr|7 place de la porte de belfort, neuf-brisach, france": {
   "lat": 48.0153928,
@@ -3142,11 +5005,148 @@
   "adres": "7 Place de la Porte de Belfort, Neuf-Brisach, France",
   "ts": 1785182768819
  },
+ "fr|7 route des loisirs, molsheim": {
+  "lat": 48.5358469,
+  "lng": 7.482652,
+  "adres": "7 Route des Loisirs, Molsheim",
+  "ts": 1785184761256
+ },
+ "fr|7 rue auguste vacquerie, paris": {
+  "lat": 48.8706018,
+  "lng": 2.2961734,
+  "adres": "7 Rue Auguste Vacquerie, Paris",
+  "ts": 1785184761256
+ },
+ "fr|7 rue auguste vacquerie, paris, france": {
+  "lat": 48.8706018,
+  "lng": 2.2961734,
+  "adres": "7 Rue Auguste Vacquerie, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|7 rue de poitiers, paris": {
+  "lat": 48.859109,
+  "lng": 2.3262734,
+  "adres": "7 Rue de Poitiers, Paris",
+  "ts": 1785184761256
+ },
+ "fr|7 rue du chanoine cochard, souleuvre en bocage, france": {
+  "lat": 48.9373288,
+  "lng": -0.8398803,
+  "adres": "7 Rue du Chanoine Cochard, Souleuvre en Bocage, France",
+  "ts": 1785184761256
+ },
+ "fr|7 rue du content, gap, france": {
+  "lat": 44.558661,
+  "lng": 6.0791311,
+  "adres": "7 Rue du Content, Gap, France",
+  "ts": 1785184761256
+ },
+ "fr|7 rue du vivier, cugnaux, france": {
+  "lat": 43.5368885,
+  "lng": 1.3374122,
+  "adres": "7 Rue du Vivier, Cugnaux, France",
+  "ts": 1785184761256
+ },
+ "fr|7 rue lafage, toulouse": {
+  "lat": 43.5846519,
+  "lng": 1.4269544,
+  "adres": "7 Rue Lafage, Toulouse",
+  "ts": 1785184761256
+ },
+ "fr|7 rue saint-vincent, pamiers": {
+  "lat": 43.1131439,
+  "lng": 1.6064277,
+  "adres": "7 Rue Saint-Vincent, Pamiers",
+  "ts": 1785184761256
+ },
+ "fr|71 boulevard aristide briand, la roche-sur-yon": {
+  "lat": 46.6704568,
+  "lng": -1.4319571,
+  "adres": "71 Boulevard Aristide Briand, La Roche-sur-Yon",
+  "ts": 1785184761256
+ },
+ "fr|71 rue luc lorion, réunion": {
+  "lat": -21.336153,
+  "lng": 55.4702557,
+  "adres": "71 Rue Luc Lorion, Réunion",
+  "ts": 1785184761256
+ },
+ "fr|728 imp. louis castillon, fréjus": {
+  "lat": 43.3852196,
+  "lng": 6.7219504,
+  "adres": "728 Imp. Louis Castillon, Fréjus",
+  "ts": 1785184761256
+ },
+ "fr|73 rue du chauffour, valenciennes": {
+  "lat": 50.3686278,
+  "lng": 3.5161655,
+  "adres": "73 Rue du Chauffour, Valenciennes",
+  "ts": 1785184761256
+ },
  "fr|76 rue daguerre, paris": {
   "lat": 48.8355368,
   "lng": 2.3255018,
   "adres": "76 Rue Daguerre, Paris",
   "ts": 1785182768819
+ },
+ "fr|79 rue saint-joseph, sallanches, france": {
+  "lat": 45.937981,
+  "lng": 6.62687,
+  "adres": "79 Rue Saint-Joseph, Sallanches, France",
+  "ts": 1785184761256
+ },
+ "fr|8 boulevard maréchal juin, hyères, france )": {
+  "lat": 43.1138948,
+  "lng": 6.1093434,
+  "adres": "8 Boulevard Maréchal Juin, Hyères, France )",
+  "ts": 1785184761256
+ },
+ "fr|8 rue carnot, marly-le-roi": {
+  "lat": 48.8712511,
+  "lng": 2.0955435,
+  "adres": "8 Rue Carnot, Marly-le-Roi",
+  "ts": 1785184761256
+ },
+ "fr|8 rue de la fontaine, montluçon, france": {
+  "lat": 46.3408691,
+  "lng": 2.6044109,
+  "adres": "8 Rue de la Fontaine, Montluçon, France",
+  "ts": 1785184761256
+ },
+ "fr|8 rue de lieusaint, combs-la-ville, france": {
+  "lat": 48.6636899,
+  "lng": 2.5633295,
+  "adres": "8 Rue de Lieusaint, Combs-la-Ville, France",
+  "ts": 1785184761256
+ },
+ "fr|8 rue des maieurs, amiens, france": {
+  "lat": 49.8876252,
+  "lng": 2.3177254,
+  "adres": "8 Rue des Maieurs, Amiens, France",
+  "ts": 1785184761256
+ },
+ "fr|8 rue j b peres, agen": {
+  "mis": true,
+  "adres": "8 Rue J B Peres, Agen",
+  "ts": 1785184761256
+ },
+ "fr|8 rue nominoë, redon": {
+  "lat": 47.976665,
+  "lng": -1.8721631,
+  "adres": "8 Rue Nominoë, Redon",
+  "ts": 1785184761256
+ },
+ "fr|8 rue saint-honoré, versailles": {
+  "lat": 48.7980061,
+  "lng": 2.1248452,
+  "adres": "8 Rue Saint-Honoré, Versailles",
+  "ts": 1785184761256
+ },
+ "fr|80 avenue général de gaulle, lorient": {
+  "lat": 47.7408726,
+  "lng": -3.3741467,
+  "adres": "80 Avenue Général de Gaulle, Lorient",
+  "ts": 1785184761256
  },
  "fr|80 rue de lyon, mâcon, france": {
   "lat": 46.2987228,
@@ -3154,17 +5154,582 @@
   "adres": "80 Rue de Lyon, Mâcon, France",
   "ts": 1785182768819
  },
+ "fr|81 rue alexandre dumas, paris, france": {
+  "lat": 48.8550474,
+  "lng": 2.3983301,
+  "adres": "81 Rue Alexandre Dumas, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|82 boulevard du général leclerc, argenteuil, france": {
+  "lat": 48.9380065,
+  "lng": 2.2270009,
+  "adres": "82 Boulevard du Général Leclerc, Argenteuil, France",
+  "ts": 1785184761256
+ },
+ "fr|82 pl. d'hautpoul, gaillac, france": {
+  "lat": 43.9013025,
+  "lng": 1.8974091,
+  "adres": "82 Pl. d'Hautpoul, Gaillac, France",
+  "ts": 1785184761256
+ },
+ "fr|83 boulevard de l'hôpital, paris, france": {
+  "lat": 48.8387405,
+  "lng": 2.3612486,
+  "adres": "83 Boulevard de l'Hôpital, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|86 rue vigier, savigny-sur-orge, france": {
+  "lat": 48.6754085,
+  "lng": 2.3453842,
+  "adres": "86 Rue Vigier, Savigny-sur-Orge, France",
+  "ts": 1785184761256
+ },
+ "fr|87 av. aristide briand, évreux": {
+  "lat": 49.0184974,
+  "lng": 1.126441,
+  "adres": "87 Av. Aristide Briand, Évreux",
+  "ts": 1785184761256
+ },
+ "fr|89 rue martin luther king, mont-de-marsan": {
+  "lat": 43.8973389,
+  "lng": -0.4941204,
+  "adres": "89 Rue Martin Luther King, Mont-de-Marsan",
+  "ts": 1785184761256
+ },
+ "fr|8d avenue de moka, saint-malo": {
+  "lat": 48.6539535,
+  "lng": -2.0037971,
+  "adres": "8D Avenue de Moka, Saint-Malo",
+  "ts": 1785184761256
+ },
+ "fr|9 cr gambetta, montpellier": {
+  "mis": true,
+  "adres": "9 Cr Gambetta, Montpellier",
+  "ts": 1785184761256
+ },
+ "fr|9 pl. de verdun, levier, france": {
+  "lat": 46.9534319,
+  "lng": 6.1182136,
+  "adres": "9 Pl. de Verdun, Levier, France",
+  "ts": 1785184761256
+ },
+ "fr|9 rue de gex, saint-genis-pouilly, france": {
+  "lat": 46.24424,
+  "lng": 6.0212339,
+  "adres": "9 Rue de Gex, Saint-Genis-Pouilly, France",
+  "ts": 1785184761256
+ },
+ "fr|9 rue de la cité, challans, france": {
+  "lat": 46.8486745,
+  "lng": -1.8814595,
+  "adres": "9 Rue de la Cité, Challans, France",
+  "ts": 1785184761256
+ },
+ "fr|9 rue de la fontaine, montceau-les-mines": {
+  "lat": 46.6701713,
+  "lng": 4.3593292,
+  "adres": "9 Rue de la Fontaine, Montceau-les-Mines",
+  "ts": 1785184761256
+ },
+ "fr|9 rue de saint-germain, caen, france": {
+  "lat": 49.188989,
+  "lng": -0.4061826,
+  "adres": "9 Rue de Saint-Germain, Caen, France",
+  "ts": 1785184761256
+ },
+ "fr|9 rue des pins, mulhouse, france": {
+  "lat": 47.7569657,
+  "lng": 7.333745,
+  "adres": "9 Rue des Pins, Mulhouse, France",
+  "ts": 1785184761256
+ },
+ "fr|9 rue fabre d'eglantine, liévin": {
+  "lat": 50.4129551,
+  "lng": 2.7892828,
+  "adres": "9 Rue Fabre d'Eglantine, Liévin",
+  "ts": 1785184761256
+ },
+ "fr|93 rue jean jaurès, croix, france": {
+  "lat": 50.6774106,
+  "lng": 3.1521357,
+  "adres": "93 Rue Jean Jaurès, Croix, France",
+  "ts": 1785184761256
+ },
+ "fr|95 bd lepic, aix-les-bains": {
+  "lat": 45.6869741,
+  "lng": 5.9053141,
+  "adres": "95 Bd Lepic, Aix-les-Bains",
+  "ts": 1785184761256
+ },
+ "fr|95 rue de l'ouest, paris, france": {
+  "lat": 48.8345342,
+  "lng": 2.316548,
+  "adres": "95 Rue de l'Ouest, Paris, France",
+  "ts": 1785184761256
+ },
+ "fr|95 rue labourdonnais, saint-denis": {
+  "lat": -20.8750079,
+  "lng": 55.4538998,
+  "adres": "95 Rue Labourdonnais, Saint-Denis",
+  "ts": 1785184761256
+ },
+ "fr|96 rue d'estienne d'orves, rueil-malmaison, france": {
+  "lat": 48.8885386,
+  "lng": 2.1792076,
+  "adres": "96 Rue d'Estienne d'Orves, Rueil-Malmaison, France",
+  "ts": 1785184761256
+ },
+ "fr|98 boulevard d'orléans, rouen": {
+  "lat": 49.4352913,
+  "lng": 1.0858662,
+  "adres": "98 Boulevard d'Orléans, Rouen",
+  "ts": 1785184761256
+ },
+ "fr|99 rue nicolas gargot, la rochelle, france": {
+  "lat": 46.1398002,
+  "lng": -1.1458724,
+  "adres": "99 Rue Nicolas Gargot, La Rochelle, France",
+  "ts": 1785184761256
+ },
+ "fr|all. geneviève anthonioz de gaulle, les lilas": {
+  "lat": 48.8797362,
+  "lng": 2.4145952,
+  "adres": "All. Geneviève Anthonioz de Gaulle, Les Lilas",
+  "ts": 1785184761256
+ },
+ "fr|av. de les indis, arles-sur-tech": {
+  "mis": true,
+  "adres": "Av. de les Indis, Arles-sur-Tech",
+  "ts": 1785184761256
+ },
+ "fr|av. jean monnet, laon": {
+  "lat": 49.5527889,
+  "lng": 3.6059823,
+  "adres": "Av. Jean Monnet, Laon",
+  "ts": 1785184761256
+ },
+ "fr|av. thiers, nice": {
+  "lat": 43.7019658,
+  "lng": 7.2570176,
+  "adres": "Av. Thiers, Nice",
+  "ts": 1785184761256
+ },
+ "fr|avenue du val saint-andré, aix-en-provence, france": {
+  "lat": 43.5178216,
+  "lng": 5.4650166,
+  "adres": "Avenue du Val Saint-André, Aix-en-Provence, France",
+  "ts": 1785184761256
+ },
+ "fr|avenue général de gaulle, le cannet, france": {
+  "lat": 43.5705609,
+  "lng": 6.9950753,
+  "adres": "Avenue Général de Gaulle, Le Cannet, France",
+  "ts": 1785184761256
+ },
+ "fr|avenue louis coirard, aix-en-provence, france": {
+  "lat": 43.5194897,
+  "lng": 5.4383651,
+  "adres": "Avenue Louis Coirard, Aix-en-Provence, France",
+  "ts": 1785184761256
+ },
+ "fr|bd de la cahotte, trouville-sur-mer, france": {
+  "lat": 49.3665536,
+  "lng": 0.0776374,
+  "adres": "Bd de la Cahotte, Trouville-sur-Mer, France",
+  "ts": 1785184761256
+ },
+ "fr|bd des déportés, fougères": {
+  "lat": 48.3418048,
+  "lng": -1.1960927,
+  "adres": "Bd des Déportés, Fougères",
+  "ts": 1785184761256
+ },
+ "fr|bd des hellènes, agde": {
+  "lat": 43.300367,
+  "lng": 3.4818073,
+  "adres": "Bd des Hellènes, Agde",
+  "ts": 1785184761256
+ },
+ "fr|bd louis escande, mâcon": {
+  "lat": 46.3129886,
+  "lng": 4.8150596,
+  "adres": "Bd Louis Escande, Mâcon",
+  "ts": 1785184761256
+ },
+ "fr|boulevard albert 1er, villeneuve-d'ascq, france": {
+  "lat": 50.6570491,
+  "lng": 3.1419969,
+  "adres": "Boulevard Albert 1er, Villeneuve-d'Ascq, France",
+  "ts": 1785184761256
+ },
+ "fr|boulevard andré aubert, dinan, france": {
+  "lat": 48.4608558,
+  "lng": -2.0464823,
+  "adres": "Boulevard André Aubert, Dinan, France",
+  "ts": 1785184761256
+ },
+ "fr|boulevard frédéric et irène joliot-curie, pézenas, france": {
+  "lat": 43.457571,
+  "lng": 3.4139637,
+  "adres": "Boulevard Frédéric et Irène Joliot-Curie, Pézenas, France",
+  "ts": 1785184761256
+ },
+ "fr|boulevard joseph bernard de trans en provence, draguignan, france": {
+  "mis": true,
+  "adres": "Boulevard Joseph Bernard de Trans en Provence, Draguignan, France",
+  "ts": 1785184761256
+ },
+ "fr|chem. du fond de la côte, foix": {
+  "mis": true,
+  "adres": "Chem. du Fond de la Côte, Foix",
+  "ts": 1785184761256
+ },
+ "fr|chemin auguste girard, manosque, france": {
+  "lat": 43.8269576,
+  "lng": 5.8000334,
+  "adres": "Chemin Auguste Girard, Manosque, France",
+  "ts": 1785184761256
+ },
+ "fr|chemin des petits marais, villeparisis, france": {
+  "lat": 48.9430762,
+  "lng": 2.6226573,
+  "adres": "Chemin des Petits Marais, Villeparisis, France",
+  "ts": 1785184761256
+ },
+ "fr|complexe mimoun, chemin de la 2e voie, harnes, france": {
+  "lat": 50.4434009,
+  "lng": 2.8729902,
+  "adres": "Complexe Mimoun, Chemin de la 2E Voie, Harnes, France",
+  "ts": 1785184761256
+ },
+ "fr|cr franklin roosevelt, marseille": {
+  "lat": 43.2989205,
+  "lng": 5.3886092,
+  "adres": "Cr Franklin Roosevelt, Marseille",
+  "ts": 1785184761256
+ },
+ "fr|espace barmondière, villefranche-sur-saône, france": {
+  "lat": 45.9893266,
+  "lng": 4.7168133,
+  "adres": "Espace Barmondière, Villefranche-sur-Saône, France",
+  "ts": 1785184761256
+ },
+ "fr|impasse jean quéré, douarnenez, france": {
+  "lat": 48.0778154,
+  "lng": -4.329396,
+  "adres": "Impasse Jean Quéré, Douarnenez, France",
+  "ts": 1785184761256
+ },
+ "fr|le cros, quissac, france": {
+  "mis": true,
+  "adres": "Le Cros, Quissac, France",
+  "ts": 1785184761256
+ },
+ "fr|maison des associations, 2 bd robespierre, poissy, france": {
+  "lat": 48.9327406,
+  "lng": 2.0424833,
+  "adres": "Maison des Associations, 2 Bd Robespierre, Poissy, France",
+  "ts": 1785184761256
+ },
+ "fr|maison gascoin, 2 rue gascoin, orthez, france": {
+  "lat": 43.4846087,
+  "lng": -0.7754107,
+  "adres": "Maison Gascoin, 2 Rue Gascoin, Orthez, France",
+  "ts": 1785184761256
+ },
+ "fr|paopao, moorea-maiao, polynésie française": {
+  "mis": true,
+  "adres": "Paopao, Moorea-Maiao, Polynésie française",
+  "ts": 1785184761256
+ },
+ "fr|pl. de la mairie, ginoles": {
+  "lat": 42.8683159,
+  "lng": 2.1596919,
+  "adres": "Pl. de la Mairie, Ginoles",
+  "ts": 1785184761256
+ },
+ "fr|pl. de verdun, uzès": {
+  "mis": true,
+  "adres": "Pl. de Verdun, Uzès",
+  "ts": 1785184761256
+ },
+ "fr|pl. des impressionnistes, osny": {
+  "lat": 49.0604404,
+  "lng": 2.0612084,
+  "adres": "Pl. des Impressionnistes, Osny",
+  "ts": 1785184761256
+ },
+ "fr|pl. des justices, angers, france": {
+  "mis": true,
+  "adres": "Pl. des Justices, Angers, France",
+  "ts": 1785184761256
+ },
+ "fr|pl. du maire ernest strasser, haguenau": {
+  "mis": true,
+  "adres": "Pl. du Maire Ernest Strasser, Haguenau",
+  "ts": 1785184761256
+ },
  "fr|pl. louis bonneaud, lorient": {
   "lat": 47.7649929,
   "lng": -3.3778278,
   "adres": "Pl. Louis Bonneaud, Lorient",
   "ts": 1785182768819
  },
+ "fr|pl. saint-christoly, bordeaux, france": {
+  "lat": 44.8397192,
+  "lng": -0.5774745,
+  "adres": "Pl. Saint-Christoly, Bordeaux, France",
+  "ts": 1785184761256
+ },
+ "fr|pl. vitoria, angoulême": {
+  "lat": 45.629953,
+  "lng": 0.1499696,
+  "adres": "Pl. Vitoria, Angoulême",
+  "ts": 1785184761256
+ },
+ "fr|place champ de mars, eu, france": {
+  "mis": true,
+  "adres": "Place Champ de Mars, Eu, France",
+  "ts": 1785184761256
+ },
+ "fr|place de l'iroise, ploufragan, france": {
+  "mis": true,
+  "adres": "Place de l'Iroise, Ploufragan, France",
+  "ts": 1785184761256
+ },
+ "fr|place de la mairie, la clayette, france": {
+  "mis": true,
+  "adres": "Place de la Mairie, La Clayette, France",
+  "ts": 1785184761256
+ },
+ "fr|place de la république, breuil-le-sec": {
+  "lat": 49.3756143,
+  "lng": 2.4514228,
+  "adres": "Place de la République, Breuil-le-Sec",
+  "ts": 1785184761256
+ },
+ "fr|place du général leclerc, camon": {
+  "lat": 49.8875437,
+  "lng": 2.3444493,
+  "adres": "Place du Général Leclerc, Camon",
+  "ts": 1785184761256
+ },
+ "fr|place du marechal foch, jouars-pontchartrain, france": {
+  "lat": 48.8027152,
+  "lng": 1.9002614,
+  "adres": "Place du Marechal Foch, Jouars-Pontchartrain, France",
+  "ts": 1785184761256
+ },
+ "fr|place notre dame, la baule-escoublac, france": {
+  "lat": 47.2831949,
+  "lng": -2.3956012,
+  "adres": "Place Notre Dame, La Baule-Escoublac, France",
+  "ts": 1785184761256
+ },
+ "fr|place saint-clair, lesparre-médoc, france": {
+  "lat": 45.303061,
+  "lng": -0.923559,
+  "adres": "Place Saint-Clair, Lesparre-Médoc, France",
+  "ts": 1785184761256
+ },
+ "fr|place saint-pierre, cagnes-sur-mer, france": {
+  "lat": 43.6578358,
+  "lng": 7.1635881,
+  "adres": "Place Saint-Pierre, Cagnes-sur-Mer, France",
+  "ts": 1785184761256
+ },
+ "fr|place victor hugo, coutances, france": {
+  "lat": 49.053927,
+  "lng": -1.4341895,
+  "adres": "Place Victor Hugo, Coutances, France",
+  "ts": 1785184761256
+ },
+ "fr|presbytère arcades abbayes, vitrolles, france": {
+  "mis": true,
+  "adres": "Presbytère arcades Abbayes, Vitrolles, France",
+  "ts": 1785184761256
+ },
+ "fr|quai jean xxiii, sarrebourg": {
+  "lat": 48.7344574,
+  "lng": 7.0504128,
+  "adres": "Quai Jean XXIII, Sarrebourg",
+  "ts": 1785184761256
+ },
+ "fr|rdpt claude santarelli, tournan-en-brie": {
+  "mis": true,
+  "adres": "Rdpt Claude Santarelli, Tournan-en-Brie",
+  "ts": 1785184761256
+ },
+ "fr|route d’ajaccio, corte": {
+  "lat": 42.302195,
+  "lng": 9.1575864,
+  "adres": "Route d’Ajaccio, Corte",
+  "ts": 1785184761256
+ },
+ "fr|rte d'oppede, ménerbes": {
+  "lat": 43.8327142,
+  "lng": 5.2032208,
+  "adres": "Rte d'Oppede, Ménerbes",
+  "ts": 1785184761256
+ },
+ "fr|rte de dieppe, le bourg-dun, france": {
+  "lat": 49.8649968,
+  "lng": 0.8876015,
+  "adres": "Rte de Dieppe, Le Bourg-Dun, France",
+  "ts": 1785184761256
+ },
+ "fr|rue armand robin, plouguernével, france": {
+  "lat": 48.2402811,
+  "lng": -3.2510101,
+  "adres": "Rue Armand Robin, Plouguernével, France",
+  "ts": 1785184761256
+ },
+ "fr|rue assantza, cambo-les-bains, france": {
+  "lat": 43.3603548,
+  "lng": -1.4070506,
+  "adres": "Rue Assantza, Cambo-les-Bains, France",
+  "ts": 1785184761256
+ },
  "fr|rue de denain, bruay-la-buissière, france": {
   "lat": 50.48427,
   "lng": 2.5522795,
   "adres": "Rue de Denain, Bruay-la-Buissière, France",
   "ts": 1785182768819
+ },
+ "fr|rue de la collégiale, mortain": {
+  "lat": 48.6494112,
+  "lng": -0.941645,
+  "adres": "Rue de la Collégiale, Mortain",
+  "ts": 1785184761256
+ },
+ "fr|rue de la piscine, les abymes": {
+  "mis": true,
+  "adres": "Rue de la Piscine, Les Abymes",
+  "ts": 1785184761256
+ },
+ "fr|rue des anthuriums, les trois-îlets": {
+  "lat": 14.5503332,
+  "lng": -61.0561586,
+  "adres": "Rue des Anthuriums, Les Trois-Îlets",
+  "ts": 1785184761256
+ },
+ "fr|rue des carrières saint-julien, caen": {
+  "lat": 49.189828,
+  "lng": -0.3674405,
+  "adres": "Rue des Carrières Saint-Julien, Caen",
+  "ts": 1785184761256
+ },
+ "fr|rue des halles, auxonne, france": {
+  "lat": 47.1945679,
+  "lng": 5.3875052,
+  "adres": "Rue des Halles, Auxonne, France",
+  "ts": 1785184761256
+ },
+ "fr|rue des ormes, annœullin, france": {
+  "lat": 50.5189708,
+  "lng": 2.9356367,
+  "adres": "Rue des Ormes, Annœullin, France",
+  "ts": 1785184761256
+ },
+ "fr|rue du bief, lamballe, france": {
+  "lat": 48.4664425,
+  "lng": -2.5191136,
+  "adres": "Rue du Bief, Lamballe, France",
+  "ts": 1785184761256
+ },
+ "fr|rue du bois régnier, cholet, france": {
+  "lat": 47.0536184,
+  "lng": -0.8527837,
+  "adres": "Rue du Bois Régnier, Cholet, France",
+  "ts": 1785184761256
+ },
+ "fr|rue du calvaire, landerneau, france": {
+  "lat": 48.4460089,
+  "lng": -4.2582351,
+  "adres": "Rue du Calvaire, Landerneau, France",
+  "ts": 1785184761256
+ },
+ "fr|rue du canal, audruicq, france": {
+  "lat": 50.8846547,
+  "lng": 2.0907136,
+  "adres": "Rue du Canal, Audruicq, France",
+  "ts": 1785184761256
+ },
+ "fr|rue du dr albert schweitzer, la rochelle": {
+  "mis": true,
+  "adres": "Rue du Dr Albert Schweitzer, La Rochelle",
+  "ts": 1785184761256
+ },
+ "fr|rue du general de gaulle papeete society islands, papeete": {
+  "mis": true,
+  "adres": "Rue du General de Gaulle Papeete Society Islands, Papeete",
+  "ts": 1785184761256
+ },
+ "fr|rue du paradis, brioude, france": {
+  "lat": 45.2927347,
+  "lng": 3.3869084,
+  "adres": "Rue du Paradis, Brioude, France",
+  "ts": 1785184761256
+ },
+ "fr|rue gustav priés, yvetot": {
+  "lat": 49.6153116,
+  "lng": 0.7653107,
+  "adres": "Rue Gustav Priés, Yvetot",
+  "ts": 1785184761256
+ },
+ "fr|rue horace de choiseul, viry-châtillon, france": {
+  "lat": 48.6694932,
+  "lng": 2.3750349,
+  "adres": "Rue Horace de Choiseul, Viry-Châtillon, France",
+  "ts": 1785184761256
+ },
+ "fr|rue jean moulin, ambarès-et-lagrave": {
+  "lat": 44.9256089,
+  "lng": -0.4873715,
+  "adres": "Rue Jean Moulin, Ambarès-et-Lagrave",
+  "ts": 1785184761256
+ },
+ "fr|rue lazare hoche, lannion, france": {
+  "lat": 48.7282302,
+  "lng": -3.4462056,
+  "adres": "Rue Lazare Hoche, Lannion, France",
+  "ts": 1785184761256
+ },
+ "fr|rue louis de broglie, tarbes, france": {
+  "lat": 43.2219387,
+  "lng": 0.0783644,
+  "adres": "Rue Louis de Broglie, Tarbes, France",
+  "ts": 1785184761256
+ },
+ "fr|rue marius lacroix, la rochelle, france": {
+  "lat": 46.1762222,
+  "lng": -1.1389579,
+  "adres": "Rue Marius Lacroix, La Rochelle, France",
+  "ts": 1785184761256
+ },
+ "fr|rue maréchal juin, la chapelle-saint-luc, france": {
+  "lat": 48.3144504,
+  "lng": 4.0449323,
+  "adres": "Rue Maréchal Juin, La Chapelle-Saint-Luc, France",
+  "ts": 1785184761256
+ },
+ "fr|rue saint-pierre, vézelay, france": {
+  "lat": 47.4657242,
+  "lng": 3.7460524,
+  "adres": "Rue Saint-Pierre, Vézelay, France",
+  "ts": 1785184761256
+ },
+ "fr|rue stéphane hessel, sarlat-la-canéda, france": {
+  "lat": 44.8928611,
+  "lng": 1.2141972,
+  "adres": "Rue Stéphane Hessel, Sarlat-la-Canéda, France",
+  "ts": 1785184761256
+ },
+ "fr|rue talleyrand, valençay": {
+  "lat": 47.1611455,
+  "lng": 1.5686086,
+  "adres": "Rue Talleyrand, Valençay",
+  "ts": 1785184761256
  },
  "lv|bārddziņu iela 2, rīga": {
   "lat": 56.9390506,
