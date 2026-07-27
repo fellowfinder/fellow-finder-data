@@ -366,6 +366,2806 @@
   "adres": "499 5e avenue, église St-Paul , Shawinigan, secteur Grand-Mère, Québec, G9T 2M3",
   "ts": 1785163224787
  },
+ "es|1-10 york mansions, brownning street, londres-reino unido": {
+  "mis": true,
+  "adres": "1-10 York Mansions, Brownning Street, Londres-Reino Unido",
+  "ts": 1785182768819
+ },
+ "es|123 charing cross road, soho recovery centre, londres-reino unido": {
+  "mis": true,
+  "adres": "123 Charing Cross Road, Soho Recovery Centre, Londres-Reino Unido",
+  "ts": 1785182768819
+ },
+ "es|51 rue de la pompe, parís -francia": {
+  "mis": true,
+  "adres": "51 Rue de la Pompe, París -Francia",
+  "ts": 1785182768819
+ },
+ "es|autovía a31, km.173 -c.penitenciario alicante ii, villena": {
+  "lat": 38.7343013,
+  "lng": -0.9421521,
+  "adres": "Autovía A31, Km.173 -C.Penitenciario Alicante II, Villena",
+  "ts": 1785182768819
+ },
+ "es|av. de andalucía, 38, jaen": {
+  "lat": 37.9799948,
+  "lng": -3.1525496,
+  "adres": "Av. de Andalucía, 38, Jaen",
+  "ts": 1785182768819
+ },
+ "es|av. de la integración, s/nº, rivas-vaciamadrid": {
+  "mis": true,
+  "adres": "Av. de la Integración, s/nº, Rivas-Vaciamadrid",
+  "ts": 1785182768819
+ },
+ "es|av. de viñuelas, 18, tres cantos": {
+  "lat": 40.5952435,
+  "lng": -3.7050264,
+  "adres": "Av. de Viñuelas, 18, Tres Cantos",
+  "ts": 1785182768819
+ },
+ "es|av. diagonal, 424, barcelona": {
+  "lat": 41.3974568,
+  "lng": 2.1623374,
+  "adres": "Av. Diagonal, 424, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|av. europa, 30, l`hospitalet de llobregat": {
+  "lat": 41.3549195,
+  "lng": 2.1144823,
+  "adres": "Av. Europa, 30, L`Hospitalet de Llobregat",
+  "ts": 1785182768819
+ },
+ "es|av. germanías, 2, xátiva": {
+  "mis": true,
+  "adres": "Av. Germanías, 2, Xátiva",
+  "ts": 1785182768819
+ },
+ "es|av. gregorio diego, s/n, málaga": {
+  "lat": 36.6889281,
+  "lng": -4.449788,
+  "adres": "Av. Gregorio Diego, s/n, Málaga",
+  "ts": 1785182768819
+ },
+ "es|av. independencia,15, san sebastián de los reyes": {
+  "lat": 40.5534756,
+  "lng": -3.6350625,
+  "adres": "Av. Independencia,15, San Sebastián De Los Reyes",
+  "ts": 1785182768819
+ },
+ "es|av. juan s. elcano, 2, málaga": {
+  "mis": true,
+  "adres": "Av. Juan S. Elcano, 2, Málaga",
+  "ts": 1785182768819
+ },
+ "es|av. laura garcía noblejas, 3, villaviciosa de odón": {
+  "mis": true,
+  "adres": "Av. Laura García Noblejas, 3, Villaviciosa De Odón",
+  "ts": 1785182768819
+ },
+ "es|av. manantiales. 6, torremolinos": {
+  "lat": 36.6260116,
+  "lng": -4.5016143,
+  "adres": "Av. Manantiales. 6, Torremolinos",
+  "ts": 1785182768819
+ },
+ "es|av. manuel hermoso rojas, 4, santa cruz de tenerife": {
+  "lat": 28.456328,
+  "lng": -16.2590456,
+  "adres": "Av. Manuel Hermoso Rojas, 4, Santa Cruz de Tenerife",
+  "ts": 1785182768819
+ },
+ "es|av. virgen de las angustias, 3, cuenca": {
+  "lat": 40.0627347,
+  "lng": -2.1377577,
+  "adres": "Av. Virgen de las Angustias, 3, Cuenca",
+  "ts": 1785182768819
+ },
+ "es|avd. blanca paloma, 32, jerez": {
+  "mis": true,
+  "adres": "Avd. Blanca Paloma, 32, Jerez",
+  "ts": 1785182768819
+ },
+ "es|avd. libertad, 3, muriedas": {
+  "mis": true,
+  "adres": "Avd. Libertad, 3, Muriedas",
+  "ts": 1785182768819
+ },
+ "es|avd. vicente girones, 3, ontinyent": {
+  "lat": 38.8260998,
+  "lng": -0.6146697,
+  "adres": "Avd. Vicente Girones, 3, Ontinyent",
+  "ts": 1785182768819
+ },
+ "es|avd. volcanes, tinajo-lanzarote": {
+  "mis": true,
+  "adres": "Avd. Volcanes, Tinajo-Lanzarote",
+  "ts": 1785182768819
+ },
+ "es|avda. barber, 28, toledo": {
+  "lat": 39.8720385,
+  "lng": -4.0386316,
+  "adres": "Avda. Barber, 28, Toledo",
+  "ts": 1785182768819
+ },
+ "es|avda. canarias, s/nº, vecindario": {
+  "mis": true,
+  "adres": "Avda. Canarias, s/nº, Vecindario",
+  "ts": 1785182768819
+ },
+ "es|avda. cesáreo alierta, 78, zaragoza": {
+  "lat": 41.639158,
+  "lng": -0.871928,
+  "adres": "Avda. Cesáreo Alierta, 78, Zaragoza",
+  "ts": 1785182768819
+ },
+ "es|avda. constitución, 2, navalmoral de la mata": {
+  "lat": 39.8935085,
+  "lng": -5.5433443,
+  "adres": "Avda. Constitución, 2, Navalmoral de la Mata",
+  "ts": 1785182768819
+ },
+ "es|avda. constitución, 2, puerto de santa maría": {
+  "lat": 36.5932696,
+  "lng": -6.23365,
+  "adres": "Avda. Constitución, 2, Puerto De Santa María",
+  "ts": 1785182768819
+ },
+ "es|avda. de burgos, 7, aranda de duero": {
+  "lat": 41.6714164,
+  "lng": -3.6790957,
+  "adres": "Avda. de Burgos, 7, Aranda De Duero",
+  "ts": 1785182768819
+ },
+ "es|avda. de gijón, 37, avilés": {
+  "lat": 43.5526019,
+  "lng": -5.9020388,
+  "adres": "Avda. de Gijón, 37, Avilés",
+  "ts": 1785182768819
+ },
+ "es|avda. de grecia, s/n, sevilla": {
+  "lat": 37.3485904,
+  "lng": -5.9837973,
+  "adres": "Avda. De Grecia, s/n, Sevilla",
+  "ts": 1785182768819
+ },
+ "es|avda. de guadarrama, 34, majadahonda": {
+  "mis": true,
+  "adres": "Avda. de Guadarrama, 34, Majadahonda",
+  "ts": 1785182768819
+ },
+ "es|avda. de la estación, 8, arroyo de la miel-benalmádena": {
+  "lat": 36.5988567,
+  "lng": -4.5371453,
+  "adres": "Avda. de la Estación, 8, Arroyo de la Miel-Benalmádena",
+  "ts": 1785182768819
+ },
+ "es|avda. de marina, s/n, castilleja de la cuesta": {
+  "mis": true,
+  "adres": "Avda. de Marina, s/n, Castilleja De La Cuesta",
+  "ts": 1785182768819
+ },
+ "es|avda. de pontejos, 27, santander": {
+  "lat": 43.4778701,
+  "lng": -3.792623,
+  "adres": "Avda. de Pontejos, 27, Santander",
+  "ts": 1785182768819
+ },
+ "es|avda. de torrelavega, 48, oviedo": {
+  "lat": 43.3637896,
+  "lng": -5.8368376,
+  "adres": "Avda. de Torrelavega, 48, Oviedo",
+  "ts": 1785182768819
+ },
+ "es|avda. del puerto, 11, torrevieja": {
+  "lat": 37.9715482,
+  "lng": -0.6968007,
+  "adres": "Avda. del Puerto, 11, Torrevieja",
+  "ts": 1785182768819
+ },
+ "es|avda. diagonal, 424, barcelona": {
+  "lat": 41.3974568,
+  "lng": 2.1623374,
+  "adres": "Avda. Diagonal, 424, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|avda. dr. waksman, 22 bajo, valencia": {
+  "lat": 38.0285372,
+  "lng": -0.7401987,
+  "adres": "Avda. Dr. Waksman, 22 bajo, Valencia",
+  "ts": 1785182768819
+ },
+ "es|avda. gibraltar, 6, getafe": {
+  "lat": 40.310564,
+  "lng": -3.7243098,
+  "adres": "Avda. Gibraltar, 6, Getafe",
+  "ts": 1785182768819
+ },
+ "es|avda. isidor macabich, s/nº, ibiza": {
+  "mis": true,
+  "adres": "Avda. Isidor Macabich, s/nº, Ibiza",
+  "ts": 1785182768819
+ },
+ "es|avda. josé fernández vega, s/nº, brenes": {
+  "mis": true,
+  "adres": "Avda. José Fernández Vega, s/nº, Brenes",
+  "ts": 1785182768819
+ },
+ "es|avda. san juan de la salle, 2, sevilla": {
+  "mis": true,
+  "adres": "Avda. San Juan de la Salle, 2, Sevilla",
+  "ts": 1785182768819
+ },
+ "es|avda. tolosa,120, donostia": {
+  "lat": 43.3013449,
+  "lng": -2.0029444,
+  "adres": "Avda. Tolosa,120, Donostia",
+  "ts": 1785182768819
+ },
+ "es|avda. tomás roca bosch, 19, puerto rico": {
+  "lat": 27.7888563,
+  "lng": -15.709163,
+  "adres": "Avda. Tomás Roca Bosch, 19, Puerto Rico",
+  "ts": 1785182768819
+ },
+ "es|avda.portugal, s/nº iglesia santa teresa, toledo": {
+  "mis": true,
+  "adres": "Avda.Portugal, s/nº Iglesia Santa Teresa, Toledo",
+  "ts": 1785182768819
+ },
+ "es|avenida baja navarra, 28, pamplona": {
+  "lat": 42.8134201,
+  "lng": -1.6357864,
+  "adres": "Avenida Baja Navarra, 28, Pamplona",
+  "ts": 1785182768819
+ },
+ "es|avenida cristóbal murrieta, 22, santurtzi": {
+  "lat": 43.3275362,
+  "lng": -3.0289021,
+  "adres": "Avenida Cristóbal Murrieta, 22, Santurtzi",
+  "ts": 1785182768819
+ },
+ "es|avenida de la constitución, los olivos, adeje": {
+  "lat": 28.1203182,
+  "lng": -16.732475,
+  "adres": "Avenida de la Constitución, Los Olivos, Adeje",
+  "ts": 1785182768819
+ },
+ "es|avenida de la ribera, 80, lodosa": {
+  "lat": 42.4207382,
+  "lng": -2.0766657,
+  "adres": "Avenida de la Ribera, 80, Lodosa",
+  "ts": 1785182768819
+ },
+ "es|avenida de los infantes, s/nº, santander": {
+  "mis": true,
+  "adres": "Avenida de los Infantes, s/nº, Santander",
+  "ts": 1785182768819
+ },
+ "es|avenida del ejército, 33, alcalá de henares": {
+  "lat": 40.4789774,
+  "lng": -3.378888,
+  "adres": "Avenida del Ejército, 33, Alcalá de Henares",
+  "ts": 1785182768819
+ },
+ "es|avenida estación, 8, arroyo de la miel": {
+  "lat": 36.5988567,
+  "lng": -4.5371453,
+  "adres": "Avenida Estación, 8, Arroyo de la Miel",
+  "ts": 1785182768819
+ },
+ "es|avenida iparraguirre, 1-3 entreplanta, zumarraga": {
+  "mis": true,
+  "adres": "Avenida Iparraguirre, 1-3 Entreplanta, Zumarraga",
+  "ts": 1785182768819
+ },
+ "es|avenida orcasur, 49, madrid": {
+  "lat": 40.3774755,
+  "lng": -3.6958528,
+  "adres": "Avenida Orcasur, 49, Madrid",
+  "ts": 1785182768819
+ },
+ "es|avenida san ginés, 36, san ginés": {
+  "lat": 37.9595279,
+  "lng": -1.175815,
+  "adres": "Avenida San Ginés, 36, San Ginés",
+  "ts": 1785182768819
+ },
+ "es|avenue jean volders 29, habitaciòn del fondo, saint gilles -bruxelles -bélgica": {
+  "mis": true,
+  "adres": "Avenue Jean Volders 29, habitaciòn del fondo, Saint Gilles -Bruxelles -Bélgica",
+  "ts": 1785182768819
+ },
+ "es|avinguda de valencia, 57, la roca del vallés": {
+  "lat": 41.6074204,
+  "lng": 2.3032452,
+  "adres": "Avinguda de Valencia, 57, La Roca del Vallés",
+  "ts": 1785182768819
+ },
+ "es|barranco grande-carretera del sobradillo 13, taco-la laguna": {
+  "mis": true,
+  "adres": "Barranco Grande-Carretera del Sobradillo 13, Taco-La Laguna",
+  "ts": 1785182768819
+ },
+ "es|barrio urioste, s/nº, urioste-ortuella": {
+  "mis": true,
+  "adres": "Barrio Urioste, s/nº, Urioste-Ortuella",
+  "ts": 1785182768819
+ },
+ "es|biblioteca, bergara": {
+  "lat": 43.1192851,
+  "lng": -2.4108982,
+  "adres": "Biblioteca, Bergara",
+  "ts": 1785182768819
+ },
+ "es|bº amaroz, 34, tolosa": {
+  "mis": true,
+  "adres": "Bº Amaroz, 34, Tolosa",
+  "ts": 1785182768819
+ },
+ "es|bº de alaberga. bajos iglesia cristo redentor, errenteria": {
+  "mis": true,
+  "adres": "Bº de Alaberga. Bajos Iglesia Cristo Redentor, Errenteria",
+  "ts": 1785182768819
+ },
+ "es|c. cultura, 28, santa coloma de gramenet": {
+  "lat": 41.4475942,
+  "lng": 2.2088668,
+  "adres": "C. Cultura, 28, Santa Coloma De Gramenet",
+  "ts": 1785182768819
+ },
+ "es|c.t.libre, arico, salida autopista sur,49 chimiche, el río, desvío las maretas, arico": {
+  "mis": true,
+  "adres": "C.T.Libre, Arico, salida autopista Sur,49 Chimiche, El Río, desvío Las Maretas, Arico",
+  "ts": 1785182768819
+ },
+ "es|c/ 12 de octubre. 42, mieres": {
+  "mis": true,
+  "adres": "C/ 12 de Octubre. 42, Mieres",
+  "ts": 1785182768819
+ },
+ "es|c/ agricultura, 14, salamanca": {
+  "lat": 40.9728612,
+  "lng": -5.6532598,
+  "adres": "C/ Agricultura, 14, Salamanca",
+  "ts": 1785182768819
+ },
+ "es|c/ aguja, 2, albacete": {
+  "lat": 38.9829081,
+  "lng": -1.8695444,
+  "adres": "C/ Aguja, 2, Albacete",
+  "ts": 1785182768819
+ },
+ "es|c/ aigua, 203-205, vilanova i la geltrú": {
+  "lat": 41.2201874,
+  "lng": 1.7101482,
+  "adres": "C/ Aigua, 203-205, Vilanova I La Geltrú",
+  "ts": 1785182768819
+ },
+ "es|c/ alborán, s/nº, jerez": {
+  "mis": true,
+  "adres": "C/ Alborán, s/nº, Jerez",
+  "ts": 1785182768819
+ },
+ "es|c/ albéniz, 7, el entrego": {
+  "lat": 43.2879383,
+  "lng": -5.6367145,
+  "adres": "C/ Albéniz, 7, El Entrego",
+  "ts": 1785182768819
+ },
+ "es|c/ alcalde blázquez, 11, cádiz": {
+  "lat": 36.5099074,
+  "lng": -6.2735514,
+  "adres": "C/ Alcalde Blázquez, 11, Cádiz",
+  "ts": 1785182768819
+ },
+ "es|c/ alcalde díaz saavedra, 20, las palmas": {
+  "mis": true,
+  "adres": "C/ Alcalde Díaz Saavedra, 20, Las Palmas",
+  "ts": 1785182768819
+ },
+ "es|c/ alcalde sáinz de baranda, 3, madrid": {
+  "mis": true,
+  "adres": "C/ Alcalde Sáinz De Baranda, 3, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ alfatares, 2, ondara": {
+  "lat": 38.8269158,
+  "lng": 0.021589,
+  "adres": "C/ Alfatares, 2, Ondara",
+  "ts": 1785182768819
+ },
+ "es|c/ alfonso x el sabio, 38 posterior, parla": {
+  "mis": true,
+  "adres": "C/ Alfonso X el Sabio, 38 posterior, Parla",
+  "ts": 1785182768819
+ },
+ "es|c/ alfredo calderón, 41, las palmas": {
+  "lat": 28.1305262,
+  "lng": -15.4322798,
+  "adres": "C/ Alfredo Calderón, 41, Las Palmas",
+  "ts": 1785182768819
+ },
+ "es|c/ almirante cañas trujillo, s/nº, puerto de santa maría": {
+  "mis": true,
+  "adres": "C/ Almirante Cañas Trujillo, s/nº, Puerto De Santa María",
+  "ts": 1785182768819
+ },
+ "es|c/ alvar núñez, s/nº, sevilla": {
+  "mis": true,
+  "adres": "C/ Alvar Núñez, s/nº, Sevilla",
+  "ts": 1785182768819
+ },
+ "es|c/ ampurdán, 9, gijón": {
+  "lat": 43.5245136,
+  "lng": -5.6695096,
+  "adres": "C/ Ampurdán, 9, Gijón",
+  "ts": 1785182768819
+ },
+ "es|c/ amílcar, 133, barcelona": {
+  "lat": 41.4251012,
+  "lng": 2.1725876,
+  "adres": "C/ Amílcar, 133, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|c/ andalucía,14, vitoria": {
+  "lat": 42.849275,
+  "lng": -2.6583784,
+  "adres": "C/ Andalucía,14, Vitoria",
+  "ts": 1785182768819
+ },
+ "es|c/ aniceto sáenz, 7, sevilla": {
+  "lat": 37.4012635,
+  "lng": -5.9873663,
+  "adres": "C/ Aniceto Sáenz, 7, Sevilla",
+  "ts": 1785182768819
+ },
+ "es|c/ aragón, 4, sabiñánigo": {
+  "lat": 42.5209377,
+  "lng": -0.3710657,
+  "adres": "C/ Aragón, 4, Sabiñánigo",
+  "ts": 1785182768819
+ },
+ "es|c/ arcos escribano, s/n, tudela": {
+  "mis": true,
+  "adres": "C/ Arcos Escribano, s/n, Tudela",
+  "ts": 1785182768819
+ },
+ "es|c/ armengual, 1 parroquia san lorenzo, cádiz": {
+  "mis": true,
+  "adres": "C/ Armengual, 1 Parroquia San Lorenzo, Cádiz",
+  "ts": 1785182768819
+ },
+ "es|c/ arquitecto mas, 4, barcelona": {
+  "mis": true,
+  "adres": "C/ Arquitecto Mas, 4, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|c/ arturo alvarez buylla, oviedo": {
+  "lat": 43.3594719,
+  "lng": -5.8607727,
+  "adres": "C/ Arturo Alvarez Buylla, Oviedo",
+  "ts": 1785182768819
+ },
+ "es|c/ arzobispo elías yanes, 83, san cristobal de la laguna": {
+  "lat": 28.4920395,
+  "lng": -16.3312614,
+  "adres": "C/ Arzobispo Elías Yanes, 83, San Cristobal de la Laguna",
+  "ts": 1785182768819
+ },
+ "es|c/ balanguera, 28, inca": {
+  "lat": 39.7160786,
+  "lng": 2.9028489,
+  "adres": "C/ Balanguera, 28, Inca",
+  "ts": 1785182768819
+ },
+ "es|c/ balleneros, 20, donostia": {
+  "lat": 43.3038237,
+  "lng": -1.9747913,
+  "adres": "C/ Balleneros, 20, Donostia",
+  "ts": 1785182768819
+ },
+ "es|c/ balleneros, 9, irun": {
+  "lat": 43.3364515,
+  "lng": -1.8025803,
+  "adres": "C/ Balleneros, 9, Irun",
+  "ts": 1785182768819
+ },
+ "es|c/ balmes, 17, gijón": {
+  "lat": 43.5349241,
+  "lng": -5.6504513,
+  "adres": "C/ Balmes, 17, Gijón",
+  "ts": 1785182768819
+ },
+ "es|c/ barcelona, 113, l`hospitalet de llobregat": {
+  "lat": 41.3595295,
+  "lng": 2.0960051,
+  "adres": "C/ Barcelona, 113, L`Hospitalet de Llobregat",
+  "ts": 1785182768819
+ },
+ "es|c/ barrio, s/n, villanueva de la vera": {
+  "lat": 40.1276557,
+  "lng": -5.4636808,
+  "adres": "C/ Barrio, s/n, Villanueva De La Vera",
+  "ts": 1785182768819
+ },
+ "es|c/ bartolomé de carranza, 54, pamplona": {
+  "lat": 42.8117581,
+  "lng": -1.6715814,
+  "adres": "C/ Bartolomé de Carranza, 54, Pamplona",
+  "ts": 1785182768819
+ },
+ "es|c/ batalla de lepanto, 55, zaragoza": {
+  "lat": 41.64439,
+  "lng": -0.860857,
+  "adres": "C/ Batalla de Lepanto, 55, Zaragoza",
+  "ts": 1785182768819
+ },
+ "es|c/ beatas, 18 local aa.vv., la unión": {
+  "mis": true,
+  "adres": "C/ Beatas, 18 Local AA.VV., La Unión",
+  "ts": 1785182768819
+ },
+ "es|c/ benasal, 12, castellón": {
+  "lat": 40.4249924,
+  "lng": -0.2562767,
+  "adres": "C/ Benasal, 12, Castellón",
+  "ts": 1785182768819
+ },
+ "es|c/ benavides, 54, santa cruz de tenerife": {
+  "lat": 28.4658962,
+  "lng": -16.2594335,
+  "adres": "C/ Benavides, 54, Santa Cruz De Tenerife",
+  "ts": 1785182768819
+ },
+ "es|c/ beneficencia, 18, madrid": {
+  "lat": 40.4263591,
+  "lng": -3.6985579,
+  "adres": "C/ Beneficencia, 18, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ beneficencia, 18-bis, madrid": {
+  "lat": 40.4256596,
+  "lng": -3.7002178,
+  "adres": "C/ Beneficencia, 18-Bis, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ beneficencia, nº 18, madrid": {
+  "lat": 40.4256596,
+  "lng": -3.7002178,
+  "adres": "C/ Beneficencia, nº 18, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ beteluri, 2, barakaldo": {
+  "lat": 43.2814455,
+  "lng": -2.9894839,
+  "adres": "C/ Beteluri, 2, Barakaldo",
+  "ts": 1785182768819
+ },
+ "es|c/ brasil, 1, peligros": {
+  "lat": 37.2302256,
+  "lng": -3.6274073,
+  "adres": "C/ Brasil, 1, Peligros",
+  "ts": 1785182768819
+ },
+ "es|c/ buen pastor, 80, san fernando": {
+  "lat": 36.4381873,
+  "lng": -6.2120269,
+  "adres": "C/ Buen Pastor, 80, San Fernando",
+  "ts": 1785182768819
+ },
+ "es|c/ buena ventura bonet 2-iglesia cruz señor, santa cruz de tenerife": {
+  "mis": true,
+  "adres": "C/ Buena Ventura Bonet 2-Iglesia Cruz Señor, Santa Cruz De Tenerife",
+  "ts": 1785182768819
+ },
+ "es|c/ caballeros, n.º 5, soria": {
+  "mis": true,
+  "adres": "C/ Caballeros, n.º 5, Soria",
+  "ts": 1785182768819
+ },
+ "es|c/ calabria, 66, barcelona": {
+  "lat": 41.3783552,
+  "lng": 2.1570138,
+  "adres": "C/ Calabria, 66, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|c/ caldera, s/nº, alhaurín de la torre": {
+  "mis": true,
+  "adres": "C/ Caldera, s/nº, Alhaurín de la Torre",
+  "ts": 1785182768819
+ },
+ "es|c/ calderín lópez, 17, telde": {
+  "lat": 27.9959916,
+  "lng": -15.4183531,
+  "adres": "C/ Calderín López, 17, Telde",
+  "ts": 1785182768819
+ },
+ "es|c/ calvario, s/n (local cáritas, marbella": {
+  "mis": true,
+  "adres": "C/ Calvario, s/n (Local Cáritas, Marbella",
+  "ts": 1785182768819
+ },
+ "es|c/ camarena, 183 parrq. santo domingo de guzmán, madrid": {
+  "mis": true,
+  "adres": "C/ Camarena, 183 Parrq. Santo Domingo de Guzmán, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ cambria, 5, pontevedra": {
+  "lat": 42.4443599,
+  "lng": -8.6232662,
+  "adres": "C/ Cambria, 5, Pontevedra",
+  "ts": 1785182768819
+ },
+ "es|c/ campo de la verdad, 10, sevilla": {
+  "lat": 37.3882468,
+  "lng": -5.9230188,
+  "adres": "C/ Campo de la Verdad, 10, Sevilla",
+  "ts": 1785182768819
+ },
+ "es|c/ carlos iii, 52, ferrol": {
+  "lat": 43.4818113,
+  "lng": -8.2262122,
+  "adres": "C/ Carlos III, 52, Ferrol",
+  "ts": 1785182768819
+ },
+ "es|c/ carlos millón, 9, nerja": {
+  "lat": 36.7554308,
+  "lng": -3.8747374,
+  "adres": "C/ Carlos Millón, 9, Nerja",
+  "ts": 1785182768819
+ },
+ "es|c/ carpintero, 2 plaza el tejar, puerto de la cruz": {
+  "mis": true,
+  "adres": "C/ Carpintero, 2 Plaza El Tejar, Puerto De La Cruz",
+  "ts": 1785182768819
+ },
+ "es|c/ carretería, 53, málaga": {
+  "lat": 36.7234838,
+  "lng": -4.4234536,
+  "adres": "C/ Carretería, 53, Málaga",
+  "ts": 1785182768819
+ },
+ "es|c/ cataluña, 23, basauri": {
+  "mis": true,
+  "adres": "C/ Cataluña, 23, Basauri",
+  "ts": 1785182768819
+ },
+ "es|c/ cerro blanco, 2, dos hermanas": {
+  "lat": 37.270486,
+  "lng": -5.9072661,
+  "adres": "C/ Cerro Blanco, 2, Dos Hermanas",
+  "ts": 1785182768819
+ },
+ "es|c/ cervantes, 9, san fernando": {
+  "lat": 36.4659507,
+  "lng": -6.1985562,
+  "adres": "C/ Cervantes, 9, San Fernando",
+  "ts": 1785182768819
+ },
+ "es|c/ ceuta, nº 6, melilla": {
+  "lat": 35.2769297,
+  "lng": -2.9435061,
+  "adres": "C/ Ceuta, nº 6, Melilla",
+  "ts": 1785182768819
+ },
+ "es|c/ chile, 4, los realejos": {
+  "lat": 28.399556,
+  "lng": -16.5746696,
+  "adres": "C/ Chile, 4, Los Realejos",
+  "ts": 1785182768819
+ },
+ "es|c/ clavel, s/nº, tauste": {
+  "mis": true,
+  "adres": "C/ Clavel, s/nº, Tauste",
+  "ts": 1785182768819
+ },
+ "es|c/ comuneros de castilla, 19, talavera de la reina": {
+  "lat": 39.962222,
+  "lng": -4.8413877,
+  "adres": "C/ Comuneros de Castilla, 19, Talavera De La Reina",
+  "ts": 1785182768819
+ },
+ "es|c/ concejal marano henar, 5, san pedro del pinatar": {
+  "mis": true,
+  "adres": "C/ Concejal Marano Henar, 5, San Pedro del Pinatar",
+  "ts": 1785182768819
+ },
+ "es|c/ concepció, 11, reus": {
+  "lat": 41.1542733,
+  "lng": 1.1085812,
+  "adres": "C/ Concepció, 11, Reus",
+  "ts": 1785182768819
+ },
+ "es|c/ concepción, s/nº, borja": {
+  "mis": true,
+  "adres": "C/ Concepción, s/nº, Borja",
+  "ts": 1785182768819
+ },
+ "es|c/ concha espina, 3, reinosa": {
+  "lat": 43.0011581,
+  "lng": -4.1374602,
+  "adres": "C/ Concha Espina, 3, Reinosa",
+  "ts": 1785182768819
+ },
+ "es|c/ concilio de nicea, 47, córdoba": {
+  "lat": 37.8882682,
+  "lng": -4.7566484,
+  "adres": "C/ Concilio de Nicea, 47, Córdoba",
+  "ts": 1785182768819
+ },
+ "es|c/ conde borrell, 307, barcelona": {
+  "mis": true,
+  "adres": "C/ Conde Borrell, 307, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|c/ conde ofalia, 28, almería": {
+  "lat": 36.8384238,
+  "lng": -2.4638858,
+  "adres": "C/ Conde Ofalia, 28, Almería",
+  "ts": 1785182768819
+ },
+ "es|c/ convenio de ginebra, s/n, pinto": {
+  "mis": true,
+  "adres": "C/ Convenio de Ginebra, s/n, Pinto",
+  "ts": 1785182768819
+ },
+ "es|c/ coral, n.º 56, cartagena": {
+  "mis": true,
+  "adres": "C/ Coral, n.º 56, Cartagena",
+  "ts": 1785182768819
+ },
+ "es|c/ corina garcía alonso, 1, san isidro - granadilla de abona": {
+  "mis": true,
+  "adres": "C/ Corina García Alonso, 1, San Isidro - Granadilla de Abona",
+  "ts": 1785182768819
+ },
+ "es|c/ corredera, 21, morón de la frontera": {
+  "lat": 37.122569,
+  "lng": -5.4524406,
+  "adres": "C/ Corredera, 21, Morón De La Frontera",
+  "ts": 1785182768819
+ },
+ "es|c/ cristo lepanto, 11, madrid": {
+  "lat": 40.3805413,
+  "lng": -3.7015551,
+  "adres": "C/ Cristo Lepanto, 11, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ cáceres, 18, alcobendas": {
+  "lat": 40.5384937,
+  "lng": -3.6315868,
+  "adres": "C/ Cáceres, 18, Alcobendas",
+  "ts": 1785182768819
+ },
+ "es|c/ danza prima, 6, pola de siero": {
+  "lat": 43.3904873,
+  "lng": -5.6646005,
+  "adres": "C/ Danza Prima, 6, Pola De Siero",
+  "ts": 1785182768819
+ },
+ "es|c/ de puerto rico, 29, madrid": {
+  "lat": 40.4567855,
+  "lng": -3.6746611,
+  "adres": "C/ De Puerto Rico, 29, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ de sánchez vidal, s/nº, alhama de murcia": {
+  "mis": true,
+  "adres": "C/ de Sánchez Vidal, s/nº, Alhama De Murcia",
+  "ts": 1785182768819
+ },
+ "es|c/ del casino, 3, madrid": {
+  "lat": 40.4065139,
+  "lng": -3.7059145,
+  "adres": "C/ Del Casino, 3, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ del cristo, 2, santo domingo de la calzada": {
+  "mis": true,
+  "adres": "C/ del Cristo, 2, Santo Domingo De La Calzada",
+  "ts": 1785182768819
+ },
+ "es|c/ del cura, 1 casa parroquial, manzanares el real": {
+  "mis": true,
+  "adres": "C/ Del Cura, 1 Casa Parroquial, Manzanares El Real",
+  "ts": 1785182768819
+ },
+ "es|c/ demetrio de la guerra, 1, pozuelo": {
+  "lat": 40.4358514,
+  "lng": -3.8167846,
+  "adres": "C/ Demetrio de la Guerra, 1, Pozuelo",
+  "ts": 1785182768819
+ },
+ "es|c/ diego siloé, 1, málaga": {
+  "lat": 36.7267157,
+  "lng": -4.417614,
+  "adres": "C/ Diego Siloé, 1, Málaga",
+  "ts": 1785182768819
+ },
+ "es|c/ diputación, 2, nerja": {
+  "lat": 36.7454229,
+  "lng": -3.8784858,
+  "adres": "C/ Diputación, 2, Nerja",
+  "ts": 1785182768819
+ },
+ "es|c/ doctor estaca, 2, espinardo": {
+  "mis": true,
+  "adres": "C/ Doctor Estaca, 2, Espinardo",
+  "ts": 1785182768819
+ },
+ "es|c/ doctor ros, 9, alzira": {
+  "lat": 39.1514742,
+  "lng": -0.4397824,
+  "adres": "C/ Doctor Ros, 9, Alzira",
+  "ts": 1785182768819
+ },
+ "es|c/ dos de mayo, 14, estepona": {
+  "lat": 36.428337,
+  "lng": -5.1417868,
+  "adres": "C/ Dos de Mayo, 14, Estepona",
+  "ts": 1785182768819
+ },
+ "es|c/ dr. fleming, 14, ejea de los caballeros": {
+  "lat": 42.1264097,
+  "lng": -1.13718,
+  "adres": "C/ Dr. Fleming, 14, Ejea de los Caballeros",
+  "ts": 1785182768819
+ },
+ "es|c/ duque de sesto, 9, madrid": {
+  "lat": 40.4228158,
+  "lng": -3.6776305,
+  "adres": "C/ Duque de Sesto, 9, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ ecuador, 2, valladolid": {
+  "lat": 41.6309955,
+  "lng": -4.7472057,
+  "adres": "C/ Ecuador, 2, Valladolid",
+  "ts": 1785182768819
+ },
+ "es|c/ el globo, 27, zaragoza": {
+  "lat": 41.6836989,
+  "lng": -0.8722063,
+  "adres": "C/ El Globo, 27, Zaragoza",
+  "ts": 1785182768819
+ },
+ "es|c/ elvas, 2, madrid": {
+  "lat": 40.38513,
+  "lng": -3.7253361,
+  "adres": "C/ Elvas, 2, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ enginyer moncunill, 62, l`hospitalet de llobregat": {
+  "lat": 41.3713832,
+  "lng": 2.1103428,
+  "adres": "C/ Enginyer Moncunill, 62, L`Hospitalet de Llobregat",
+  "ts": 1785182768819
+ },
+ "es|c/ enmedio, 33, alameda": {
+  "lat": 37.208925,
+  "lng": -4.6596933,
+  "adres": "C/ Enmedio, 33, Alameda",
+  "ts": 1785182768819
+ },
+ "es|c/ eras de juan, s/nº 46780 oliva c. particip. ciudadana pinet, oliva": {
+  "mis": true,
+  "adres": "C/ Eras de Juan, s/nº 46780 Oliva C. Particip. Ciudadana Pinet, Oliva",
+  "ts": 1785182768819
+ },
+ "es|c/ escuelas, 2, vitoria": {
+  "lat": 42.8479698,
+  "lng": -2.6714418,
+  "adres": "C/ Escuelas, 2, Vitoria",
+  "ts": 1785182768819
+ },
+ "es|c/ esperanza, 1, bilbao": {
+  "lat": 43.2610525,
+  "lng": -2.9223788,
+  "adres": "C/ Esperanza, 1, Bilbao",
+  "ts": 1785182768819
+ },
+ "es|c/ esperanza, s/n, alhaurín el grande": {
+  "lat": 36.6457636,
+  "lng": -4.681942,
+  "adres": "C/ Esperanza, s/n, Alhaurín El Grande",
+  "ts": 1785182768819
+ },
+ "es|c/ espirea, 1 y 3 parroq. ntra. sra. de américas 1ª planta, madrid": {
+  "mis": true,
+  "adres": "C/ Espirea, 1 y 3 Parroq. Ntra. Sra. de Américas 1ª Planta, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ estrella, 2, sevilla": {
+  "lat": 37.3888147,
+  "lng": -5.9917602,
+  "adres": "C/ Estrella, 2, Sevilla",
+  "ts": 1785182768819
+ },
+ "es|c/ federico garcía lorca, 20, albacete": {
+  "lat": 38.9959846,
+  "lng": -1.8468372,
+  "adres": "C/ Federico García Lorca, 20, Albacete",
+  "ts": 1785182768819
+ },
+ "es|c/ federico garcía lorca, puerto de santa maría": {
+  "lat": 36.5950918,
+  "lng": -6.2405614,
+  "adres": "C/ Federico García Lorca, Puerto De Santa María",
+  "ts": 1785182768819
+ },
+ "es|c/ federico tapia, 7, la coruña": {
+  "mis": true,
+  "adres": "C/ Federico Tapia, 7, La Coruña",
+  "ts": 1785182768819
+ },
+ "es|c/ fenelón, s/n esquina c/ esfinge, madrid": {
+  "mis": true,
+  "adres": "C/ Fenelón, s/n Esquina C/ Esfinge, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ fernando poo, 36 madrid arganzuela, madrid": {
+  "lat": 40.3966982,
+  "lng": -3.7001335,
+  "adres": "C/ Fernando Poo, 36 Madrid Arganzuela, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ ferraz, 74, madrid": {
+  "lat": 40.4290778,
+  "lng": -3.7198985,
+  "adres": "C/ Ferraz, 74, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ ferrocarril, 2, torrejón de ardoz": {
+  "lat": 40.4552978,
+  "lng": -3.4782769,
+  "adres": "C/ Ferrocarril, 2, Torrejón de Ardoz",
+  "ts": 1785182768819
+ },
+ "es|c/ francesc layret, 74, cerdanyola": {
+  "lat": 41.4916468,
+  "lng": 2.1417509,
+  "adres": "C/ Francesc Layret, 74, Cerdanyola",
+  "ts": 1785182768819
+ },
+ "es|c/ fray ceferino, 24 -7º d, oviedo": {
+  "mis": true,
+  "adres": "C/ Fray Ceferino, 24 -7º D, Oviedo",
+  "ts": 1785182768819
+ },
+ "es|c/ frontera, 2 nº 1, el hierro": {
+  "mis": true,
+  "adres": "C/ Frontera, 2 nº 1, El Hierro",
+  "ts": 1785182768819
+ },
+ "es|c/ félix fernández torrado, s/n, badajoz": {
+  "lat": 38.8695119,
+  "lng": -6.989818,
+  "adres": "C/ Félix Fernández Torrado, s/n, Badajoz",
+  "ts": 1785182768819
+ },
+ "es|c/ gabriel aresti, 15, andoain": {
+  "mis": true,
+  "adres": "C/ Gabriel Aresti, 15, Andoain",
+  "ts": 1785182768819
+ },
+ "es|c/ galán, 5, salinas": {
+  "lat": 43.5757359,
+  "lng": -5.9617481,
+  "adres": "C/ Galán, 5, Salinas",
+  "ts": 1785182768819
+ },
+ "es|c/ garcía de nájera, 7, calahorra": {
+  "mis": true,
+  "adres": "C/ García de Nájera, 7, Calahorra",
+  "ts": 1785182768819
+ },
+ "es|c/ garellano, 3, zaidín, granada": {
+  "lat": 37.1554403,
+  "lng": -3.6004005,
+  "adres": "C/ Garellano, 3, Zaidín, Granada",
+  "ts": 1785182768819
+ },
+ "es|c/ general riera, 75, palma de mallorca": {
+  "lat": 39.5881335,
+  "lng": 2.6456086,
+  "adres": "C/ General Riera, 75, Palma De Mallorca",
+  "ts": 1785182768819
+ },
+ "es|c/ ginzo de limia, 47, madrid": {
+  "mis": true,
+  "adres": "C/ Ginzo de Limia, 47, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ goya, 1 puerta 7, torrelavega": {
+  "mis": true,
+  "adres": "C/ Goya, 1 Puerta 7, Torrelavega",
+  "ts": 1785182768819
+ },
+ "es|c/ gravina, 39-41, s. feliu de guixols": {
+  "lat": 41.7852584,
+  "lng": 3.0349339,
+  "adres": "C/ Gravina, 39-41, S. Feliu De Guixols",
+  "ts": 1785182768819
+ },
+ "es|c/ gravina, 4, alicante": {
+  "lat": 38.3451185,
+  "lng": -0.4799375,
+  "adres": "C/ Gravina, 4, Alicante",
+  "ts": 1785182768819
+ },
+ "es|c/ gustavo a. becquer, s/n, sabadell": {
+  "mis": true,
+  "adres": "C/ Gustavo A. Becquer, s/n, Sabadell",
+  "ts": 1785182768819
+ },
+ "es|c/ hartzembusch, 9, teruel": {
+  "mis": true,
+  "adres": "C/ Hartzembusch, 9, Teruel",
+  "ts": 1785182768819
+ },
+ "es|c/ hartzenbusch, 9, teruel": {
+  "lat": 40.3427453,
+  "lng": -1.1059068,
+  "adres": "C/ Hartzenbusch, 9, Teruel",
+  "ts": 1785182768819
+ },
+ "es|c/ hnos. garcía noblejas, 49 pª encarnación del señor-entrada c/ valdecanillas,, madrid": {
+  "mis": true,
+  "adres": "C/ Hnos. García Noblejas, 49 Pª Encarnación del Señor-entrada C/ Valdecanillas,, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ huelva, 2, jerez": {
+  "lat": 36.6969235,
+  "lng": -6.104629,
+  "adres": "C/ Huelva, 2, Jerez",
+  "ts": 1785182768819
+ },
+ "es|c/ huesca, 47, logroño": {
+  "lat": 42.4589913,
+  "lng": -2.4487166,
+  "adres": "C/ Huesca, 47, Logroño",
+  "ts": 1785182768819
+ },
+ "es|c/ ibai ondo, s/nº, ondarroa": {
+  "mis": true,
+  "adres": "C/ Ibai Ondo, s/nº, Ondarroa",
+  "ts": 1785182768819
+ },
+ "es|c/ isidoro gil de muro, 1, arnedo": {
+  "mis": true,
+  "adres": "C/ Isidoro Gil de Muro, 1, Arnedo",
+  "ts": 1785182768819
+ },
+ "es|c/ jaime ferran, 3, sevilla": {
+  "mis": true,
+  "adres": "C/ Jaime Ferran, 3, Sevilla",
+  "ts": 1785182768819
+ },
+ "es|c/ jardines de argatxa,11 b, eibar": {
+  "mis": true,
+  "adres": "C/ Jardines de Argatxa,11 B, Eibar",
+  "ts": 1785182768819
+ },
+ "es|c/ jardines, 2, benidorm": {
+  "lat": 38.5458492,
+  "lng": -0.1340323,
+  "adres": "C/ Jardines, 2, Benidorm",
+  "ts": 1785182768819
+ },
+ "es|c/ jaume rafanell, 11, cornellà de llobregat": {
+  "lat": 41.3554834,
+  "lng": 2.0698392,
+  "adres": "C/ Jaume Rafanell, 11, Cornellà de Llobregat",
+  "ts": 1785182768819
+ },
+ "es|c/ jeromín, 7, jerez": {
+  "lat": 36.6935805,
+  "lng": -6.1415038,
+  "adres": "C/ Jeromín, 7, Jerez",
+  "ts": 1785182768819
+ },
+ "es|c/ joan miró, 17, barcelona": {
+  "lat": 41.3437799,
+  "lng": 2.0361016,
+  "adres": "C/ Joan Miró, 17, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|c/ joan puig, 3, rubí": {
+  "lat": 41.4839828,
+  "lng": 2.0324737,
+  "adres": "C/ Joan Puig, 3, Rubí",
+  "ts": 1785182768819
+ },
+ "es|c/ jorge manrique 1, santa eulalia": {
+  "lat": 38.9877052,
+  "lng": 1.5355856,
+  "adres": "C/ Jorge Manrique 1, Santa Eulalia",
+  "ts": 1785182768819
+ },
+ "es|c/ jorge manrique, 1, santa eulalia": {
+  "lat": 38.9877052,
+  "lng": 1.5355856,
+  "adres": "C/ Jorge Manrique, 1, Santa Eulalia",
+  "ts": 1785182768819
+ },
+ "es|c/ josep clará, 5, vendrell": {
+  "lat": 41.1836832,
+  "lng": 1.5346939,
+  "adres": "C/ Josep Clará, 5, Vendrell",
+  "ts": 1785182768819
+ },
+ "es|c/ josé arana, 1, eskoriatza": {
+  "mis": true,
+  "adres": "C/ José Arana, 1, Eskoriatza",
+  "ts": 1785182768819
+ },
+ "es|c/ juan bravo, 40 bis, madrid": {
+  "lat": 40.4319739,
+  "lng": -3.6773973,
+  "adres": "C/ Juan Bravo, 40 Bis, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ juan calzada, 65, gernika": {
+  "lat": 43.3082203,
+  "lng": -2.6808906,
+  "adres": "C/ Juan Calzada, 65, Gernika",
+  "ts": 1785182768819
+ },
+ "es|c/ juan de juanes, 1, ceuta": {
+  "mis": true,
+  "adres": "C/ Juan de Juanes, 1, Ceuta",
+  "ts": 1785182768819
+ },
+ "es|c/ juan de toledo, 27, san lorenzo del escorial": {
+  "mis": true,
+  "adres": "C/ Juan de Toledo, 27, San Lorenzo Del Escorial",
+  "ts": 1785182768819
+ },
+ "es|c/ juan de toledo, 33, albacete": {
+  "lat": 39.0034398,
+  "lng": -1.8603848,
+  "adres": "C/ Juan de Toledo, 33, Albacete",
+  "ts": 1785182768819
+ },
+ "es|c/ juan fernández, 46, cartagena": {
+  "lat": 37.6204283,
+  "lng": -0.9904346,
+  "adres": "C/ Juan Fernández, 46, Cartagena",
+  "ts": 1785182768819
+ },
+ "es|c/ juan manuel durán, 35, las palmas": {
+  "lat": 28.1352241,
+  "lng": -15.4329038,
+  "adres": "C/ Juan Manuel Durán, 35, Las Palmas",
+  "ts": 1785182768819
+ },
+ "es|c/ juan munar, 14, palma de mallorca": {
+  "mis": true,
+  "adres": "C/ Juan Munar, 14, Palma De Mallorca",
+  "ts": 1785182768819
+ },
+ "es|c/ juan xxiii, 1, cabrera de mar": {
+  "mis": true,
+  "adres": "C/ Juan XXIII, 1, Cabrera De Mar",
+  "ts": 1785182768819
+ },
+ "es|c/ la ermita, 1, valencia": {
+  "lat": 39.4943918,
+  "lng": -0.5691212,
+  "adres": "C/ La Ermita, 1, Valencia",
+  "ts": 1785182768819
+ },
+ "es|c/ la popular, s/nº, tarragona": {
+  "mis": true,
+  "adres": "C/ La Popular, s/nº, Tarragona",
+  "ts": 1785182768819
+ },
+ "es|c/ la tossa, 12, sta. margarita de montbui": {
+  "lat": 41.5755513,
+  "lng": 1.6063787,
+  "adres": "C/ La Tossa, 12, Sta. Margarita de Montbui",
+  "ts": 1785182768819
+ },
+ "es|c/ la venta, 1, collado villalba": {
+  "lat": 40.629778,
+  "lng": -4.007099,
+  "adres": "C/ La Venta, 1, Collado Villalba",
+  "ts": 1785182768819
+ },
+ "es|c/ landazabal, s/nº, burlada": {
+  "mis": true,
+  "adres": "C/ Landazabal, s/nº, Burlada",
+  "ts": 1785182768819
+ },
+ "es|c/ las gaunas,1 bajo, logroño": {
+  "lat": 42.4565196,
+  "lng": -2.4502742,
+  "adres": "C/ Las Gaunas,1 Bajo, Logroño",
+  "ts": 1785182768819
+ },
+ "es|c/ las rampas, fuengirola": {
+  "mis": true,
+  "adres": "C/ Las Rampas, Fuengirola",
+  "ts": 1785182768819
+ },
+ "es|c/ legarbidea, 3, bera de bidasoa": {
+  "mis": true,
+  "adres": "C/ Legarbidea, 3, Bera De Bidasoa",
+  "ts": 1785182768819
+ },
+ "es|c/ leonardo fernández, 4, navia": {
+  "lat": 43.53839,
+  "lng": -6.721184,
+  "adres": "C/ Leonardo Fernández, 4, Navia",
+  "ts": 1785182768819
+ },
+ "es|c/ leyva, 41-43, barcelona": {
+  "mis": true,
+  "adres": "C/ Leyva, 41-43, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|c/ león y castillo, puerto del rosario": {
+  "lat": 28.5014977,
+  "lng": -13.868558,
+  "adres": "C/ León y castillo, Puerto Del Rosario",
+  "ts": 1785182768819
+ },
+ "es|c/ libertad sucre, s/nº, córdoba": {
+  "mis": true,
+  "adres": "C/ Libertad Sucre, s/nº, Córdoba",
+  "ts": 1785182768819
+ },
+ "es|c/ libertad, 4, navalcarnero": {
+  "lat": 40.2920744,
+  "lng": -4.0127395,
+  "adres": "C/ Libertad, 4, Navalcarnero",
+  "ts": 1785182768819
+ },
+ "es|c/ llacuna, 44, barcelona": {
+  "lat": 41.6419713,
+  "lng": 2.1942762,
+  "adres": "C/ Llacuna, 44, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|c/ llefiá, 1-7, badalona": {
+  "lat": 41.4397274,
+  "lng": 2.2238947,
+  "adres": "C/ Llefiá, 1-7, Badalona",
+  "ts": 1785182768819
+ },
+ "es|c/ los huertos, 73, sagunto": {
+  "lat": 39.6811944,
+  "lng": -0.2764956,
+  "adres": "C/ Los Huertos, 73, Sagunto",
+  "ts": 1785182768819
+ },
+ "es|c/ los jardines, 2, benidorm": {
+  "mis": true,
+  "adres": "C/ Los Jardines, 2, Benidorm",
+  "ts": 1785182768819
+ },
+ "es|c/ luís martín, 12, arrecife": {
+  "lat": 28.9589947,
+  "lng": -13.5477865,
+  "adres": "C/ Luís Martín, 12, Arrecife",
+  "ts": 1785182768819
+ },
+ "es|c/ luís morondo,4, pamplona": {
+  "lat": 42.8014355,
+  "lng": -1.6459939,
+  "adres": "C/ Luís Morondo,4, Pamplona",
+  "ts": 1785182768819
+ },
+ "es|c/ lópez de hoyos, 166 parroquia santa matilde, madrid": {
+  "lat": 40.4461759,
+  "lng": -3.6700578,
+  "adres": "C/ López De Hoyos, 166 Parroquia Santa Matilde, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ maldonado, 1 bajo, madrid": {
+  "lat": 40.2371649,
+  "lng": -3.7631695,
+  "adres": "C/ Maldonado, 1 Bajo, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ marbella, 1, cártama": {
+  "lat": 36.7333711,
+  "lng": -4.6120907,
+  "adres": "C/ Marbella, 1, Cártama",
+  "ts": 1785182768819
+ },
+ "es|c/ marqués de viana, 22, madrid": {
+  "lat": 40.4621339,
+  "lng": -3.7008884,
+  "adres": "C/ Marqués de Viana, 22, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ marqués del duero, 61, san pedro de alcántara": {
+  "mis": true,
+  "adres": "C/ Marqués del Duero, 61, San Pedro de Alcántara",
+  "ts": 1785182768819
+ },
+ "es|c/ marroquina, 41, madrid": {
+  "lat": 40.4081576,
+  "lng": -3.6494135,
+  "adres": "C/ Marroquina, 41, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ marsil con c/ cabo mayor, 1, las rozas": {
+  "mis": true,
+  "adres": "C/ Marsil con C/ Cabo Mayor, 1, Las Rozas",
+  "ts": 1785182768819
+ },
+ "es|c/ martín mora, 7, sabiote": {
+  "lat": 38.0690356,
+  "lng": -3.3139331,
+  "adres": "C/ Martín Mora, 7, Sabiote",
+  "ts": 1785182768819
+ },
+ "es|c/ maría ferret, s/nº, palma de mallorca": {
+  "mis": true,
+  "adres": "C/ María Ferret, s/nº, Palma De Mallorca",
+  "ts": 1785182768819
+ },
+ "es|c/ maternidad, 19, montellano": {
+  "lat": 36.9924248,
+  "lng": -5.5694739,
+  "adres": "C/ Maternidad, 19, Montellano",
+  "ts": 1785182768819
+ },
+ "es|c/ mayor, 20, cabezo de torres": {
+  "lat": 38.0238786,
+  "lng": -1.1211742,
+  "adres": "C/ Mayor, 20, Cabezo De Torres",
+  "ts": 1785182768819
+ },
+ "es|c/ mayor, 21 bajo, cangas del narcea": {
+  "lat": 43.1777224,
+  "lng": -6.5506876,
+  "adres": "C/ Mayor, 21 bajo, Cangas Del Narcea",
+  "ts": 1785182768819
+ },
+ "es|c/ mayor, 28, calasparra": {
+  "lat": 38.2311882,
+  "lng": -1.6954765,
+  "adres": "C/ Mayor, 28, Calasparra",
+  "ts": 1785182768819
+ },
+ "es|c/ melonares, 3, galapagar": {
+  "lat": 40.5782474,
+  "lng": -4.0023961,
+  "adres": "C/ Melonares, 3, Galapagar",
+  "ts": 1785182768819
+ },
+ "es|c/ menéndez pelayo, 16, molins de rei": {
+  "lat": 41.4067312,
+  "lng": 2.0217942,
+  "adres": "C/ Menéndez Pelayo, 16, Molins De Rei",
+  "ts": 1785182768819
+ },
+ "es|c/ miguel pérez,16, mendavia": {
+  "lat": 42.4415338,
+  "lng": -2.1989376,
+  "adres": "C/ Miguel Pérez,16, Mendavia",
+  "ts": 1785182768819
+ },
+ "es|c/ monforte del cid, 28, alicante": {
+  "lat": 38.2912445,
+  "lng": -0.5886643,
+  "adres": "C/ Monforte del Cid, 28, Alicante",
+  "ts": 1785182768819
+ },
+ "es|c/ montpalau, 6, pineda de mar": {
+  "lat": 41.6292322,
+  "lng": 2.692438,
+  "adres": "C/ Montpalau, 6, Pineda de Mar",
+  "ts": 1785182768819
+ },
+ "es|c/ murcia, nº 3, torrox costa": {
+  "lat": 36.7363029,
+  "lng": -3.9809631,
+  "adres": "C/ Murcia, nº 3, Torrox Costa",
+  "ts": 1785182768819
+ },
+ "es|c/ mérida, 17, jaraiz de la vera": {
+  "mis": true,
+  "adres": "C/ Mérida, 17, Jaraiz de la Vera",
+  "ts": 1785182768819
+ },
+ "es|c/ núñez de balboa, 43, madrid": {
+  "lat": 40.4880381,
+  "lng": -3.3627925,
+  "adres": "C/ Núñez De Balboa, 43, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ obispo garcía hurtado, s/nº, tarazona": {
+  "mis": true,
+  "adres": "C/ Obispo García Hurtado, s/nº, Tarazona",
+  "ts": 1785182768819
+ },
+ "es|c/ oleguer miró, parroquia sta. mª de montserrat, manresa": {
+  "mis": true,
+  "adres": "C/ Oleguer Miró, Parroquia Sta. Mª de Montserrat, Manresa",
+  "ts": 1785182768819
+ },
+ "es|c/ oriamendi, s/nº, beasain": {
+  "mis": true,
+  "adres": "C/ Oriamendi, s/nº, Beasain",
+  "ts": 1785182768819
+ },
+ "es|c/ orient, 73, sant cugat del valles": {
+  "lat": 41.4745974,
+  "lng": 2.0890388,
+  "adres": "C/ Orient, 73, Sant Cugat del Valles",
+  "ts": 1785182768819
+ },
+ "es|c/ pablo neruda, 33, zaragoza": {
+  "lat": 41.7157212,
+  "lng": -1.0234397,
+  "adres": "C/ Pablo Neruda, 33, Zaragoza",
+  "ts": 1785182768819
+ },
+ "es|c/ padre pandelo, 40, la línea de la concepción": {
+  "lat": 36.1700415,
+  "lng": -5.345372,
+  "adres": "C/ Padre Pandelo, 40, La Línea De La Concepción",
+  "ts": 1785182768819
+ },
+ "es|c/ padre pere, 17, denia": {
+  "lat": 38.7991615,
+  "lng": 0.0859292,
+  "adres": "C/ Padre Pere, 17, Denia",
+  "ts": 1785182768819
+ },
+ "es|c/ palaudàries, 23, barcelona": {
+  "lat": 41.5422667,
+  "lng": 2.2133502,
+  "adres": "C/ Palaudàries, 23, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|c/ palencia, 3 post. local, móstoles": {
+  "mis": true,
+  "adres": "C/ Palencia, 3 Post. Local, Móstoles",
+  "ts": 1785182768819
+ },
+ "es|c/ patricio etxeberría, 3, legazpi": {
+  "mis": true,
+  "adres": "C/ Patricio Etxeberría, 3, Legazpi",
+  "ts": 1785182768819
+ },
+ "es|c/ paz, 4, madrid": {
+  "lat": 40.4155101,
+  "lng": -3.7042569,
+  "adres": "C/ Paz, 4, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ pedro duro, 13, gijón": {
+  "lat": 43.5422607,
+  "lng": -5.6674688,
+  "adres": "C/ Pedro Duro, 13, Gijón",
+  "ts": 1785182768819
+ },
+ "es|c/ pelota, 10, bilbao": {
+  "lat": 28.1021712,
+  "lng": -15.4141775,
+  "adres": "C/ Pelota, 10, Bilbao",
+  "ts": 1785182768819
+ },
+ "es|c/ pere galés, 1, salou": {
+  "lat": 41.0833955,
+  "lng": 1.1334789,
+  "adres": "C/ Pere Galés, 1, Salou",
+  "ts": 1785182768819
+ },
+ "es|c/ pescadería, s/nº, colmenar": {
+  "mis": true,
+  "adres": "C/ Pescadería, s/nº, Colmenar",
+  "ts": 1785182768819
+ },
+ "es|c/ pescadores, 13, torres de taco": {
+  "lat": 28.4529578,
+  "lng": -16.2954152,
+  "adres": "C/ Pescadores, 13, Torres de Taco",
+  "ts": 1785182768819
+ },
+ "es|c/ peñas blancas, s/nº, rincón de la victoria": {
+  "mis": true,
+  "adres": "C/ Peñas Blancas, s/nº, Rincón De La Victoria",
+  "ts": 1785182768819
+ },
+ "es|c/ pico lin de cubel, s/n, pravia": {
+  "mis": true,
+  "adres": "C/ Pico Lin de Cubel, s/n, Pravia",
+  "ts": 1785182768819
+ },
+ "es|c/ pinos alta, 79, madrid": {
+  "lat": 40.4684888,
+  "lng": -3.6990286,
+  "adres": "C/ Pinos Alta, 79, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ pintor miró, 3 parque vosa metro y renfe: móstoles centro, móstoles": {
+  "mis": true,
+  "adres": "C/ Pintor Miró, 3 Parque Vosa Metro y Renfe: Móstoles Centro, Móstoles",
+  "ts": 1785182768819
+ },
+ "es|c/ placeta del compás de la trinidad, 2, málaga": {
+  "mis": true,
+  "adres": "C/ Placeta del Compás de la Trinidad, 2, Málaga",
+  "ts": 1785182768819
+ },
+ "es|c/ poeta ramón de garciasol, 15, guadalajara": {
+  "lat": 40.6329998,
+  "lng": -3.1782554,
+  "adres": "C/ Poeta Ramón de Garciasol, 15, Guadalajara",
+  "ts": 1785182768819
+ },
+ "es|c/ polo y peirolon, 34, valencia": {
+  "mis": true,
+  "adres": "C/ Polo y Peirolon, 34, Valencia",
+  "ts": 1785182768819
+ },
+ "es|c/ popa, 5, grau de gandía": {
+  "lat": 38.9883328,
+  "lng": -0.1618075,
+  "adres": "C/ Popa, 5, Grau de Gandía",
+  "ts": 1785182768819
+ },
+ "es|c/ portal de atea, 32, lekeitio": {
+  "mis": true,
+  "adres": "C/ Portal de Atea, 32, Lekeitio",
+  "ts": 1785182768819
+ },
+ "es|c/ pouet de sant vicent, 1, valencia": {
+  "lat": 39.4787064,
+  "lng": -0.3802592,
+  "adres": "C/ Pouet de Sant Vicent, 1, Valencia",
+  "ts": 1785182768819
+ },
+ "es|c/ pozo villa, 10, huétor tajar": {
+  "lat": 37.1956961,
+  "lng": -4.0434934,
+  "adres": "C/ Pozo Villa, 10, Huétor Tajar",
+  "ts": 1785182768819
+ },
+ "es|c/ prau llamargón, 15 b, nava": {
+  "lat": 43.3586344,
+  "lng": -5.5121271,
+  "adres": "C/ Prau Llamargón, 15 B, Nava",
+  "ts": 1785182768819
+ },
+ "es|c/ presbítero juan anaya, s/nº, marbella": {
+  "mis": true,
+  "adres": "C/ Presbítero Juan Anaya, s/nº, Marbella",
+  "ts": 1785182768819
+ },
+ "es|c/ primavera, 27, granada": {
+  "lat": 37.1625415,
+  "lng": -3.5934819,
+  "adres": "C/ Primavera, 27, Granada",
+  "ts": 1785182768819
+ },
+ "es|c/ primicia, 2, tafalla": {
+  "lat": 42.5276504,
+  "lng": -1.6763709,
+  "adres": "C/ Primicia, 2, Tafalla",
+  "ts": 1785182768819
+ },
+ "es|c/ profesor miguel a. gonzález muñiz, 16 bajo, gijón": {
+  "lat": 43.5471727,
+  "lng": -5.6655617,
+  "adres": "C/ Profesor Miguel A. González Muñiz, 16 Bajo, Gijón",
+  "ts": 1785182768819
+ },
+ "es|c/ progreso, s/nº, sant antoni de portmany": {
+  "mis": true,
+  "adres": "C/ Progreso, s/nº, Sant Antoni de Portmany",
+  "ts": 1785182768819
+ },
+ "es|c/ provenza, 542-544 escalera a, barcelona": {
+  "lat": 41.3642555,
+  "lng": 2.0065215,
+  "adres": "C/ Provenza, 542-544 Escalera A, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|c/ pérez galdós, 21, sanlúcar de barrameda": {
+  "lat": 36.7782965,
+  "lng": -6.3561042,
+  "adres": "C/ Pérez Galdós, 21, Sanlúcar De Barrameda",
+  "ts": 1785182768819
+ },
+ "es|c/ pérez muñoz, 4, las palmas": {
+  "lat": 28.1517054,
+  "lng": -15.427431,
+  "adres": "C/ Pérez Muñoz, 4, Las Palmas",
+  "ts": 1785182768819
+ },
+ "es|c/ rafael lozana, iglesia de santa olaya, gijón": {
+  "mis": true,
+  "adres": "C/ Rafael Lozana, Iglesia de Santa Olaya, Gijón",
+  "ts": 1785182768819
+ },
+ "es|c/ ramiro ledesma, 1 a, coín": {
+  "lat": 36.660102,
+  "lng": -4.7541857,
+  "adres": "C/ Ramiro Ledesma, 1 A, Coín",
+  "ts": 1785182768819
+ },
+ "es|c/ ramón garcía agüelles, s/nº, la felguera": {
+  "mis": true,
+  "adres": "C/ Ramón García Agüelles, s/nº, La Felguera",
+  "ts": 1785182768819
+ },
+ "es|c/ ramón pérez de ayala, 32 ctro pastoral sta maría de fontarrón, madrid": {
+  "mis": true,
+  "adres": "C/ Ramón Pérez de Ayala, 32 Ctro Pastoral Sta María de Fontarrón, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ ramón y cajal, 16, bornos": {
+  "lat": 36.8158856,
+  "lng": -5.7455858,
+  "adres": "C/ Ramón y Cajal, 16, Bornos",
+  "ts": 1785182768819
+ },
+ "es|c/ ramón y cajal, s/n, cartagena": {
+  "lat": 37.6080422,
+  "lng": -0.9906177,
+  "adres": "C/ Ramón y Cajal, s/n, Cartagena",
+  "ts": 1785182768819
+ },
+ "es|c/ rapela, 1, celanova": {
+  "mis": true,
+  "adres": "C/ Rapela, 1, Celanova",
+  "ts": 1785182768819
+ },
+ "es|c/ real, 79, arganda del rey": {
+  "lat": 40.2999735,
+  "lng": -3.4360005,
+  "adres": "C/ Real, 79, Arganda del Rey",
+  "ts": 1785182768819
+ },
+ "es|c/ rector caldentey, 2, manacor": {
+  "lat": 39.5679691,
+  "lng": 3.2109784,
+  "adres": "C/ Rector Caldentey, 2, Manacor",
+  "ts": 1785182768819
+ },
+ "es|c/ rectoría, 2, palma de mallorca": {
+  "mis": true,
+  "adres": "C/ Rectoría, 2, Palma De Mallorca",
+  "ts": 1785182768819
+ },
+ "es|c/ regacho, 9 bajo, mislata": {
+  "mis": true,
+  "adres": "C/ Regacho, 9 bajo, Mislata",
+  "ts": 1785182768819
+ },
+ "es|c/ reina isabel la católica, 5, arenas de san pedro": {
+  "lat": 40.2092425,
+  "lng": -5.090907,
+  "adres": "C/ Reina Isabel La Católica, 5, Arenas De San Pedro",
+  "ts": 1785182768819
+ },
+ "es|c/ remei, 40, vic": {
+  "lat": 41.9237626,
+  "lng": 2.2498599,
+  "adres": "C/ Remei, 40, Vic",
+  "ts": 1785182768819
+ },
+ "es|c/ rico home, 3 y 5, alcalá de henares": {
+  "mis": true,
+  "adres": "C/ Rico Home, 3 y 5, Alcalá de Henares",
+  "ts": 1785182768819
+ },
+ "es|c/ riereta, 4, sant boi": {
+  "lat": 41.3469041,
+  "lng": 2.0423379,
+  "adres": "C/ Riereta, 4, Sant Boi",
+  "ts": 1785182768819
+ },
+ "es|c/ rioja, 10 -parroquia san josé obrero, ávila": {
+  "mis": true,
+  "adres": "C/ Rioja, 10 -Parroquia San José Obrero, Ávila",
+  "ts": 1785182768819
+ },
+ "es|c/ risco de peloche, 1, madrid": {
+  "lat": 40.393912,
+  "lng": -3.6570554,
+  "adres": "C/ Risco de Peloche, 1, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ romeral, 6, madrid": {
+  "lat": 40.4928227,
+  "lng": -3.8733994,
+  "adres": "C/ Romeral, 6, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ ronda de levante, 52, santiago de la ribera": {
+  "mis": true,
+  "adres": "C/ Ronda de Levante, 52, Santiago de la Ribera",
+  "ts": 1785182768819
+ },
+ "es|c/ ronda de muleros, 13, jerez": {
+  "lat": 36.6774431,
+  "lng": -6.1362519,
+  "adres": "C/ Ronda de Muleros, 13, Jerez",
+  "ts": 1785182768819
+ },
+ "es|c/ roubaix, s/n, sabadell": {
+  "lat": 41.5393972,
+  "lng": 2.1198371,
+  "adres": "C/ Roubaix, s/n, Sabadell",
+  "ts": 1785182768819
+ },
+ "es|c/ rumbau, 4 acc. bajo esq. san vicente martir, 40, valencia": {
+  "mis": true,
+  "adres": "C/ Rumbau, 4 Acc. bajo Esq. San Vicente Martir, 40, Valencia",
+  "ts": 1785182768819
+ },
+ "es|c/ río alcarrache, 7, málaga": {
+  "lat": 36.7071669,
+  "lng": -4.4379423,
+  "adres": "C/ Río Alcarrache, 7, Málaga",
+  "ts": 1785182768819
+ },
+ "es|c/ río de las pasadas, s/nº urbanización el albero las lagunas, mijas-costa": {
+  "mis": true,
+  "adres": "C/ Río de las Pasadas, s/nº Urbanización El Albero Las Lagunas, Mijas-Costa",
+  "ts": 1785182768819
+ },
+ "es|c/ sabino arana, 42, bilbao": {
+  "mis": true,
+  "adres": "C/ Sabino Arana, 42, Bilbao",
+  "ts": 1785182768819
+ },
+ "es|c/ sabino álvarez gendín, 26, avilés": {
+  "lat": 43.550227,
+  "lng": -5.9272601,
+  "adres": "C/ Sabino Álvarez Gendín, 26, Avilés",
+  "ts": 1785182768819
+ },
+ "es|c/ saeta, s/n o c/ el guerra, 23-parroq ntra. sra. del carmen, granada": {
+  "mis": true,
+  "adres": "C/ Saeta, s/n o C/ El Guerra, 23-Parroq Ntra. Sra. del Carmen, Granada",
+  "ts": 1785182768819
+ },
+ "es|c/ sagunto, 130, valencia": {
+  "lat": 39.9852726,
+  "lng": -0.0514976,
+  "adres": "C/ Sagunto, 130, Valencia",
+  "ts": 1785182768819
+ },
+ "es|c/ salvador rodríguez navas, 2, fuengirola": {
+  "lat": 36.5353841,
+  "lng": -4.6249807,
+  "adres": "C/ Salvador Rodríguez Navas, 2, Fuengirola",
+  "ts": 1785182768819
+ },
+ "es|c/ san agatángelo, 43, alicante": {
+  "lat": 38.3412269,
+  "lng": -0.4997832,
+  "adres": "C/ San Agatángelo, 43, Alicante",
+  "ts": 1785182768819
+ },
+ "es|c/ san bartolomé, 30, donostia": {
+  "lat": 43.3152841,
+  "lng": -1.9861543,
+  "adres": "C/ San Bartolomé, 30, Donostia",
+  "ts": 1785182768819
+ },
+ "es|c/ san bartolomé, 35 (bajo nº 6, el campello": {
+  "mis": true,
+  "adres": "C/ San Bartolomé, 35 (Bajo nº 6, El Campello",
+  "ts": 1785182768819
+ },
+ "es|c/ san cugat, 141 local dcha., mataró": {
+  "mis": true,
+  "adres": "C/ San Cugat, 141 Local Dcha., Mataró",
+  "ts": 1785182768819
+ },
+ "es|c/ san diego, s/nº casa del cura-c. parroquial s. diego, lorca": {
+  "mis": true,
+  "adres": "C/ San Diego, s/nº Casa del Cura-C. Parroquial S. Diego, Lorca",
+  "ts": 1785182768819
+ },
+ "es|c/ san eloi, 7, barcelona": {
+  "mis": true,
+  "adres": "C/ San Eloi, 7, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|c/ san florencio, 1, madrid": {
+  "lat": 40.4045214,
+  "lng": -3.6603764,
+  "adres": "C/ San Florencio, 1, Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ san josep, 1, santa margarida i els monjos": {
+  "mis": true,
+  "adres": "C/ San Josep, 1, Santa Margarida i Els Monjos",
+  "ts": 1785182768819
+ },
+ "es|c/ san josé, 14, murcia": {
+  "lat": 38.6139572,
+  "lng": -1.114544,
+  "adres": "C/ San José, 14, Murcia",
+  "ts": 1785182768819
+ },
+ "es|c/ san juan, 12, la almunia de doña godina": {
+  "lat": 41.478386,
+  "lng": -1.3714893,
+  "adres": "C/ San Juan, 12, La Almunia de Doña Godina",
+  "ts": 1785182768819
+ },
+ "es|c/ san juan, 34, la orotava": {
+  "lat": 28.3876162,
+  "lng": -16.5244532,
+  "adres": "C/ San Juan, 34, La Orotava",
+  "ts": 1785182768819
+ },
+ "es|c/ san miguel, s/nº, marchena": {
+  "mis": true,
+  "adres": "C/ San Miguel, s/nº, Marchena",
+  "ts": 1785182768819
+ },
+ "es|c/ san pedro, 1, sant adrià del besos": {
+  "mis": true,
+  "adres": "C/ San Pedro, 1, Sant Adrià Del Besos",
+  "ts": 1785182768819
+ },
+ "es|c/ san prudencio, 6, logroño": {
+  "lat": 42.4670417,
+  "lng": -2.4300198,
+  "adres": "C/ San Prudencio, 6, Logroño",
+  "ts": 1785182768819
+ },
+ "es|c/ san roque, 1, motril": {
+  "lat": 36.7507815,
+  "lng": -3.5223467,
+  "adres": "C/ San Roque, 1, Motril",
+  "ts": 1785182768819
+ },
+ "es|c/ san santa isabel, 17, benicarló": {
+  "mis": true,
+  "adres": "C/ San Santa Isabel, 17, Benicarló",
+  "ts": 1785182768819
+ },
+ "es|c/ san vicente,3, donostia": {
+  "lat": 43.324347,
+  "lng": -1.9838017,
+  "adres": "C/ San Vicente,3, Donostia",
+  "ts": 1785182768819
+ },
+ "es|c/ sant antoni, 60, premiá de mar": {
+  "lat": 41.4897874,
+  "lng": 2.3579717,
+  "adres": "C/ Sant Antoni, 60, Premiá De Mar",
+  "ts": 1785182768819
+ },
+ "es|c/ sant roc, 2, vilassar de mar": {
+  "lat": 41.5025514,
+  "lng": 2.3915251,
+  "adres": "C/ Sant Roc, 2, Vilassar de Mar",
+  "ts": 1785182768819
+ },
+ "es|c/ santa ana, 44, león": {
+  "lat": 42.5945457,
+  "lng": -5.5659396,
+  "adres": "C/ Santa Ana, 44, León",
+  "ts": 1785182768819
+ },
+ "es|c/ santa ana, n.º 3, oviedo": {
+  "mis": true,
+  "adres": "C/ Santa Ana, n.º 3, Oviedo",
+  "ts": 1785182768819
+ },
+ "es|c/ santa creu, 2, barcelona": {
+  "lat": 41.5254786,
+  "lng": 2.3680459,
+  "adres": "C/ Santa Creu, 2, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|c/ santa felicidad, 31 locales aa.vv., madrid": {
+  "mis": true,
+  "adres": "C/ Santa Felicidad, 31 Locales AA.VV., Madrid",
+  "ts": 1785182768819
+ },
+ "es|c/ santa maría, 4, ordizia": {
+  "lat": 43.0530622,
+  "lng": -2.1798919,
+  "adres": "C/ Santa María, 4, Ordizia",
+  "ts": 1785182768819
+ },
+ "es|c/ santísima sangre, 7, lliria": {
+  "lat": 39.6251335,
+  "lng": -0.5942927,
+  "adres": "C/ Santísima Sangre, 7, Lliria",
+  "ts": 1785182768819
+ },
+ "es|c/ santísima trinidad, 2, los barrios": {
+  "lat": 36.1844926,
+  "lng": -5.4931222,
+  "adres": "C/ Santísima Trinidad, 2, Los Barrios",
+  "ts": 1785182768819
+ },
+ "es|c/ saturraran, 1, bilbao": {
+  "lat": 43.2785572,
+  "lng": -2.9591052,
+  "adres": "C/ Saturraran, 1, Bilbao",
+  "ts": 1785182768819
+ },
+ "es|c/ sebastián machado, 59 despacho parroq. local adj. cáritas, tacoronte": {
+  "mis": true,
+  "adres": "C/ Sebastián Machado, 59 Despacho Parroq. local adj. Cáritas, Tacoronte",
+  "ts": 1785182768819
+ },
+ "es|c/ selva de mar, 261, barcelona": {
+  "lat": 41.4181686,
+  "lng": 2.1964522,
+  "adres": "C/ Selva de Mar, 261, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|c/ severo ochoa, 53, burgos": {
+  "lat": 42.3533277,
+  "lng": -3.675509,
+  "adres": "C/ Severo Ochoa, 53, Burgos",
+  "ts": 1785182768819
+ },
+ "es|c/ sierra nevada, 1, balsicas": {
+  "mis": true,
+  "adres": "C/ Sierra Nevada, 1, Balsicas",
+  "ts": 1785182768819
+ },
+ "es|c/ simancas, 78, las palmas": {
+  "lat": 28.1298514,
+  "lng": -15.4439312,
+  "adres": "C/ Simancas, 78, Las Palmas",
+  "ts": 1785182768819
+ },
+ "es|c/ socuéllamos, 2, ciudad real": {
+  "lat": 38.6979964,
+  "lng": -4.1084493,
+  "adres": "C/ Socuéllamos, 2, Ciudad Real",
+  "ts": 1785182768819
+ },
+ "es|c/ soledad, 10, puertollano": {
+  "lat": 38.6861506,
+  "lng": -4.1096531,
+  "adres": "C/ Soledad, 10, Puertollano",
+  "ts": 1785182768819
+ },
+ "es|c/ sombrerers, 6, barcelona": {
+  "lat": 41.3842803,
+  "lng": 2.1821505,
+  "adres": "C/ Sombrerers, 6, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|c/ sta.maría,7, arenys de mar": {
+  "lat": 41.5835616,
+  "lng": 2.54884,
+  "adres": "C/ Sta.María,7, Arenys De Mar",
+  "ts": 1785182768819
+ },
+ "es|c/ tallers, 26, barcelona": {
+  "lat": 41.3848479,
+  "lng": 2.1684317,
+  "adres": "C/ Tallers, 26, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|c/ tarragona, 8, figueres": {
+  "lat": 42.2608572,
+  "lng": 2.9568147,
+  "adres": "C/ Tarragona, 8, Figueres",
+  "ts": 1785182768819
+ },
+ "es|c/ tercio de flandes, 15, plasencia": {
+  "lat": 40.0411497,
+  "lng": -6.0799976,
+  "adres": "C/ Tercio de Flandes, 15, Plasencia",
+  "ts": 1785182768819
+ },
+ "es|c/ tormento, n.º 2, las palmas": {
+  "mis": true,
+  "adres": "C/ Tormento, n.º 2, Las Palmas",
+  "ts": 1785182768819
+ },
+ "es|c/ trinidad grund, 21, málaga": {
+  "lat": 36.7168705,
+  "lng": -4.4228596,
+  "adres": "C/ Trinidad Grund, 21, Málaga",
+  "ts": 1785182768819
+ },
+ "es|c/ unceta, 18, zaragoza": {
+  "lat": 41.6520184,
+  "lng": -0.9020382,
+  "adres": "C/ Unceta, 18, Zaragoza",
+  "ts": 1785182768819
+ },
+ "es|c/ valserrano, 6, algete": {
+  "lat": 40.5927392,
+  "lng": -3.4995337,
+  "adres": "C/ Valserrano, 6, Algete",
+  "ts": 1785182768819
+ },
+ "es|c/ vilamar, 21, calafell": {
+  "lat": 41.1876597,
+  "lng": 1.5705347,
+  "adres": "C/ Vilamar, 21, Calafell",
+  "ts": 1785182768819
+ },
+ "es|c/ villarroel, 83, barcelona": {
+  "lat": 41.3844163,
+  "lng": 2.1576293,
+  "adres": "C/ Villarroel, 83, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|c/ vázquez varela, 56, vigo": {
+  "mis": true,
+  "adres": "C/ Vázquez Varela, 56, Vigo",
+  "ts": 1785182768819
+ },
+ "es|c/ xosé gil, s/nº, vigo": {
+  "mis": true,
+  "adres": "C/ Xosé Gil, s/nº, Vigo",
+  "ts": 1785182768819
+ },
+ "es|c/ zamora, 5, fuenlabrada": {
+  "lat": 40.3197445,
+  "lng": -3.7560796,
+  "adres": "C/ Zamora, 5, Fuenlabrada",
+  "ts": 1785182768819
+ },
+ "es|c/ zoreasu, 2, azpeitia": {
+  "mis": true,
+  "adres": "C/ Zoreasu, 2, Azpeitia",
+  "ts": 1785182768819
+ },
+ "es|calle b, nº 40, lalín": {
+  "lat": 43.2412865,
+  "lng": -2.9230549,
+  "adres": "Calle B, nº 40, Lalín",
+  "ts": 1785182768819
+ },
+ "es|calle barcelona, 19, banyolas": {
+  "mis": true,
+  "adres": "Calle Barcelona, 19, Banyolas",
+  "ts": 1785182768819
+ },
+ "es|calle daraxa, 36, atarfe": {
+  "lat": 37.2213489,
+  "lng": -3.6838099,
+  "adres": "Calle Daraxa, 36, Atarfe",
+  "ts": 1785182768819
+ },
+ "es|calle mayor, 0, puerto de mazarrón": {
+  "lat": 37.5654361,
+  "lng": -1.2591714,
+  "adres": "Calle Mayor, 0, Puerto de Mazarrón",
+  "ts": 1785182768819
+ },
+ "es|carrer capitán arenas, 9, barcelona": {
+  "mis": true,
+  "adres": "Carrer Capitán Arenas, 9, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|carrer d`amália soler, 68, vilafranca del penedés": {
+  "lat": 41.3436927,
+  "lng": 1.7012829,
+  "adres": "Carrer D`Amália Soler, 68, Vilafranca del Penedés",
+  "ts": 1785182768819
+ },
+ "es|carrer de bagur, 8, barcelona": {
+  "mis": true,
+  "adres": "Carrer de Bagur, 8, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|carrer la mar, 91 bajo, altea": {
+  "mis": true,
+  "adres": "Carrer La Mar, 91 Bajo, Altea",
+  "ts": 1785182768819
+ },
+ "es|carrer nou, 34, montmeló": {
+  "lat": 41.5548243,
+  "lng": 2.2492575,
+  "adres": "Carrer Nou, 34, Montmeló",
+  "ts": 1785182768819
+ },
+ "es|carrer núñez de balboa, 6, palma de mallorca": {
+  "lat": 39.5699746,
+  "lng": 2.6290841,
+  "adres": "Carrer Núñez de Balboa, 6, Palma De Mallorca",
+  "ts": 1785182768819
+ },
+ "es|carrer sant antoni, 166, sant antoni de calonge": {
+  "lat": 41.8482915,
+  "lng": 3.1088128,
+  "adres": "Carrer Sant Antoni, 166, Sant Antoni De Calonge",
+  "ts": 1785182768819
+ },
+ "es|carrera de caldes, 23, granollers": {
+  "mis": true,
+  "adres": "Carrera de Caldes, 23, Granollers",
+  "ts": 1785182768819
+ },
+ "es|carretera coín, 39, churriana": {
+  "lat": 36.660018,
+  "lng": -4.4973787,
+  "adres": "Carretera Coín, 39, Churriana",
+  "ts": 1785182768819
+ },
+ "es|carretera de fuente el saz, 1, el casar": {
+  "mis": true,
+  "adres": "Carretera de Fuente el Saz, 1, El Casar",
+  "ts": 1785182768819
+ },
+ "es|carretera los palacios-utrera, km. 2, los palacios y villafranca": {
+  "lat": 37.1749836,
+  "lng": -5.8687821,
+  "adres": "Carretera Los Palacios-Utrera, km. 2, Los Palacios y Villafranca",
+  "ts": 1785182768819
+ },
+ "es|casa serafina, 2º piso, colindres": {
+  "mis": true,
+  "adres": "Casa Serafina, 2º piso, Colindres",
+  "ts": 1785182768819
+ },
+ "es|centro cultural, caleta de fuste": {
+  "mis": true,
+  "adres": "Centro Cultural, Caleta De Fuste",
+  "ts": 1785182768819
+ },
+ "es|centro penitenciario puerto sta. maría, puerto santa maría": {
+  "lat": 36.6661485,
+  "lng": -6.257879,
+  "adres": "Centro Penitenciario Puerto Sta. María, Puerto Santa María",
+  "ts": 1785182768819
+ },
+ "es|centro social, c/ perpetua nuestra señora paz, 79, molina de segura": {
+  "mis": true,
+  "adres": "Centro Social, C/ Perpetua Nuestra Señora Paz, 79, Molina De Segura",
+  "ts": 1785182768819
+ },
+ "es|corredoria baja, 136 parroquia s. juan bautista, oviedo": {
+  "mis": true,
+  "adres": "Corredoria Baja, 136 Parroquia S. Juan Bautista, Oviedo",
+  "ts": 1785182768819
+ },
+ "es|ctra. valencia-barcelona, 83b 12500 vinaros, vinarós": {
+  "lat": 40.4786231,
+  "lng": 0.4702156,
+  "adres": "Ctra. Valencia-Barcelona, 83b 12500 VINAROS, Vinarós",
+  "ts": 1785182768819
+ },
+ "es|donantes sangre,s/nº, cortes": {
+  "mis": true,
+  "adres": "Donantes sangre,s/nº, Cortes",
+  "ts": 1785182768819
+ },
+ "es|erdiko kalea, s/n, markina-xemein": {
+  "lat": 43.2676887,
+  "lng": -2.497675,
+  "adres": "Erdiko kalea, s/n, Markina-Xemein",
+  "ts": 1785182768819
+ },
+ "es|feherbelliner str. 92-2ª planta, berlín -alemania": {
+  "mis": true,
+  "adres": "Feherbelliner Str. 92-2ª Planta, Berlín -Alemania",
+  "ts": 1785182768819
+ },
+ "es|finca la moraga, s/nº centro penitenciario de málaga, alhaurin de la torre": {
+  "mis": true,
+  "adres": "Finca La Moraga, s/nº Centro Penitenciario de Málaga, Alhaurin de la Torre",
+  "ts": 1785182768819
+ },
+ "es|hotel entitats, cubelles": {
+  "mis": true,
+  "adres": "Hotel Entitats, Cubelles",
+  "ts": 1785182768819
+ },
+ "es|iglesia ntra. sra. de la palma, algeciras": {
+  "mis": true,
+  "adres": "Iglesia Ntra. Sra. de la Palma, Algeciras",
+  "ts": 1785182768819
+ },
+ "es|j. mª salaverría kalea, 2, donostia": {
+  "mis": true,
+  "adres": "J. Mª Salaverría Kalea, 2, Donostia",
+  "ts": 1785182768819
+ },
+ "es|joaquín borralla, 3, magalluf": {
+  "mis": true,
+  "adres": "Joaquín Borralla, 3, Magalluf",
+  "ts": 1785182768819
+ },
+ "es|kale nagusia, 23 puerta lateral, lasarte-oria": {
+  "mis": true,
+  "adres": "Kale Nagusia, 23 Puerta lateral, Lasarte-Oria",
+  "ts": 1785182768819
+ },
+ "es|kta kultur tailerra arrantzale kalea, 67, orio": {
+  "mis": true,
+  "adres": "Kta Kultur Tailerra Arrantzale kalea, 67, Orio",
+  "ts": 1785182768819
+ },
+ "es|langako enparantza, 16, zarautz": {
+  "mis": true,
+  "adres": "Langako enparantza, 16, Zarautz",
+  "ts": 1785182768819
+ },
+ "es|marqués de vistalegre, infiesto": {
+  "lat": 43.3454987,
+  "lng": -5.3650401,
+  "adres": "Marqués de Vistalegre, Infiesto",
+  "ts": 1785182768819
+ },
+ "es|orfila, barcelona": {
+  "lat": 41.4821012,
+  "lng": 2.3166466,
+  "adres": "Orfila, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|osasun etxea, kale nagusia, segura": {
+  "mis": true,
+  "adres": "Osasun Etxea, Kale Nagusia, Segura",
+  "ts": 1785182768819
+ },
+ "es|parque botánico, maspalomas": {
+  "mis": true,
+  "adres": "Parque Botánico, Maspalomas",
+  "ts": 1785182768819
+ },
+ "es|parque constitución, 30, las torres de cotillas": {
+  "mis": true,
+  "adres": "Parque Constitución, 30, Las Torres de Cotillas",
+  "ts": 1785182768819
+ },
+ "es|parque j. maría chávarri zuazo, s/nº, las arenas": {
+  "mis": true,
+  "adres": "Parque J. María Chávarri Zuazo, s/nº, Las Arenas",
+  "ts": 1785182768819
+ },
+ "es|parroquia de san vicente de paul, cádiz": {
+  "mis": true,
+  "adres": "Parroquia de San Vicente de Paul, Cádiz",
+  "ts": 1785182768819
+ },
+ "es|parroquia nuestra señora del carmen plaza miguel capllonch, 11, puerto de pollença - mallorca": {
+  "mis": true,
+  "adres": "Parroquia Nuestra Señora del Carmen Plaza Miguel Capllonch, 11, Puerto de Pollença - Mallorca",
+  "ts": 1785182768819
+ },
+ "es|parroquia san felicísimo, bilbao": {
+  "mis": true,
+  "adres": "Parroquia San Felicísimo, Bilbao",
+  "ts": 1785182768819
+ },
+ "es|parrq. jesús de nazaret, puerto de santa maría": {
+  "mis": true,
+  "adres": "Parrq. Jesús de Nazaret, Puerto De Santa María",
+  "ts": 1785182768819
+ },
+ "es|pasaje balandrau, 10, girona": {
+  "mis": true,
+  "adres": "Pasaje Balandrau, 10, Girona",
+  "ts": 1785182768819
+ },
+ "es|pasaje castillo de loarre, s/nº, huesca": {
+  "mis": true,
+  "adres": "Pasaje Castillo de Loarre, s/nº, Huesca",
+  "ts": 1785182768819
+ },
+ "es|paseo andrés vergara, 5, torrelodones": {
+  "lat": 40.5769929,
+  "lng": -3.9531488,
+  "adres": "Paseo Andrés Vergara, 5, Torrelodones",
+  "ts": 1785182768819
+ },
+ "es|paseo arrasate, 3 bajo, arrasate": {
+  "mis": true,
+  "adres": "Paseo Arrasate, 3 Bajo, Arrasate",
+  "ts": 1785182768819
+ },
+ "es|paseo de la estación, 2, ciempozuelos": {
+  "lat": 40.1593934,
+  "lng": -3.6084833,
+  "adres": "Paseo de la Estación, 2, Ciempozuelos",
+  "ts": 1785182768819
+ },
+ "es|paseo de la florida, n.º 3, alfaro": {
+  "mis": true,
+  "adres": "Paseo de la Florida, n.º 3, Alfaro",
+  "ts": 1785182768819
+ },
+ "es|paseo de la mina, 25, zaragoza": {
+  "lat": 41.6492724,
+  "lng": -0.876575,
+  "adres": "Paseo de la Mina, 25, Zaragoza",
+  "ts": 1785182768819
+ },
+ "es|paseo del malecón, 134-planta 1 sala 1 casa de la juventud, garrucha": {
+  "mis": true,
+  "adres": "Paseo del Malecón, 134-Planta 1 Sala 1 Casa de la Juventud, Garrucha",
+  "ts": 1785182768819
+ },
+ "es|paseo del rey, 34 . 28008 madrid, madrid": {
+  "lat": 40.425729,
+  "lng": -3.7231484,
+  "adres": "Paseo del Rey, 34 . 28008 Madrid, Madrid",
+  "ts": 1785182768819
+ },
+ "es|paseo del rollo, 53, salamanca": {
+  "lat": 40.9667227,
+  "lng": -5.6517998,
+  "adres": "Paseo del Rollo, 53, Salamanca",
+  "ts": 1785182768819
+ },
+ "es|paseo fabra i puig, 260, barcelona": {
+  "lat": 41.4301405,
+  "lng": 2.1796521,
+  "adres": "Paseo Fabra i Puig, 260, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|paseo federico garcía lorca, 2, donostia": {
+  "lat": 43.3164026,
+  "lng": -1.9776321,
+  "adres": "Paseo Federico García Lorca, 2, Donostia",
+  "ts": 1785182768819
+ },
+ "es|paseo general dávila, 304, santander": {
+  "lat": 43.4683797,
+  "lng": -3.799629,
+  "adres": "Paseo General Dávila, 304, Santander",
+  "ts": 1785182768819
+ },
+ "es|paseo larratxo, 20, donostia": {
+  "lat": 43.3142351,
+  "lng": -1.9399196,
+  "adres": "Paseo Larratxo, 20, Donostia",
+  "ts": 1785182768819
+ },
+ "es|peña de vargas, s/n, madrid": {
+  "mis": true,
+  "adres": "Peña De Vargas, s/n, Madrid",
+  "ts": 1785182768819
+ },
+ "es|pintor iriarte, s/nº, azkoitia": {
+  "mis": true,
+  "adres": "Pintor Iriarte, s/nº, Azkoitia",
+  "ts": 1785182768819
+ },
+ "es|plaza berria, tolosa": {
+  "lat": 43.1396885,
+  "lng": -2.0728684,
+  "adres": "Plaza Berria, Tolosa",
+  "ts": 1785182768819
+ },
+ "es|plaza bohemia, 1, murcia": {
+  "lat": 37.9969859,
+  "lng": -1.1418063,
+  "adres": "Plaza Bohemia, 1, Murcia",
+  "ts": 1785182768819
+ },
+ "es|plaza dantzari, 5 bajo, vitoria": {
+  "lat": 42.8398826,
+  "lng": -2.6643652,
+  "adres": "Plaza Dantzari, 5 Bajo, Vitoria",
+  "ts": 1785182768819
+ },
+ "es|plaza de brasil, s/n, alcorcón": {
+  "lat": 40.3487171,
+  "lng": -3.8231166,
+  "adres": "Plaza de Brasil, s/n, Alcorcón",
+  "ts": 1785182768819
+ },
+ "es|plaza de españa, 12 bajo, valladolid": {
+  "lat": 41.6490455,
+  "lng": -4.72581,
+  "adres": "Plaza de España, 12 Bajo, Valladolid",
+  "ts": 1785182768819
+ },
+ "es|plaza de españa, 8, daroca": {
+  "mis": true,
+  "adres": "Plaza de España, 8, Daroca",
+  "ts": 1785182768819
+ },
+ "es|plaza de la milagrosa, s/n, lugo": {
+  "mis": true,
+  "adres": "Plaza de la Milagrosa, s/n, Lugo",
+  "ts": 1785182768819
+ },
+ "es|plaza de la paz, s/nº, barañain": {
+  "mis": true,
+  "adres": "Plaza de la Paz, s/nº, Barañain",
+  "ts": 1785182768819
+ },
+ "es|plaza de la trinidad, s/n, la puebla de cazalla": {
+  "mis": true,
+  "adres": "Plaza de la Trinidad, s/n, La Puebla de Cazalla",
+  "ts": 1785182768819
+ },
+ "es|plaza de les missions, 1, lleida": {
+  "lat": 41.6163882,
+  "lng": 0.6159663,
+  "adres": "Plaza de les Missions, 1, Lleida",
+  "ts": 1785182768819
+ },
+ "es|plaza de santo domingo, 6, monzón": {
+  "mis": true,
+  "adres": "Plaza de Santo Domingo, 6, Monzón",
+  "ts": 1785182768819
+ },
+ "es|plaza doctor guardiet, 9, rubí": {
+  "mis": true,
+  "adres": "Plaza Doctor Guardiet, 9, Rubí",
+  "ts": 1785182768819
+ },
+ "es|plaza juncal, 28, irun": {
+  "mis": true,
+  "adres": "Plaza Juncal, 28, Irun",
+  "ts": 1785182768819
+ },
+ "es|plaza lillo cánovas, 2, san vicente de raspeig": {
+  "mis": true,
+  "adres": "Plaza Lillo Cánovas, 2, San Vicente de Raspeig",
+  "ts": 1785182768819
+ },
+ "es|plaza puerta de cuartos, 10, talavera de la reina": {
+  "mis": true,
+  "adres": "Plaza Puerta de Cuartos, 10, Talavera De La Reina",
+  "ts": 1785182768819
+ },
+ "es|plaza san francisco, 3 bajo, villaviciosa": {
+  "mis": true,
+  "adres": "Plaza San Francisco, 3 Bajo, Villaviciosa",
+  "ts": 1785182768819
+ },
+ "es|plaza san josé, 1, gandía": {
+  "mis": true,
+  "adres": "Plaza San José, 1, Gandía",
+  "ts": 1785182768819
+ },
+ "es|plaza san marcial, yaiza - lanzarote": {
+  "mis": true,
+  "adres": "Plaza San Marcial, Yaiza - Lanzarote",
+  "ts": 1785182768819
+ },
+ "es|plaza san martín, 13, estella": {
+  "lat": 42.6695649,
+  "lng": -2.0295606,
+  "adres": "Plaza San Martín, 13, Estella",
+  "ts": 1785182768819
+ },
+ "es|plaza seminario, 2, zamora": {
+  "lat": 41.503529,
+  "lng": -5.7438807,
+  "adres": "Plaza Seminario, 2, Zamora",
+  "ts": 1785182768819
+ },
+ "es|plaza serra vilaro, 5 bajos, bagá": {
+  "mis": true,
+  "adres": "Plaza Serra Vilaro, 5 bajos, Bagá",
+  "ts": 1785182768819
+ },
+ "es|plaza siglo xx, terrassa": {
+  "mis": true,
+  "adres": "Plaza Siglo XX, Terrassa",
+  "ts": 1785182768819
+ },
+ "es|plaza virgen del castillo, nº 2, valencia": {
+  "lat": 39.4666596,
+  "lng": -0.3268317,
+  "adres": "Plaza Virgen del Castillo, nº 2, Valencia",
+  "ts": 1785182768819
+ },
+ "es|plaza zubikurtze, bajos, zornotza": {
+  "mis": true,
+  "adres": "Plaza Zubikurtze, bajos, Zornotza",
+  "ts": 1785182768819
+ },
+ "es|plaça bonet moixí, 5, barcelona": {
+  "lat": 41.3744583,
+  "lng": 2.1365741,
+  "adres": "Plaça Bonet Moixí, 5, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|plaça de bonet i muixi, 5, barcelona": {
+  "mis": true,
+  "adres": "Plaça de Bonet i Muixi, 5, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|plaça de l` assumpció, 27, girona": {
+  "lat": 41.9750448,
+  "lng": 2.8115403,
+  "adres": "Plaça de L` Assumpció, 27, Girona",
+  "ts": 1785182768819
+ },
+ "es|plaça de l`església, 1, reus": {
+  "lat": 41.1484537,
+  "lng": 1.0933978,
+  "adres": "Plaça de l`Església, 1, Reus",
+  "ts": 1785182768819
+ },
+ "es|plaça l`església, 17, gata de gorgos": {
+  "lat": 38.7732453,
+  "lng": 0.0840392,
+  "adres": "Plaça L`Església, 17, Gata de Gorgos",
+  "ts": 1785182768819
+ },
+ "es|plaça san joan baptista, s/n, sitges": {
+  "mis": true,
+  "adres": "Plaça San Joan Baptista, s/n, Sitges",
+  "ts": 1785182768819
+ },
+ "es|plza. de argentina, 5, blanes": {
+  "mis": true,
+  "adres": "Plza. de Argentina, 5, Blanes",
+  "ts": 1785182768819
+ },
+ "es|poblado pesquero, santander": {
+  "mis": true,
+  "adres": "Poblado Pesquero, Santander",
+  "ts": 1785182768819
+ },
+ "es|polígono industrial el muro c/ desarrollo, 1, los palacios y villafranca": {
+  "mis": true,
+  "adres": "Polígono Industrial El Muro C/ Desarrollo, 1, Los Palacios y Villafranca",
+  "ts": 1785182768819
+ },
+ "es|pza. bonet moixi, 5, barcelona": {
+  "mis": true,
+  "adres": "Pza. Bonet Moixi, 5, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|pza. de los naranjos, 4, albolote": {
+  "mis": true,
+  "adres": "Pza. de los Naranjos, 4, Albolote",
+  "ts": 1785182768819
+ },
+ "es|pza. iglesia, 8, castelldefels": {
+  "mis": true,
+  "adres": "Pza. Iglesia, 8, Castelldefels",
+  "ts": 1785182768819
+ },
+ "es|pza. jardins d`elx, barcelona": {
+  "lat": 41.4230895,
+  "lng": 2.1884777,
+  "adres": "Pza. Jardins d`Elx, Barcelona",
+  "ts": 1785182768819
+ },
+ "es|pza. las culturas, s/nº c. cultural martorell, piso 1º, martorell": {
+  "mis": true,
+  "adres": "Pza. Las Culturas, s/nº C. Cultural Martorell, Piso 1º, Martorell",
+  "ts": 1785182768819
+ },
+ "es|pza. santiago apóstol, s/nº, santiago y zaraiche": {
+  "mis": true,
+  "adres": "Pza. Santiago Apóstol, s/nº, Santiago y Zaraiche",
+  "ts": 1785182768819
+ },
+ "es|pº colón, 9, donostia": {
+  "mis": true,
+  "adres": "Pº Colón, 9, Donostia",
+  "ts": 1785182768819
+ },
+ "es|rambla dionisio gonzález,18 -bjos.iglesia s.casiano, arona": {
+  "mis": true,
+  "adres": "Rambla Dionisio González,18 -Bjos.Iglesia S.Casiano, Arona",
+  "ts": 1785182768819
+ },
+ "es|rambla vayreda, 31, gavá": {
+  "lat": 41.3044918,
+  "lng": 2.008637,
+  "adres": "Rambla Vayreda, 31, Gavá",
+  "ts": 1785182768819
+ },
+ "es|rico home,3 y 5, alcalá de henares": {
+  "mis": true,
+  "adres": "Rico Home,3 y 5, Alcalá De Henares",
+  "ts": 1785182768819
+ },
+ "es|ronda del cabañal, s/n -junto a parroquia mare de deu de fátima, sueca": {
+  "mis": true,
+  "adres": "Ronda del Cabañal, s/n -Junto a Parroquia Mare de Deu de Fátima, Sueca",
+  "ts": 1785182768819
+ },
+ "es|ronda s. lázaro, s/n, trujillo": {
+  "lat": 39.4529286,
+  "lng": -5.8800099,
+  "adres": "Ronda S. Lázaro, s/n, Trujillo",
+  "ts": 1785182768819
+ },
+ "es|rúa belvís, 2, santiago de compostela": {
+  "lat": 42.8800657,
+  "lng": -8.5374354,
+  "adres": "Rúa Belvís, 2, Santiago De Compostela",
+  "ts": 1785182768819
+ },
+ "es|rúa coutadas, 59, vigo - teis": {
+  "lat": 42.2437117,
+  "lng": -8.6999324,
+  "adres": "Rúa Coutadas, 59, Vigo - Teis",
+  "ts": 1785182768819
+ },
+ "es|rúa da trinidade, 12, santiago de compostela": {
+  "mis": true,
+  "adres": "Rúa da Trinidade, 12, Santiago de Compostela",
+  "ts": 1785182768819
+ },
+ "es|rúa la iglesia, s/n, burela": {
+  "mis": true,
+  "adres": "Rúa La Iglesia, s/n, Burela",
+  "ts": 1785182768819
+ },
+ "es|rúa luís trabazos, 3, orense": {
+  "lat": 42.3466985,
+  "lng": -7.8572334,
+  "adres": "Rúa Luís Trabazos, 3, Orense",
+  "ts": 1785182768819
+ },
+ "es|rúa nova, 42, lugo": {
+  "lat": 43.0119595,
+  "lng": -7.5597029,
+  "adres": "Rúa Nova, 42, Lugo",
+  "ts": 1785182768819
+ },
+ "es|salón parroquial del convento de flores, buzón el sabinal, 1, alora": {
+  "mis": true,
+  "adres": "Salón Parroquial del Convento de Flores, Buzón el Sabinal, 1, Alora",
+  "ts": 1785182768819
+ },
+ "es|san bizenti kalea, 2, sodupe": {
+  "lat": 43.2008236,
+  "lng": -3.0476324,
+  "adres": "San Bizenti Kalea, 2, Sodupe",
+  "ts": 1785182768819
+ },
+ "es|sandiusterri kalea 1- bajo, hernani": {
+  "lat": 43.2656406,
+  "lng": -1.9771212,
+  "adres": "Sandiusterri Kalea 1- Bajo, Hernani",
+  "ts": 1785182768819
+ },
+ "es|templo ecuménico, playa del inglés": {
+  "lat": 27.7594106,
+  "lng": -15.5688119,
+  "adres": "Templo Ecuménico, Playa Del Inglés",
+  "ts": 1785182768819
+ },
+ "es|toribio etxeberria, 26, eibar": {
+  "mis": true,
+  "adres": "Toribio Etxeberria, 26, Eibar",
+  "ts": 1785182768819
+ },
+ "es|trav. la rúa, 13, castro urdiales": {
+  "mis": true,
+  "adres": "Trav. La Rúa, 13, Castro Urdiales",
+  "ts": 1785182768819
+ },
+ "es|travesía de velate, 2, pamplona": {
+  "mis": true,
+  "adres": "Travesía de Velate, 2, Pamplona",
+  "ts": 1785182768819
+ },
+ "es|txomin agirre kalea, 3, zumaia": {
+  "lat": 43.2950496,
+  "lng": -2.2582327,
+  "adres": "Txomin Agirre Kalea, 3, Zumaia",
+  "ts": 1785182768819
+ },
+ "es|zeharkalea, 34, ermua": {
+  "lat": 43.1868365,
+  "lng": -2.5067192,
+  "adres": "Zeharkalea, 34, Ermua",
+  "ts": 1785182768819
+ },
+ "fr|12 rue de la libération, saint-andré-de-l'eure": {
+  "lat": 48.9028713,
+  "lng": 1.2735816,
+  "adres": "12 Rue de la Libération, Saint-André-de-l'Eure",
+  "ts": 1785182768819
+ },
+ "fr|16 rue aristide briand, arras, france": {
+  "lat": 50.29015,
+  "lng": 2.7695526,
+  "adres": "16 Rue Aristide Briand, Arras, France",
+  "ts": 1785182768819
+ },
+ "fr|177 rue du général de gaulle, la madeleine": {
+  "lat": 50.6557615,
+  "lng": 3.0732642,
+  "adres": "177 Rue du Général de Gaulle, La Madeleine",
+  "ts": 1785182768819
+ },
+ "fr|2 rue de la surveillance, compiègne": {
+  "lat": 49.4177785,
+  "lng": 2.8270892,
+  "adres": "2 Rue de la Surveillance, Compiègne",
+  "ts": 1785182768819
+ },
+ "fr|3 rue la guerche, les herbiers": {
+  "lat": 46.8620416,
+  "lng": -1.005377,
+  "adres": "3 Rue la Guerche, Les Herbiers",
+  "ts": 1785182768819
+ },
+ "fr|31 boulevard de la république, le puy-en-velay, france": {
+  "lat": 45.045186,
+  "lng": 3.891045,
+  "adres": "31 Boulevard de la République, Le Puy-en-Velay, France",
+  "ts": 1785182768819
+ },
+ "fr|34 rue emile zola, mondeville": {
+  "lat": 49.1739265,
+  "lng": -0.3302546,
+  "adres": "34 Rue Emile Zola, Mondeville",
+  "ts": 1785182768819
+ },
+ "fr|5 rue perrée, paris, france": {
+  "lat": 48.8640128,
+  "lng": 2.3621855,
+  "adres": "5 Rue Perrée, Paris, France",
+  "ts": 1785182768819
+ },
+ "fr|53 rue des chantiers, versailles": {
+  "lat": 48.7941045,
+  "lng": 2.1422944,
+  "adres": "53 Rue des Chantiers, Versailles",
+  "ts": 1785182768819
+ },
+ "fr|54 rue jean-baptiste pigalle, paris": {
+  "lat": 48.8809852,
+  "lng": 2.3359342,
+  "adres": "54 Rue Jean-Baptiste Pigalle, Paris",
+  "ts": 1785182768819
+ },
+ "fr|6 rue albert le barillier, anglet, france": {
+  "lat": 43.4828266,
+  "lng": -1.513199,
+  "adres": "6 Rue Albert le Barillier, Anglet, France",
+  "ts": 1785182768819
+ },
+ "fr|6 rue du caillou gris, toulouse": {
+  "lat": 43.6200198,
+  "lng": 1.4351327,
+  "adres": "6 Rue du Caillou Gris, Toulouse",
+  "ts": 1785182768819
+ },
+ "fr|6b rue danton, dijon": {
+  "lat": 47.3205195,
+  "lng": 5.0362578,
+  "adres": "6B Rue Danton, Dijon",
+  "ts": 1785182768819
+ },
+ "fr|7 place de la porte de belfort, neuf-brisach, france": {
+  "lat": 48.0153928,
+  "lng": 7.527104,
+  "adres": "7 Place de la Porte de Belfort, Neuf-Brisach, France",
+  "ts": 1785182768819
+ },
+ "fr|76 rue daguerre, paris": {
+  "lat": 48.8355368,
+  "lng": 2.3255018,
+  "adres": "76 Rue Daguerre, Paris",
+  "ts": 1785182768819
+ },
+ "fr|80 rue de lyon, mâcon, france": {
+  "lat": 46.2987228,
+  "lng": 4.8234644,
+  "adres": "80 Rue de Lyon, Mâcon, France",
+  "ts": 1785182768819
+ },
+ "fr|pl. louis bonneaud, lorient": {
+  "lat": 47.7649929,
+  "lng": -3.3778278,
+  "adres": "Pl. Louis Bonneaud, Lorient",
+  "ts": 1785182768819
+ },
+ "fr|rue de denain, bruay-la-buissière, france": {
+  "lat": 50.48427,
+  "lng": 2.5522795,
+  "adres": "Rue de Denain, Bruay-la-Buissière, France",
+  "ts": 1785182768819
+ },
  "lv|bārddziņu iela 2, rīga": {
   "lat": 56.9390506,
   "lng": 24.1321099,
