@@ -1,4 +1,14 @@
 {
+ "aw|sabana liber 8, noord": {
+  "mis": true,
+  "adres": "Sabana Liber 8, Noord",
+  "ts": 1785246542450
+ },
+ "aw|weg seroe preto 31, san nicolás": {
+  "mis": true,
+  "adres": "Weg Seroe Preto 31, San Nicolás",
+  "ts": 1785246542450
+ },
  "be|181 chaussée de vleurgat, brussels": {
   "lat": 50.8219674,
   "lng": 4.3664933,
@@ -365,6 +375,11 @@
   "lng": -77.2390678,
   "adres": "499 5e avenue, église St-Paul , Shawinigan, secteur Grand-Mère, Québec, G9T 2M3",
   "ts": 1785163224787
+ },
+ "cw|kaya kooyman 43, willemstad": {
+  "mis": true,
+  "adres": "Kaya Kooyman 43, Willemstad",
+  "ts": 1785246542450
  },
  "es|1-10 york mansions, brownning street, londres-reino unido": {
   "mis": true,
@@ -3505,6 +3520,12 @@
   "adres": "Lautsiankuja 20, Alvettula",
   "ts": 1785218650735
  },
+ "fi|leppävaarankatu 10, espoo": {
+  "lat": 60.216866,
+  "lng": 24.810667,
+  "adres": "Leppävaarankatu 10, Espoo",
+  "ts": 1785246542450
+ },
  "fi|liisankatu 27 k, helsinki": {
   "lat": 60.1741326,
   "lng": 24.9517798,
@@ -6607,6 +6628,2035 @@
   "adres": "Rue Talleyrand, Valençay",
   "ts": 1785184761256
  },
+ "id|koi café, jl. kemang raya no.72b, jakarta": {
+  "mis": true,
+  "adres": "Koi Café, Jl. Kemang Raya No.72b, Jakarta",
+  "ts": 1785246542450
+ },
+ "id|taman provence 25, bsd – tangerang": {
+  "mis": true,
+  "adres": "Taman Provence 25, BSD – Tangerang",
+  "ts": 1785246542450
+ },
+ "it|1924 castello, fondamenta della tana": {
+  "lat": 45.4329882,
+  "lng": 12.3526267,
+  "adres": "1924 Castello, Fondamenta della Tana",
+  "ts": 1785246542450
+ },
+ "it|411 via medici, 411, c/o parrocchia sacro cuore, sant'agata di militello": {
+  "lat": 38.066914,
+  "lng": 14.627866,
+  "adres": "411 Via Medici, 411, c/o Parrocchia Sacro Cuore, Sant'Agata di Militello",
+  "ts": 1785246542450
+ },
+ "it|casa della gioventù, povolaro": {
+  "lat": 45.6271541,
+  "lng": 11.5724849,
+  "adres": "Casa della Gioventù, Povolaro",
+  "ts": 1785246542450
+ },
+ "it|centro giovanile san piamarta, via manzoni 227, roseto degli abruzzi": {
+  "lat": 42.6769258,
+  "lng": 14.0127668,
+  "adres": "Centro giovanile San Piamarta, Via Manzoni 227, Roseto degli Abruzzi",
+  "ts": 1785246542450
+ },
+ "it|circonvallazione gianicolense, 12, c/o chiesa ss. patroni, roma": {
+  "mis": true,
+  "adres": "Circonvallazione Gianicolense, 12, c/o Chiesa SS. Patroni, Roma",
+  "ts": 1785246542450
+ },
+ "it|circonvallazione ostiense, 195, c/o parr. santa galla, roma": {
+  "mis": true,
+  "adres": "Circonvallazione Ostiense, 195, c/o Parr. Santa Galla, Roma",
+  "ts": 1785246542450
+ },
+ "it|contrada garzoni, 23, palmanova": {
+  "lat": 45.9056529,
+  "lng": 13.313735,
+  "adres": "Contrada Garzoni, 23, palmanova",
+  "ts": 1785246542450
+ },
+ "it|corso bonomelli silvio, 22, rovato": {
+  "mis": true,
+  "adres": "Corso Bonomelli Silvio, 22, Rovato",
+  "ts": 1785246542450
+ },
+ "it|corso cairoli, 2, c/o oratorio chiesa s.francesco, pavia": {
+  "mis": true,
+  "adres": "Corso Cairoli, 2, c/o Oratorio Chiesa S.Francesco, Pavia",
+  "ts": 1785246542450
+ },
+ "it|corso genova, 14, c/o parrocchia san pietro, asti": {
+  "mis": true,
+  "adres": "Corso Genova, 14, c/o Parrocchia San Pietro, Asti",
+  "ts": 1785246542450
+ },
+ "it|corso italia, 110, c/o villa dei fiori, mugnano di napoli": {
+  "mis": true,
+  "adres": "Corso Italia, 110, c/o Villa dei fiori, Mugnano di Napoli",
+  "ts": 1785246542450
+ },
+ "it|corso luciano couvert 23, susa": {
+  "lat": 45.1390704,
+  "lng": 7.0534346,
+  "adres": "Corso Luciano Couvert 23, Susa",
+  "ts": 1785246542450
+ },
+ "it|corso s. martin de corleans, c/o parrocchia viale europa, 1, aosta": {
+  "mis": true,
+  "adres": "Corso S. Martin de Corleans, c/o Parrocchia Viale Europa, 1, Aosta",
+  "ts": 1785246542450
+ },
+ "it|entrata vicolo passiria, 7, merano": {
+  "mis": true,
+  "adres": "Entrata Vicolo Passiria, 7, Merano",
+  "ts": 1785246542450
+ },
+ "it|fondazione cavanis, campo guglielmo marconi, c/o fondazione canavis, chioggia": {
+  "mis": true,
+  "adres": "Fondazione Cavanis, Campo Guglielmo Marconi, c/o Fondazione Canavis, Chioggia",
+  "ts": 1785246542450
+ },
+ "it|ia nazario sauro, 7, c/o parrocchia s. giuseppe, grosseto": {
+  "mis": true,
+  "adres": "ia Nazario Sauro, 7, c/o Parrocchia S. Giuseppe, Grosseto",
+  "ts": 1785246542450
+ },
+ "it|la pieve di sant'arcangelo a metalliano, cortona": {
+  "mis": true,
+  "adres": "La Pieve di Sant'Arcangelo a Metalliano, Cortona",
+  "ts": 1785246542450
+ },
+ "it|largo degli alicorni, 28, przy pl sw. piotra, roma": {
+  "mis": true,
+  "adres": "Largo degli Alicorni, 28, PRZY PL SW. PIOTRA, Roma",
+  "ts": 1785246542450
+ },
+ "it|largo san nazaro, 3, c/o parrocchia s. nazaro, verona": {
+  "mis": true,
+  "adres": "Largo San Nazaro, 3, c/o Parrocchia S. Nazaro, Verona",
+  "ts": 1785246542450
+ },
+ "it|largo santa cosma, 5, c/o parrocchia ss.cosma e damiano, ancona": {
+  "mis": true,
+  "adres": "Largo Santa Cosma, 5, c/o Parrocchia SS.Cosma e Damiano, Ancona",
+  "ts": 1785246542450
+ },
+ "it|loc. lava di malonno, c/o ex scuole elementari, malonno": {
+  "mis": true,
+  "adres": "Loc. Lava di Malonno, c/o Ex Scuole Elementari, Malonno",
+  "ts": 1785246542450
+ },
+ "it|località case nuove di ceciliano, 73, arezzo": {
+  "lat": 43.4940318,
+  "lng": 11.8735665,
+  "adres": "Località Case Nuove di Ceciliano, 73, Arezzo",
+  "ts": 1785246542450
+ },
+ "it|locorotondo, c/o villa mitolo, locorotondo": {
+  "mis": true,
+  "adres": "Locorotondo, c/o Villa Mitolo, Locorotondo",
+  "ts": 1785246542450
+ },
+ "it|p.zza liberazion, 13, modena": {
+  "mis": true,
+  "adres": "P.zza Liberazion, 13, Modena",
+  "ts": 1785246542450
+ },
+ "it|piazza anselmo iv da bovisio, 4, c/o centro caritas, bovisio masciago": {
+  "mis": true,
+  "adres": "Piazza Anselmo IV da Bovisio, 4, c/o Centro Caritas, Bovisio Masciago",
+  "ts": 1785246542450
+ },
+ "it|piazza antonio fontanesi, 3,, c/o parr. santa croce, torino": {
+  "mis": true,
+  "adres": "Piazza Antonio Fontanesi, 3,, c/o Parr. Santa Croce, Torino",
+  "ts": 1785246542450
+ },
+ "it|piazza baldin e mantovan, 39, cavanella d'adige": {
+  "lat": 45.1101054,
+  "lng": 12.245607,
+  "adres": "Piazza Baldin e Mantovan, 39, Cavanella D'adige",
+  "ts": 1785246542450
+ },
+ "it|piazza canonica, 8, c/o parrocchia san vittore, varese": {
+  "mis": true,
+  "adres": "Piazza Canonica, 8, c/o Parrocchia San Vittore, Varese",
+  "ts": 1785246542450
+ },
+ "it|piazza cappuccini, 1, c/o convento dei cappuccini, palermo": {
+  "mis": true,
+  "adres": "Piazza Cappuccini, 1, c/o Convento dei Cappuccini, Palermo",
+  "ts": 1785246542450
+ },
+ "it|piazza cappucini 5, c/o oratorio cappucini, lecco": {
+  "mis": true,
+  "adres": "Piazza Cappucini 5, c/o Oratorio Cappucini, Lecco",
+  "ts": 1785246542450
+ },
+ "it|piazza d'angennes,4, c/o palazzo murazzano berzetti, vercelli": {
+  "mis": true,
+  "adres": "Piazza D'Angennes,4, c/o Palazzo Murazzano Berzetti, Vercelli",
+  "ts": 1785246542450
+ },
+ "it|piazza della chiesa castellamonte, 122, frazione spineto di castellamonte, to": {
+  "mis": true,
+  "adres": "Piazza della chiesa Castellamonte, 122, Frazione Spineto di Castellamonte, TO",
+  "ts": 1785246542450
+ },
+ "it|piazza della libertà, 10, c/o palestra, altavilla vicentina": {
+  "mis": true,
+  "adres": "Piazza della Libertà, 10, c/o Palestra, Altavilla Vicentina",
+  "ts": 1785246542450
+ },
+ "it|piazza della vittoria, 22, c/o teatro portone, senigallia": {
+  "mis": true,
+  "adres": "Piazza della Vittoria, 22, c/o Teatro Portone, Senigallia",
+  "ts": 1785246542450
+ },
+ "it|piazza della vittoria, c/o centro anziani, cernusco lombardone": {
+  "mis": true,
+  "adres": "Piazza della Vittoria, c/o Centro Anziani, Cernusco Lombardone",
+  "ts": 1785246542450
+ },
+ "it|piazza delle penne nere, 2, montorio veronese": {
+  "lat": 45.4594993,
+  "lng": 11.0649023,
+  "adres": "Piazza delle Penne Nere, 2, Montorio Veronese",
+  "ts": 1785246542450
+ },
+ "it|piazza di san salvi, 4, firenze": {
+  "lat": 43.7722765,
+  "lng": 11.2861724,
+  "adres": "Piazza di San Salvi, 4, Firenze",
+  "ts": 1785246542450
+ },
+ "it|piazza di santa monica, c/o parr. santa monica, lido di ostia": {
+  "mis": true,
+  "adres": "Piazza di Santa Monica, c/o Parr. Santa Monica, Lido di Ostia",
+  "ts": 1785246542450
+ },
+ "it|piazza frugose, 7/a, san michele extra verona": {
+  "lat": 45.434284,
+  "lng": 11.0528112,
+  "adres": "Piazza Frugose, 7/a, San Michele Extra Verona",
+  "ts": 1785246542450
+ },
+ "it|piazza iv novembre, 22, c/o ex centro sportivo, bagnarola di sesto al reghena": {
+  "mis": true,
+  "adres": "Piazza IV Novembre, 22, c/o ex Centro Sportivo, Bagnarola di Sesto al Reghena",
+  "ts": 1785246542450
+ },
+ "it|piazza libertà, c/o parrocchia, musile di piave": {
+  "mis": true,
+  "adres": "Piazza Libertà, c/o Parrocchia, Musile di Piave",
+  "ts": 1785246542450
+ },
+ "it|piazza luigi cadorna, 42, sopra farmacia, romano d'ezzelino": {
+  "mis": true,
+  "adres": "Piazza Luigi Cadorna, 42, Sopra farmacia, Romano D'ezzelino",
+  "ts": 1785246542450
+ },
+ "it|piazza marconi, 1, presso centro caritas, villongo": {
+  "mis": true,
+  "adres": "Piazza Marconi, 1, presso centro Caritas, Villongo",
+  "ts": 1785246542450
+ },
+ "it|piazza massimiliano kolbe, c/o oratorio massimiliano kolbe, terre roveresche orciano di pesaro": {
+  "mis": true,
+  "adres": "Piazza Massimiliano Kolbe, c/o Oratorio Massimiliano Kolbe, Terre Roveresche Orciano di Pesaro",
+  "ts": 1785246542450
+ },
+ "it|piazza pio xii, 1, c/o parrocchia, san donato milanese": {
+  "mis": true,
+  "adres": "Piazza Pio XII, 1, c/o Parrocchia, San Donato Milanese",
+  "ts": 1785246542450
+ },
+ "it|piazza riccardo wagner, 2, c/o parrocchia san pietro in sala, milano": {
+  "mis": true,
+  "adres": "Piazza Riccardo Wagner, 2, c/o Parrocchia San Pietro in Sala, Milano",
+  "ts": 1785246542450
+ },
+ "it|piazza risorgimento, 52, sassulo": {
+  "mis": true,
+  "adres": "Piazza Risorgimento, 52, Sassulo",
+  "ts": 1785246542450
+ },
+ "it|piazza risorgimento, c/o parrocchia s. maria delle grazie, frosinone": {
+  "mis": true,
+  "adres": "Piazza Risorgimento, c/o Parrocchia S. Maria delle Grazie, Frosinone",
+  "ts": 1785246542450
+ },
+ "it|piazza roma, c/o chiesa di s. erasmo, cascano": {
+  "mis": true,
+  "adres": "Piazza Roma, c/o Chiesa di S. Erasmo, Cascano",
+  "ts": 1785246542450
+ },
+ "it|piazza s. francesco d'assisi, 5, c/o parrocchia s. francesco d'assisi, bari": {
+  "mis": true,
+  "adres": "Piazza S. Francesco D'Assisi, 5, c/o parrocchia S. Francesco D'Assisi, Bari",
+  "ts": 1785246542450
+ },
+ "it|piazza s.maria della guardia, c/o convento frati cappuccini, catania": {
+  "mis": true,
+  "adres": "Piazza S.Maria della Guardia, c/o Convento Frati Cappuccini, Catania",
+  "ts": 1785246542450
+ },
+ "it|piazza san francesco da paola, c/o convento s. francesco da paola, monopoli": {
+  "mis": true,
+  "adres": "Piazza San Francesco da Paola, c/o Convento S. Francesco da Paola, Monopoli",
+  "ts": 1785246542450
+ },
+ "it|piazza san giacomo, c/o chiesa san giacomo, verona": {
+  "mis": true,
+  "adres": "Piazza San Giacomo, c/o Chiesa San Giacomo, Verona",
+  "ts": 1785246542450
+ },
+ "it|piazza secondo reggimento alpini, 3, cuneo": {
+  "lat": 44.3816503,
+  "lng": 7.5370935,
+  "adres": "Piazza Secondo Reggimento Alpini, 3, Cuneo",
+  "ts": 1785246542450
+ },
+ "it|piazza ss. pietro e paolo c/o basilica, sala kolbe, roma": {
+  "mis": true,
+  "adres": "Piazza SS. Pietro e Paolo c/o Basilica, Sala Kolbe, Roma",
+  "ts": 1785246542450
+ },
+ "it|piazza unità d'italia, c/o ex palazzina comunale, tradate": {
+  "mis": true,
+  "adres": "Piazza Unità d'Italia, c/o ex palazzina Comunale, Tradate",
+  "ts": 1785246542450
+ },
+ "it|piazza v alpini, c/o scuola elementare bormio, bormio": {
+  "mis": true,
+  "adres": "Piazza V Alpini, c/o Scuola Elementare Bormio, Bormio",
+  "ts": 1785246542450
+ },
+ "it|piazza vittorio veneto, 36, caldiero": {
+  "lat": 45.4096867,
+  "lng": 11.1841053,
+  "adres": "Piazza Vittorio Veneto, 36, Caldiero",
+  "ts": 1785246542450
+ },
+ "it|piazza volontari della libertà, 5, c/o parrocchia san michele, cantù": {
+  "mis": true,
+  "adres": "Piazza Volontari della Libertà, 5, c/o Parrocchia San Michele, Cantù",
+  "ts": 1785246542450
+ },
+ "it|piazza zanini malo, c/o palazzo delle associazioni, malo": {
+  "mis": true,
+  "adres": "Piazza zanini malo, c/o Palazzo delle Associazioni, Malo",
+  "ts": 1785246542450
+ },
+ "it|piazzale dei santi pietro e paolo, 8, c/o basilica ss pietro e paolo, roma": {
+  "mis": true,
+  "adres": "Piazzale dei Santi Pietro e Paolo, 8, c/o Basilica SS Pietro e Paolo, Roma",
+  "ts": 1785246542450
+ },
+ "it|piazzale di ponte milvio, 26, c/o parr. gran madre di dio, roma": {
+  "mis": true,
+  "adres": "Piazzale di Ponte Milvio, 26, c/o Parr. Gran Madre di Dio, Roma",
+  "ts": 1785246542450
+ },
+ "it|piazzale luigi cadorna, 34a, c/o centro giovanile, bassano del grappa": {
+  "mis": true,
+  "adres": "Piazzale Luigi Cadorna, 34a, c/o Centro giovanile, Bassano del Grappa",
+  "ts": 1785246542450
+ },
+ "it|piazzale san benedetto, 1, parma": {
+  "lat": 44.8032608,
+  "lng": 10.3363356,
+  "adres": "Piazzale San Benedetto, 1, Parma",
+  "ts": 1785246542450
+ },
+ "it|piazzale san paolo, c/o parr. san paolo apostolo, fano": {
+  "mis": true,
+  "adres": "Piazzale San Paolo, c/o Parr. San Paolo Apostolo, Fano",
+  "ts": 1785246542450
+ },
+ "it|rosa mistica centro estrella, c/o chiesa tenda s.m.madre della chiesa, latina": {
+  "mis": true,
+  "adres": "Rosa Mistica Centro Estrella, c/o Chiesa Tenda S.M.Madre della Chiesa, Latina",
+  "ts": 1785246542450
+ },
+ "it|san vitale iii , s. provinciale vitulanese, c/o scuola statale, benevento": {
+  "mis": true,
+  "adres": "San Vitale III , S. Provinciale Vitulanese, c/o Scuola statale, Benevento",
+  "ts": 1785246542450
+ },
+ "it|sr142, 12, c/o locali parrocchiali - ingresso dopo la porta principale della chiesa, po' bandino": {
+  "mis": true,
+  "adres": "SR142, 12, c/o locali parrocchiali - Ingresso dopo la porta principale della Chiesa, Po' Bandino",
+  "ts": 1785246542450
+ },
+ "it|strada provinciale novoli lecce, 23, c/o comunità emmanuel, lecce": {
+  "mis": true,
+  "adres": "Strada Provinciale Novoli Lecce, 23, c/o Comunità Emmanuel, Lecce",
+  "ts": 1785246542450
+ },
+ "it|strada vicinale del centro 2, chiesa di san donato, albinia": {
+  "mis": true,
+  "adres": "strada vicinale del Centro 2, Chiesa di San Donato, Albinia",
+  "ts": 1785246542450
+ },
+ "it|torbiera, c/o parrocchia di torbiera, torbiera": {
+  "mis": true,
+  "adres": "Torbiera, c/o Parrocchia di Torbiera, Torbiera",
+  "ts": 1785246542450
+ },
+ "it|traversa dodicesima 12/a villaggio sereno, c/o centro socio culturale, brescia": {
+  "lat": 45.5092708,
+  "lng": 10.1865107,
+  "adres": "Traversa Dodicesima 12/a Villaggio Sereno, c/o Centro Socio Culturale, Brescia",
+  "ts": 1785246542450
+ },
+ "it|v.le trento e trieste, c/o parrocchia santa famiglia, tolentino": {
+  "mis": true,
+  "adres": "V.le Trento e Trieste, c/o parrocchia Santa Famiglia, Tolentino",
+  "ts": 1785246542450
+ },
+ "it|varmondo arborio, 20, ivrea": {
+  "lat": 45.4685109,
+  "lng": 7.8776933,
+  "adres": "Varmondo Arborio, 20, Ivrea",
+  "ts": 1785246542450
+ },
+ "it|via 1° maggio, 15, c/o stabile ex liceo, thiene": {
+  "lat": 45.701913,
+  "lng": 11.4772187,
+  "adres": "Via 1° Maggio, 15, c/o Stabile ex Liceo, Thiene",
+  "ts": 1785246542450
+ },
+ "it|via 2 giugno, 10, c/o sale parrocchiali, frescada": {
+  "lat": 45.6404188,
+  "lng": 12.2424856,
+  "adres": "Via 2 Giugno, 10, c/o Sale Parrocchiali, Frescada",
+  "ts": 1785246542450
+ },
+ "it|via 2 giugno, 10, c/o sale parrocchiali, frescada di preganziol": {
+  "lat": 45.6404188,
+  "lng": 12.2424856,
+  "adres": "Via 2 Giugno, 10, c/o Sale Parrocchiali, Frescada di Preganziol",
+  "ts": 1785246542450
+ },
+ "it|via 24 maggio 37, marostica": {
+  "lat": 45.7462341,
+  "lng": 11.6535983,
+  "adres": "Via 24 Maggio 37, Marostica",
+  "ts": 1785246542450
+ },
+ "it|via a. de gasperi, c/o ipsia zona belfiore ponte dei nori, valdagno": {
+  "mis": true,
+  "adres": "Via A. De Gasperi, c/o IPSIA zona Belfiore Ponte dei Nori, Valdagno",
+  "ts": 1785246542450
+ },
+ "it|via a. vital, 160, c/o centro sociale, loc. campolongo, conegliano": {
+  "mis": true,
+  "adres": "Via A. Vital, 160, c/o Centro Sociale, Loc. Campolongo, Conegliano",
+  "ts": 1785246542450
+ },
+ "it|via adriano i, 189, c/o parr.s.giuseppe all'aurelio, roma": {
+  "mis": true,
+  "adres": "Via Adriano I, 189, c/o Parr.S.Giuseppe all'Aurelio, Roma",
+  "ts": 1785246542450
+ },
+ "it|via alcide de gasperi, 67, ravenna": {
+  "lat": 44.4139647,
+  "lng": 12.1974456,
+  "adres": "Via Alcide de Gasperi, 67, Ravenna",
+  "ts": 1785246542450
+ },
+ "it|via aldo moro, 7, c/o cascina robbiolo, buccinasco": {
+  "mis": true,
+  "adres": "Via Aldo Moro, 7, c/o Cascina Robbiolo, Buccinasco",
+  "ts": 1785246542450
+ },
+ "it|via alessandro della seta, 40, c/o chiesa sant'andrea corsini, roma": {
+  "mis": true,
+  "adres": "Via Alessandro della Seta, 40, c/o Chiesa Sant'Andrea Corsini, Roma",
+  "ts": 1785246542450
+ },
+ "it|via alessandro manzoni, 1, c/o, creazzo": {
+  "mis": true,
+  "adres": "Via Alessandro Manzoni, 1, c/o, Creazzo",
+  "ts": 1785246542450
+ },
+ "it|via alfonso d'este, 28, montecchio emilia": {
+  "lat": 44.700742,
+  "lng": 10.4457189,
+  "adres": "Via Alfonso d'Este, 28, Montecchio Emilia",
+  "ts": 1785246542450
+ },
+ "it|via alla chiesa di rivarolo 3., genova": {
+  "lat": 44.4384098,
+  "lng": 8.8926085,
+  "adres": "Via alla Chiesa di Rivarolo 3., Genova",
+  "ts": 1785246542450
+ },
+ "it|via alla formigheta, 15, c/o casa parrocchiale, martignano": {
+  "mis": true,
+  "adres": "Via alla Formigheta, 15, c/o Casa Parrocchiale, Martignano",
+  "ts": 1785246542450
+ },
+ "it|via alle fabbriche 8, c/o centro pastorale san francesco, verbania": {
+  "lat": 45.9327448,
+  "lng": 8.5667597,
+  "adres": "Via alle Fabbriche 8, c/o Centro Pastorale San Francesco, Verbania",
+  "ts": 1785246542450
+ },
+ "it|via altipiani d'asiago, 15, c/o casa albergo, brescia": {
+  "mis": true,
+  "adres": "Via Altipiani d'Asiago, 15, c/o Casa Albergo, Brescia",
+  "ts": 1785246542450
+ },
+ "it|via ambrogio sansedoni, 2, siena": {
+  "lat": 43.3355992,
+  "lng": 11.3010189,
+  "adres": "Via Ambrogio Sansedoni, 2, Siena",
+  "ts": 1785246542450
+ },
+ "it|via andrea costa, 12, mestre venezia": {
+  "lat": 45.4895803,
+  "lng": 12.2422905,
+  "adres": "Via Andrea Costa, 12, Mestre Venezia",
+  "ts": 1785246542450
+ },
+ "it|via andrea stoppani, 4, c/o centro sociale sant'anna, busto arsizio": {
+  "mis": true,
+  "adres": "Via Andrea Stoppani, 4, c/o Centro Sociale Sant'Anna, Busto Arsizio",
+  "ts": 1785246542450
+ },
+ "it|via angelo di pietro, 50, c/o parr. ss. protomartiri, roma": {
+  "mis": true,
+  "adres": "Via Angelo Di Pietro, 50, c/o Parr. SS. Protomartiri, Roma",
+  "ts": 1785246542450
+ },
+ "it|via antica cattedrale, 40, teramo": {
+  "lat": 42.6587265,
+  "lng": 13.705735,
+  "adres": "Via Antica Cattedrale, 40, Teramo",
+  "ts": 1785246542450
+ },
+ "it|via antonio allegri, 2, c/o chiesa di san giovanni battista, foligno": {
+  "mis": true,
+  "adres": "Via Antonio Allegri, 2, c/o Chiesa di San Giovanni Battista, Foligno",
+  "ts": 1785246542450
+ },
+ "it|via antonio bizzozero, 19a, parma": {
+  "lat": 44.8523898,
+  "lng": 10.4462304,
+  "adres": "Via Antonio Bizzozero, 19a, Parma",
+  "ts": 1785246542450
+ },
+ "it|via antonio cederna, 19, c/o centro civico cantalupo, monza": {
+  "mis": true,
+  "adres": "Via Antonio Cederna, 19, c/o Centro Civico Cantalupo, Monza",
+  "ts": 1785246542450
+ },
+ "it|via antonio fogazzaro, 32, c/o casa san raffaele, vittorio veneto": {
+  "mis": true,
+  "adres": "Via Antonio Fogazzaro, 32, c/o Casa San Raffaele, Vittorio Veneto",
+  "ts": 1785246542450
+ },
+ "it|via antonio fogazzaro, 49, c/o casa della gioventù, torrebelvicino": {
+  "mis": true,
+  "adres": "Via Antonio Fogazzaro, 49, c/o Casa della gioventù, Torrebelvicino",
+  "ts": 1785246542450
+ },
+ "it|via armando diaz, 13, c/o cenacolo francescano, prato": {
+  "mis": true,
+  "adres": "Via Armando Diaz, 13, c/o Cenacolo Francescano, Prato",
+  "ts": 1785246542450
+ },
+ "it|via armando diaz, 98, abano terme": {
+  "lat": 45.3620086,
+  "lng": 11.7959863,
+  "adres": "Via Armando Diaz, 98, Abano Terme",
+  "ts": 1785246542450
+ },
+ "it|via assisi, 2,, ascoli piceno": {
+  "lat": 42.8500201,
+  "lng": 13.588213,
+  "adres": "Via Assisi, 2,, Ascoli Piceno",
+  "ts": 1785246542450
+ },
+ "it|via avondo, 8, c/o csv, aosta": {
+  "mis": true,
+  "adres": "Via Avondo, 8, c/o CSV, Aosta",
+  "ts": 1785246542450
+ },
+ "it|via b. buozzi, 33, c/o c.e.i.s., pieve a nievole": {
+  "mis": true,
+  "adres": "Via B. Buozzi, 33, c/o C.E.I.S., Pieve A Nievole",
+  "ts": 1785246542450
+ },
+ "it|via bastia fuori, 18, c/o villa errera, mirano": {
+  "mis": true,
+  "adres": "Via Bastia Fuori, 18, c/o Villa Errera, Mirano",
+  "ts": 1785246542450
+ },
+ "it|via beata domicilla, 2, c/o oratorio della chiesa beato odorico, pordenone": {
+  "mis": true,
+  "adres": "Via Beata Domicilla, 2, c/o Oratorio della chiesa Beato Odorico, Pordenone",
+  "ts": 1785246542450
+ },
+ "it|via beata paola montaldi, 1, c/o oratorio parrocchiale, volta mantovana": {
+  "mis": true,
+  "adres": "Via Beata Paola Montaldi, 1, c/o Oratorio Parrocchiale, Volta Mantovana",
+  "ts": 1785246542450
+ },
+ "it|via benevento, 25, c/o parrocchia sette santi fondatori - ingresso cancello a destra, roma": {
+  "mis": true,
+  "adres": "Via Benevento, 25, c/o Parrocchia Sette Santi Fondatori - ingresso cancello a destra, Roma",
+  "ts": 1785246542450
+ },
+ "it|via bonanno pisano 95, c/o parrocchia sacro cuore di gesù, pisa": {
+  "lat": 43.7201679,
+  "lng": 10.3905796,
+  "adres": "Via Bonanno Pisano 95, c/o Parrocchia Sacro Cuore di Gesù, Pisa",
+  "ts": 1785246542450
+ },
+ "it|via bonaventura zumbini, 19, c/o parrocchia san nazaro e celso, milano": {
+  "mis": true,
+  "adres": "Via Bonaventura Zumbini, 19, c/o Parrocchia San Nazaro e Celso, Milano",
+  "ts": 1785246542450
+ },
+ "it|via bonvesin de la riva, c/o parrocchia s.maria del suffragio, milano": {
+  "mis": true,
+  "adres": "Via Bonvesin de la Riva, c/o Parrocchia S.Maria del Suffragio, Milano",
+  "ts": 1785246542450
+ },
+ "it|via borriana, 8, biella": {
+  "lat": 45.5484505,
+  "lng": 8.0530389,
+  "adres": "Via Borriana, 8, Biella",
+  "ts": 1785246542450
+ },
+ "it|via brione, 40, c/o parrocchia s. anna, torino": {
+  "mis": true,
+  "adres": "Via Brione, 40, c/o Parrocchia S. Anna, Torino",
+  "ts": 1785246542450
+ },
+ "it|via c. b. cavour, c/o ex municipio, cornedo vicentino": {
+  "mis": true,
+  "adres": "Via C. B. Cavour, c/o Ex Municipio, Cornedo Vicentino",
+  "ts": 1785246542450
+ },
+ "it|via camillo benso conte di cavour, 71, c/o sala comunale v. tavelli, botticino sera": {
+  "mis": true,
+  "adres": "Via Camillo Benso Conte di Cavour, 71, c/o Sala Comunale V. Tavelli, Botticino Sera",
+  "ts": 1785246542450
+ },
+ "it|via camporosolo, dietro chiesa, san bonifacio": {
+  "mis": true,
+  "adres": "Via Camporosolo, Dietro chiesa, San Bonifacio",
+  "ts": 1785246542450
+ },
+ "it|via capizzaglie, c/o chiesa san giovanni, lamezia terme": {
+  "mis": true,
+  "adres": "Via Capizzaglie, c/o Chiesa San Giovanni, Lamezia Terme",
+  "ts": 1785246542450
+ },
+ "it|via carborillo, 25, c/o chiesa del preziosissimo sangue, torre del greco": {
+  "mis": true,
+  "adres": "Via Carborillo, 25, c/o Chiesa del Preziosissimo Sangue, Torre del Greco",
+  "ts": 1785246542450
+ },
+ "it|via carnaro, 2, c/o chiesa san ciro - lunedì: c/o chiesa san vitale, napoli": {
+  "mis": true,
+  "adres": "Via Carnaro, 2, c/o Chiesa San Ciro - Lunedì: c/o Chiesa San Vitale, Napoli",
+  "ts": 1785246542450
+ },
+ "it|via cartari, 1, c/o distretto sanitario, arsiero": {
+  "mis": true,
+  "adres": "Via Cartari, 1, c/o Distretto Sanitario, Arsiero",
+  "ts": 1785246542450
+ },
+ "it|via casette, 71, c/o parrocchia s. antonio, legnago": {
+  "mis": true,
+  "adres": "Via Casette, 71, c/o Parrocchia S. Antonio, Legnago",
+  "ts": 1785246542450
+ },
+ "it|via cassia, 1286, c/o parr. b. m. vergine immacolata, roma": {
+  "mis": true,
+  "adres": "Via Cassia, 1286, c/o Parr. B. M. Vergine Immacolata, Roma",
+  "ts": 1785246542450
+ },
+ "it|via castruccio buonamici, 381, lucca": {
+  "lat": 43.8446846,
+  "lng": 10.4939129,
+  "adres": "Via Castruccio Buonamici, 381, Lucca",
+  "ts": 1785246542450
+ },
+ "it|via cava, 36, malegno": {
+  "lat": 45.94945,
+  "lng": 10.2759047,
+  "adres": "Via Cava, 36, Malegno",
+  "ts": 1785246542450
+ },
+ "it|via cavour, 49, arzignano": {
+  "lat": 45.5187956,
+  "lng": 11.3330649,
+  "adres": "Via Cavour, 49, Arzignano",
+  "ts": 1785246542450
+ },
+ "it|via cavour, 72, c/o ex scuola agraria, cologna veneta": {
+  "mis": true,
+  "adres": "Via Cavour, 72, c/o ex Scuola Agraria, Cologna Veneta",
+  "ts": 1785246542450
+ },
+ "it|via cesana, 35, modena": {
+  "lat": 44.6354104,
+  "lng": 10.9496835,
+  "adres": "Via Cesana, 35, Modena",
+  "ts": 1785246542450
+ },
+ "it|via cesare battisti, 259, c/o s. teresa del bambin gesù, taranto": {
+  "mis": true,
+  "adres": "Via Cesare Battisti, 259, c/o S. Teresa del Bambin Gesù, Taranto",
+  "ts": 1785246542450
+ },
+ "it|via cesare battisti, 85, c/o parrocchia maria ausiliatrice, laveno mombello": {
+  "mis": true,
+  "adres": "Via Cesare Battisti, 85, c/o Parrocchia Maria Ausiliatrice, Laveno Mombello",
+  "ts": 1785246542450
+ },
+ "it|via chiesa, 15, c/o centro culturale giovanile, calmasino di bardolino": {
+  "mis": true,
+  "adres": "Via Chiesa, 15, c/o Centro culturale giovanile, Calmasino di Bardolino",
+  "ts": 1785246542450
+ },
+ "it|via circonvallazione, 31, c/o centro sociale, desenzano del garda": {
+  "mis": true,
+  "adres": "Via Circonvallazione, 31, c/o Centro Sociale, Desenzano del Garda",
+  "ts": 1785246542450
+ },
+ "it|via clemente lequio, 2c, tolmezzo": {
+  "lat": 46.4051143,
+  "lng": 13.0140646,
+  "adres": "Via Clemente Lequio, 2C, Tolmezzo",
+  "ts": 1785246542450
+ },
+ "it|via colombo, 1, salzano": {
+  "lat": 45.5230489,
+  "lng": 12.1078923,
+  "adres": "Via Colombo, 1, Salzano",
+  "ts": 1785246542450
+ },
+ "it|via cori, 4, c/o parrocchia s.maria mediatrice, roma": {
+  "mis": true,
+  "adres": "Via Cori, 4, c/o Parrocchia S.Maria Mediatrice, Roma",
+  "ts": 1785246542450
+ },
+ "it|via corta, 21, c/o cinema lux, livigno": {
+  "mis": true,
+  "adres": "Via Corta, 21, c/o Cinema Lux, Livigno",
+  "ts": 1785246542450
+ },
+ "it|via covignano, 238, c/o istituto marvelli, rimini": {
+  "mis": true,
+  "adres": "Via Covignano, 238, c/o Istituto Marvelli, Rimini",
+  "ts": 1785246542450
+ },
+ "it|via cristoforo colombo, 13/a, perugia": {
+  "lat": 43.1044315,
+  "lng": 12.3461473,
+  "adres": "Via Cristoforo Colombo, 13/a, Perugia",
+  "ts": 1785246542450
+ },
+ "it|via d.silenzi, 4, c/o parrocchia gesù redentore, porto san giorgio": {
+  "mis": true,
+  "adres": "Via D.Silenzi, 4, c/o Parrocchia Gesù Redentore, Porto San Giorgio",
+  "ts": 1785246542450
+ },
+ "it|via damiano chiesa, loc. olmo di maeme, olmo": {
+  "mis": true,
+  "adres": "Via Damiano Chiesa, Loc. Olmo di Maeme, Olmo",
+  "ts": 1785246542450
+ },
+ "it|via dante alighieri, angolo p. pavanello, piove di sacco": {
+  "mis": true,
+  "adres": "Via Dante Alighieri, Angolo P. Pavanello, Piove di Sacco",
+  "ts": 1785246542450
+ },
+ "it|via degli abruzzi 29, c/o nuova casa delle associazioni, legnano": {
+  "mis": true,
+  "adres": "Via degli Abruzzi 29, c/o Nuova Casa delle Associazioni, Legnano",
+  "ts": 1785246542450
+ },
+ "it|via degli aceri, 1, c/o albergo popolare, firenze": {
+  "mis": true,
+  "adres": "Via degli Aceri, 1, c/o Albergo Popolare, Firenze",
+  "ts": 1785246542450
+ },
+ "it|via degli antegnati, 17, c/o oratorio s. antonio, brescia": {
+  "mis": true,
+  "adres": "Via degli Antegnati, 17, c/o oratorio S. Antonio, Brescia",
+  "ts": 1785246542450
+ },
+ "it|via degli olivetani, 3, c/o comunità s.egidio - nei pressi di s.vittore, milano": {
+  "mis": true,
+  "adres": "Via degli Olivetani, 3, c/o Comunità S.Egidio - nei pressi di S.Vittore, Milano",
+  "ts": 1785246542450
+ },
+ "it|via degli olivi, montepulciano": {
+  "lat": 43.0710933,
+  "lng": 11.8047461,
+  "adres": "Via degli Olivi, Montepulciano",
+  "ts": 1785246542450
+ },
+ "it|via dei carmelitani 7, santa maria di negrar": {
+  "mis": true,
+  "adres": "Via Dei Carmelitani 7, Santa Maria di Negrar",
+  "ts": 1785246542450
+ },
+ "it|via dei carpinoni, 18, c/o centro terza età, bergamo": {
+  "mis": true,
+  "adres": "Via dei Carpinoni, 18, c/o Centro Terza Età, Bergamo",
+  "ts": 1785246542450
+ },
+ "it|via dei dauni, 20, c/o parrocchia maria madre della chiesa, matera": {
+  "mis": true,
+  "adres": "Via dei Dauni, 20, c/o Parrocchia Maria Madre della Chiesa, Matera",
+  "ts": 1785246542450
+ },
+ "it|via dei larici, 5, c/o oratorio chiesa della madonna del buon consiglio-terminetto, viareggio": {
+  "mis": true,
+  "adres": "Via dei Larici, 5, c/o Oratorio Chiesa della Madonna del Buon Consiglio-Terminetto, Viareggio",
+  "ts": 1785246542450
+ },
+ "it|via dei longobardi, 2, località san donato, cittadella": {
+  "mis": true,
+  "adres": "Via dei Longobardi, 2, Località San Donato, Cittadella",
+  "ts": 1785246542450
+ },
+ "it|via dei mille, 18, ufficio parrocchiale chiesa santa caterina da siena, trieste": {
+  "mis": true,
+  "adres": "Via dei Mille, 18, Ufficio parrocchiale chiesa Santa Caterina da Siena, Trieste",
+  "ts": 1785246542450
+ },
+ "it|via dei pioppi, c/o locali chiesa di santa maria degli angeli, termoli": {
+  "mis": true,
+  "adres": "Via dei Pioppi, c/o Locali Chiesa di Santa Maria degli Angeli, Termoli",
+  "ts": 1785246542450
+ },
+ "it|via del carmine, 10, c/o oratorio, milano": {
+  "mis": true,
+  "adres": "Via del Carmine, 10, c/o Oratorio, Milano",
+  "ts": 1785246542450
+ },
+ "it|via del dogma, 3, c/o parrocchia maria ss immacolata, qualiano": {
+  "mis": true,
+  "adres": "Via del Dogma, 3, c/o Parrocchia Maria SS Immacolata, Qualiano",
+  "ts": 1785246542450
+ },
+ "it|via del mercato nuovo, 41/f, vicenza": {
+  "lat": 45.5433639,
+  "lng": 11.5203908,
+  "adres": "Via del mercato nuovo, 41/F, Vicenza",
+  "ts": 1785246542450
+ },
+ "it|via del pane,6, c/o microarea cittavecchia, trieste": {
+  "mis": true,
+  "adres": "Via del Pane,6, c/o Microarea Cittavecchia, Trieste",
+  "ts": 1785246542450
+ },
+ "it|via del sacro cuore, 46, c/o parrocchia sacro cuore-gesuiti, ragusa": {
+  "mis": true,
+  "adres": "Via del Sacro Cuore, 46, c/o Parrocchia Sacro Cuore-Gesuiti, Ragusa",
+  "ts": 1785246542450
+ },
+ "it|via dell'artigianato, 15,, c/o palazzo delle associazioni, torri di arcugnano": {
+  "mis": true,
+  "adres": "Via dell'Artigianato, 15,, c/o Palazzo delle Associazioni, Torri di Arcugnano",
+  "ts": 1785246542450
+ },
+ "it|via della beverara, 86, c/o parrocchia san bartolomeo, bologna": {
+  "mis": true,
+  "adres": "Via della Beverara, 86, c/o Parrocchia San Bartolomeo, Bologna",
+  "ts": 1785246542450
+ },
+ "it|via della chiesa, 36, c/o oratorio s.giacomo, la loggia": {
+  "mis": true,
+  "adres": "Via Della Chiesa, 36, c/o Oratorio S.Giacomo, La Loggia",
+  "ts": 1785246542450
+ },
+ "it|via della chiesa, c/o albergo popolare, firenze": {
+  "mis": true,
+  "adres": "Via della Chiesa, c/o Albergo Popolare, Firenze",
+  "ts": 1785246542450
+ },
+ "it|via della chiesacorso giacomo matteotti, 210, c/o gruppo giovanile, borgo san lorenzo": {
+  "mis": true,
+  "adres": "Via della ChiesaCorso Giacomo Matteotti, 210, c/o Gruppo giovanile, Borgo San Lorenzo",
+  "ts": 1785246542450
+ },
+ "it|via della repubblica, paolo vi, c/o parrocchia corpus domini, taranto": {
+  "mis": true,
+  "adres": "Via della Repubblica, Paolo VI, c/o Parrocchia Corpus Domini, Taranto",
+  "ts": 1785246542450
+ },
+ "it|via della scatorbia, città di castello": {
+  "lat": 43.4586728,
+  "lng": 12.2366774,
+  "adres": "Via della Scatorbia, Città di Castello",
+  "ts": 1785246542450
+ },
+ "it|via della vittoria, 17, località santa maria della vittoria, volpago del montello": {
+  "mis": true,
+  "adres": "Via della Vittoria, 17, Località Santa Maria della Vittoria, Volpago del Montello",
+  "ts": 1785246542450
+ },
+ "it|via delle calende 62, gello di pontedera, c/o parrocchia di san lorenzo, pontedera": {
+  "lat": 43.6393645,
+  "lng": 10.5945061,
+  "adres": "via delle Calende 62, Gello di Pontedera, c/o Parrocchia di san Lorenzo, Pontedera",
+  "ts": 1785246542450
+ },
+ "it|via delle vigne nuove, 653, c/o parr. sant'alberto magno, roma": {
+  "mis": true,
+  "adres": "Via delle Vigne Nuove, 653, c/o Parr. Sant'Alberto Magno, Roma",
+  "ts": 1785246542450
+ },
+ "it|via di pozzuoli, 110 c/o villa medusa, napoli": {
+  "mis": true,
+  "adres": "Via di Pozzuoli, 110 c/o Villa Medusa, Napoli",
+  "ts": 1785246542450
+ },
+ "it|via di pozzuoli, 110, c/o villa medusa, napoli": {
+  "mis": true,
+  "adres": "Via di Pozzuoli, 110, c/o Villa Medusa, Napoli",
+  "ts": 1785246542450
+ },
+ "it|via di s. biagio in cascheri, 114, pistoia": {
+  "lat": 43.9385829,
+  "lng": 10.892046,
+  "adres": "via di S. Biagio In Cascheri, 114, Pistoia",
+  "ts": 1785246542450
+ },
+ "it|via di sotto, centro di circoscrizione pe colli, pescara": {
+  "mis": true,
+  "adres": "Via di Sotto, Centro di Circoscrizione PE Colli, Pescara",
+  "ts": 1785246542450
+ },
+ "it|via di villa emiliani, 15, c/o parr. s.luigi gonzaga, roma": {
+  "mis": true,
+  "adres": "Via di Villa Emiliani, 15, c/o Parr. S.Luigi Gonzaga, Roma",
+  "ts": 1785246542450
+ },
+ "it|via domenico maria manni, 85, c/o s. maria a coverciano, firenze": {
+  "mis": true,
+  "adres": "Via Domenico Maria Manni, 85, c/o S. Maria a Coverciano, Firenze",
+  "ts": 1785246542450
+ },
+ "it|via don domenico savarè, c/o oratorio femminile, sant'angelo lodigiano": {
+  "mis": true,
+  "adres": "Via Don Domenico Savarè, c/o Oratorio Femminile, Sant'Angelo Lodigiano",
+  "ts": 1785246542450
+ },
+ "it|via don e. carraro, 7, spinea": {
+  "mis": true,
+  "adres": "Via Don E. Carraro, 7, Spinea",
+  "ts": 1785246542450
+ },
+ "it|via don minzoni, 54, savona": {
+  "lat": 44.1119412,
+  "lng": 8.2428704,
+  "adres": "Via Don Minzoni, 54, Savona",
+  "ts": 1785246542450
+ },
+ "it|via donatori di sangue 2, c/o villa tappainer, arco": {
+  "lat": 45.9186955,
+  "lng": 10.8775153,
+  "adres": "Via Donatori di Sangue 2, c/o Villa Tappainer, Arco",
+  "ts": 1785246542450
+ },
+ "it|via donaudi, c/o oratorio don bosco, saluzzo": {
+  "mis": true,
+  "adres": "Via Donaudi, c/o Oratorio Don Bosco, Saluzzo",
+  "ts": 1785246542450
+ },
+ "it|via dottor isonni, 7, c/o oratorio parrocchiale, pisogne": {
+  "mis": true,
+  "adres": "Via Dottor Isonni, 7, c/o Oratorio Parrocchiale, Pisogne",
+  "ts": 1785246542450
+ },
+ "it|via duomo, 1, 2° piano corridoio 4, montecchio maggiore": {
+  "mis": true,
+  "adres": "Via Duomo, 1, 2° piano corridoio 4, Montecchio Maggiore",
+  "ts": 1785246542450
+ },
+ "it|via enrico albanese, 2, c/o parrocchia santa lucia, palermo": {
+  "mis": true,
+  "adres": "Via Enrico Albanese, 2, c/o Parrocchia Santa Lucia, Palermo",
+  "ts": 1785246542450
+ },
+ "it|via enrico fermi, 3, c/o ceod, campolongo maggiore": {
+  "mis": true,
+  "adres": "Via Enrico Fermi, 3, c/o CEOD, Campolongo Maggiore",
+  "ts": 1785246542450
+ },
+ "it|via enrico fermi,, c/o chiesa di san paolo apostolo, oristano": {
+  "mis": true,
+  "adres": "Via Enrico Fermi,, c/o Chiesa di San Paolo Apostolo, Oristano",
+  "ts": 1785246542450
+ },
+ "it|via enrico toti, 33, ii° piano stanza n° 12, mira": {
+  "mis": true,
+  "adres": "Via Enrico Toti, 33, II° Piano stanza n° 12, Mira",
+  "ts": 1785246542450
+ },
+ "it|via europa unita, 30, c/o ex casa custode, codroipo": {
+  "mis": true,
+  "adres": "Via Europa Unita, 30, c/o ex Casa Custode, Codroipo",
+  "ts": 1785246542450
+ },
+ "it|via f. antonio pistocchi, 19, c/o chiesa di san paolo apostolo, forlì": {
+  "mis": true,
+  "adres": "Via F. Antonio Pistocchi, 19, c/o Chiesa di San Paolo Apostolo, Forlì",
+  "ts": 1785246542450
+ },
+ "it|via f. valcamonica, 21, c/o oratorio maschile, vimercate": {
+  "mis": true,
+  "adres": "Via F. Valcamonica, 21, c/o Oratorio Maschile, Vimercate",
+  "ts": 1785246542450
+ },
+ "it|via faentina, 131, c/o chiesa di san marco vecchio, firenze": {
+  "mis": true,
+  "adres": "Via Faentina, 131, c/o Chiesa di San Marco Vecchio, Firenze",
+  "ts": 1785246542450
+ },
+ "it|via falcone e borsellino 36, c/o villa raimondi, nogara": {
+  "lat": 45.1774999,
+  "lng": 11.0612526,
+  "adres": "Via Falcone e Borsellino 36, c/o Villa Raimondi, Nogara",
+  "ts": 1785246542450
+ },
+ "it|via federico campana, 28, torino": {
+  "lat": 45.0539891,
+  "lng": 7.6821138,
+  "adres": "Via Federico Campana, 28, Torino",
+  "ts": 1785246542450
+ },
+ "it|via federico priuli,27, c/o patronato treville, loc. treville castelfranco veneto": {
+  "mis": true,
+  "adres": "Via Federico Priuli,27, c/o Patronato Treville, Loc. Treville Castelfranco Veneto",
+  "ts": 1785246542450
+ },
+ "it|via fermi, 8, c/o linfa, langhirano": {
+  "mis": true,
+  "adres": "Via Fermi, 8, c/o Linfa, Langhirano",
+  "ts": 1785246542450
+ },
+ "it|via feudo di san martino, 25, c/o comunità cristiana, caserta": {
+  "mis": true,
+  "adres": "Via Feudo di San Martino, 25, c/o Comunità Cristiana, Caserta",
+  "ts": 1785246542450
+ },
+ "it|via filippo marchetti, 36, c/o parrocchia ss trinità villa chigi, roma": {
+  "mis": true,
+  "adres": "Via Filippo Marchetti, 36, c/o Parrocchia SS Trinità Villa Chigi, Roma",
+  "ts": 1785246542450
+ },
+ "it|via filippo turati, 42, c/o cinema solaris, pesaro": {
+  "mis": true,
+  "adres": "Via Filippo Turati, 42, c/o cinema Solaris, Pesaro",
+  "ts": 1785246542450
+ },
+ "it|via filiselle, 1, c/o ex scuole elementari, castelnuovo del garda": {
+  "mis": true,
+  "adres": "Via Filiselle, 1, c/o ex scuole elementari, Castelnuovo del Garda",
+  "ts": 1785246542450
+ },
+ "it|via forese, 56, c/o distretto sanitario, campo san martino": {
+  "mis": true,
+  "adres": "Via Forese, 56, c/o Distretto Sanitario, Campo San Martino",
+  "ts": 1785246542450
+ },
+ "it|via francesco corradi 47, c/o federazione operaia sanremese, san remo": {
+  "lat": 43.8160786,
+  "lng": 7.7739605,
+  "adres": "Via Francesco Corradi 47, c/o Federazione Operaia Sanremese, San Remo",
+  "ts": 1785246542450
+ },
+ "it|via fratelli carraro, 35, padova": {
+  "lat": 45.4250315,
+  "lng": 11.9175317,
+  "adres": "Via Fratelli Carraro, 35, Padova",
+  "ts": 1785246542450
+ },
+ "it|via g. b. conte, 9, c/o ex asilo rossi, schio": {
+  "mis": true,
+  "adres": "Via G. B. Conte, 9, c/o Ex Asilo Rossi, Schio",
+  "ts": 1785246542450
+ },
+ "it|via g. prandina, c/o palazzo rizzetto, san pietro in gu": {
+  "mis": true,
+  "adres": "Via G. Prandina, c/o Palazzo Rizzetto, San Pietro in GU",
+  "ts": 1785246542450
+ },
+ "it|via g. rossini, 214, c/o chiesa san paolo, terni": {
+  "mis": true,
+  "adres": "Via G. Rossini, 214, c/o Chiesa San Paolo, Terni",
+  "ts": 1785246542450
+ },
+ "it|via g. verdi, 10, c/o casa delle associazioni, san polo": {
+  "mis": true,
+  "adres": "Via G. Verdi, 10, c/o Casa delle Associazioni, San Polo",
+  "ts": 1785246542450
+ },
+ "it|via g.b. berti, 634, prignano sulla secchia": {
+  "mis": true,
+  "adres": "Via G.B. Berti, 634, Prignano sulla Secchia",
+  "ts": 1785246542450
+ },
+ "it|via g.mameli, c/o chiesa maria madre di dio, gualdo tadino": {
+  "mis": true,
+  "adres": "Via G.Mameli, c/o Chiesa Maria Madre di Dio, Gualdo Tadino",
+  "ts": 1785246542450
+ },
+ "it|via gaetano donizetti, 4, guastalla": {
+  "lat": 45.4628963,
+  "lng": 9.2053441,
+  "adres": "Via Gaetano Donizetti, 4, Guastalla",
+  "ts": 1785246542450
+ },
+ "it|via galatina, 160, c/o centro famiglia, santa maria capua a vetere": {
+  "mis": true,
+  "adres": "Via Galatina, 160, c/o Centro Famiglia, Santa Maria Capua a Vetere",
+  "ts": 1785246542450
+ },
+ "it|via galileo galilei, 32, c/o parrocchia delle bonacina, lecco": {
+  "mis": true,
+  "adres": "Via Galileo Galilei, 32, c/o Parrocchia delle Bonacina, Lecco",
+  "ts": 1785246542450
+ },
+ "it|via garibaldi, c/o centro russolo, oderzo": {
+  "mis": true,
+  "adres": "Via Garibaldi, c/o Centro Russolo, Oderzo",
+  "ts": 1785246542450
+ },
+ "it|via giacomo leopardi, 2, c/o centro polifunzionale a. spinelli, cadoneghe": {
+  "mis": true,
+  "adres": "Via Giacomo Leopardi, 2, c/o Centro polifunzionale A. Spinelli, Cadoneghe",
+  "ts": 1785246542450
+ },
+ "it|via giacomo matteotti, 5, c/o casa del volontariato, pavullo nel frignano": {
+  "mis": true,
+  "adres": "Via Giacomo Matteotti, 5, c/o casa del volontariato, Pavullo Nel Frignano",
+  "ts": 1785246542450
+ },
+ "it|via giacomo zanella, 5, c/o parrocchia cristo re, treviso": {
+  "mis": true,
+  "adres": "Via Giacomo Zanella, 5, c/o Parrocchia Cristo Re, Treviso",
+  "ts": 1785246542450
+ },
+ "it|via ginocchi, civitanova marche": {
+  "lat": 43.2976812,
+  "lng": 13.7222551,
+  "adres": "Via Ginocchi, Civitanova Marche",
+  "ts": 1785246542450
+ },
+ "it|via gioacchino rossini, 42, monfalcone": {
+  "mis": true,
+  "adres": "Via Gioacchino Rossini, 42, Monfalcone",
+  "ts": 1785246542450
+ },
+ "it|via giordano colombo 17, cernusco sul naviglio": {
+  "lat": 45.5362574,
+  "lng": 9.3395269,
+  "adres": "via Giordano Colombo 17, Cernusco sul Naviglio",
+  "ts": 1785246542450
+ },
+ "it|via giosuè carducci, 1, firenze": {
+  "lat": 43.7718197,
+  "lng": 11.2663385,
+  "adres": "Via Giosuè Carducci, 1, Firenze",
+  "ts": 1785246542450
+ },
+ "it|via giovanni bovio, 44, c/o chiesa san giuseppe, roma": {
+  "mis": true,
+  "adres": "Via Giovanni Bovio, 44, c/o Chiesa San Giuseppe, Roma",
+  "ts": 1785246542450
+ },
+ "it|via giovanni dupré 19, milano": {
+  "lat": 45.0935758,
+  "lng": 7.7000596,
+  "adres": "Via Giovanni Dupré 19, Milano",
+  "ts": 1785246542450
+ },
+ "it|via giovanni panizza, 17, rovereto": {
+  "lat": 45.868026,
+  "lng": 11.0325342,
+  "adres": "Via Giovanni Panizza, 17, Rovereto",
+  "ts": 1785246542450
+ },
+ "it|via giovanni pascoli, 1, traversa di viale europa, montesilvano": {
+  "mis": true,
+  "adres": "Via Giovanni Pascoli, 1, Traversa di Viale Europa, Montesilvano",
+  "ts": 1785246542450
+ },
+ "it|via giovanni xxiii°, 15, località timonchio, santorso": {
+  "lat": 45.7331054,
+  "lng": 11.3736769,
+  "adres": "Via Giovanni XXIII°, 15, Località Timonchio, Santorso",
+  "ts": 1785246542450
+ },
+ "it|via giudecca, 31, reggio calabria": {
+  "lat": 38.1084165,
+  "lng": 15.6477982,
+  "adres": "Via Giudecca, 31, Reggio Calabria",
+  "ts": 1785246542450
+ },
+ "it|via giuseppe giusti, 2, c/o centro civico stellanda, rho": {
+  "mis": true,
+  "adres": "Via Giuseppe Giusti, 2, c/o Centro Civico Stellanda, Rho",
+  "ts": 1785246542450
+ },
+ "it|via giuseppe palmitessa, 38, c/o parrocchia s.s.trinità, barletta": {
+  "mis": true,
+  "adres": "Via Giuseppe Palmitessa, 38, c/o Parrocchia S.S.Trinità, Barletta",
+  "ts": 1785246542450
+ },
+ "it|via giuseppe rovani, 257, /o struttura comunale, sesto san giovanni": {
+  "mis": true,
+  "adres": "Via Giuseppe Rovani, 257, /o Struttura Comunale, Sesto San Giovanni",
+  "ts": 1785246542450
+ },
+ "it|via giuseppe verdi, 26, presso casa berva, cassano d'adda": {
+  "mis": true,
+  "adres": "Via Giuseppe Verdi, 26, presso Casa Berva, Cassano d'Adda",
+  "ts": 1785246542450
+ },
+ "it|via giuseppe zanardelli, 350, gardone val trompia": {
+  "lat": 45.6901202,
+  "lng": 10.1834092,
+  "adres": "Via Giuseppe Zanardelli, 350, Gardone Val Trompia",
+  "ts": 1785246542450
+ },
+ "it|via gorizia, 19,, c/o parrocchia regina pacis, reggio nell'emilia": {
+  "mis": true,
+  "adres": "Via Gorizia, 19,, c/o Parrocchia Regina Pacis, Reggio nell'Emilia",
+  "ts": 1785246542450
+ },
+ "it|via gramsci, 322, c/o uffici stazione ferroviaria, mirandola": {
+  "mis": true,
+  "adres": "Via Gramsci, 322, c/o uffici stazione ferroviaria, Mirandola",
+  "ts": 1785246542450
+ },
+ "it|via gran paradiso, 2, c/o parr. san carlo, novate milanese": {
+  "mis": true,
+  "adres": "Via Gran Paradiso, 2, c/o Parr. San Carlo, Novate Milanese",
+  "ts": 1785246542450
+ },
+ "it|via italia n. 35, c/o parrocchia san giuseppe, falconara marittima": {
+  "lat": 43.6243506,
+  "lng": 13.4064695,
+  "adres": "via Italia n. 35, c/o Parrocchia San Giuseppe, Falconara Marittima",
+  "ts": 1785246542450
+ },
+ "it|via l. fantoni, 22, villafranca": {
+  "mis": true,
+  "adres": "Via L. Fantoni, 22, Villafranca",
+  "ts": 1785246542450
+ },
+ "it|via lago di pusiano, 7, c/o circoscrizione 5, vicenza": {
+  "mis": true,
+  "adres": "Via Lago di Pusiano, 7, c/o Circoscrizione 5, Vicenza",
+  "ts": 1785246542450
+ },
+ "it|via lando conti, 4, c/o parrocchia s. giovanni battista, velletri": {
+  "mis": true,
+  "adres": "Via Lando Conti, 4, c/o Parrocchia S. Giovanni Battista, Velletri",
+  "ts": 1785246542450
+ },
+ "it|via leonardo da vinci, 5, rovereto": {
+  "lat": 45.8853395,
+  "lng": 11.0299227,
+  "adres": "Via Leonardo Da Vinci, 5, Rovereto",
+  "ts": 1785246542450
+ },
+ "it|via lepanto, 3, rosà": {
+  "lat": 45.7228276,
+  "lng": 11.7591066,
+  "adres": "Via Lepanto, 3, Rosà",
+  "ts": 1785246542450
+ },
+ "it|via libertà, 28, c/o edificio comunale, lavena ponte tresa": {
+  "mis": true,
+  "adres": "Via Libertà, 28, c/o Edificio Comunale, Lavena Ponte Tresa",
+  "ts": 1785246542450
+ },
+ "it|via longuelo, 39, c/o vecchio oratorio, bergamo": {
+  "mis": true,
+  "adres": "Via Longuelo, 39, c/o vecchio oratorio, Bergamo",
+  "ts": 1785246542450
+ },
+ "it|via lorenzo lorenzetti, 60, trieste": {
+  "lat": 45.6336594,
+  "lng": 13.7834896,
+  "adres": "Via Lorenzo Lorenzetti, 60, Trieste",
+  "ts": 1785246542450
+ },
+ "it|via luigi calabresi, c/o chiesa spirito, arzano": {
+  "mis": true,
+  "adres": "Via Luigi Calabresi, c/o Chiesa Spirito, Arzano",
+  "ts": 1785246542450
+ },
+ "it|via m. quadrio, 10, c/o parrocchia santa maria regina, como": {
+  "mis": true,
+  "adres": "Via M. Quadrio, 10, c/o Parrocchia Santa Maria Regina, Como",
+  "ts": 1785246542450
+ },
+ "it|via madonnina del grappa, 15, c/o casa parrocchiale, ispra": {
+  "mis": true,
+  "adres": "Via Madonnina del Grappa, 15, c/o Casa Parrocchiale, Ispra",
+  "ts": 1785246542450
+ },
+ "it|via maffei, 40, c/o associazione amici anziani, sondrio": {
+  "mis": true,
+  "adres": "Via Maffei, 40, c/o Associazione Amici Anziani, Sondrio",
+  "ts": 1785246542450
+ },
+ "it|via marco emilio lepido, 58, c/o parrocchia santa maria assunta, bologna": {
+  "mis": true,
+  "adres": "Via Marco Emilio Lepido, 58, c/o Parrocchia Santa Maria Assunta, Bologna",
+  "ts": 1785246542450
+ },
+ "it|via marco polo, 6, torino": {
+  "lat": 45.0579839,
+  "lng": 7.6646497,
+  "adres": "Via Marco Polo, 6, Torino",
+  "ts": 1785246542450
+ },
+ "it|via marconi, 80, c/o parrocchia ss. pietro e paolo, erba": {
+  "mis": true,
+  "adres": "Via Marconi, 80, c/o Parrocchia SS. Pietro e Paolo, Erba",
+  "ts": 1785246542450
+ },
+ "it|via marconi, 9, bolzano": {
+  "lat": 46.8931986,
+  "lng": 11.4323452,
+  "adres": "Via Marconi, 9, Bolzano",
+  "ts": 1785246542450
+ },
+ "it|via marconi, c/o ex casello ferroviario, longare": {
+  "mis": true,
+  "adres": "Via Marconi, c/o Ex Casello Ferroviario, Longare",
+  "ts": 1785246542450
+ },
+ "it|via marruota, 107, c/o parrocchia corpus domini, montecatini terme": {
+  "mis": true,
+  "adres": "Via Marruota, 107, c/o Parrocchia Corpus Domini, Montecatini Terme",
+  "ts": 1785246542450
+ },
+ "it|via matteo tondi, 80, c/o parr. s. vincenzo pallotti, roma": {
+  "mis": true,
+  "adres": "Via Matteo Tondi, 80, c/o Parr. S. Vincenzo Pallotti, Roma",
+  "ts": 1785246542450
+ },
+ "it|via mazzini, 3, c/o villa p. zampieri - casella postale n° 23, bovolone": {
+  "mis": true,
+  "adres": "Via mazzini, 3, c/o Villa P. Zampieri - Casella Postale n° 23, Bovolone",
+  "ts": 1785246542450
+ },
+ "it|via medaglie d'oro della resistenza, reggio emilia": {
+  "lat": 44.6817406,
+  "lng": 10.6379265,
+  "adres": "Via Medaglie d'Oro della Resistenza, Reggio Emilia",
+  "ts": 1785246542450
+ },
+ "it|via michele mercati, 3, firenze": {
+  "lat": 43.7943894,
+  "lng": 11.250093,
+  "adres": "Via Michele Mercati, 3, Firenze",
+  "ts": 1785246542450
+ },
+ "it|via miran hrovatin, 2, c/o sert, mantova": {
+  "mis": true,
+  "adres": "Via Miran Hrovatin, 2, c/o SERT, Mantova",
+  "ts": 1785246542450
+ },
+ "it|via monsignor carozzi, c/o oratorio maschile, seriate": {
+  "mis": true,
+  "adres": "Via Monsignor Carozzi, c/o Oratorio Maschile, Seriate",
+  "ts": 1785246542450
+ },
+ "it|via monte bianco, 93, angolo via antelao, roma": {
+  "mis": true,
+  "adres": "Via Monte Bianco, 93, Angolo Via Antelao, Roma",
+  "ts": 1785246542450
+ },
+ "it|via monte grappa, 15, c/o villa azalea, borso del grappa": {
+  "mis": true,
+  "adres": "Via Monte Grappa, 15, c/o Villa Azalea, Borso del Grappa",
+  "ts": 1785246542450
+ },
+ "it|via montecitorio, c/o seminario arcivescovile, favara": {
+  "mis": true,
+  "adres": "Via Montecitorio, c/o Seminario Arcivescovile, Favara",
+  "ts": 1785246542450
+ },
+ "it|via municipio, c/o municipio, colico piano": {
+  "mis": true,
+  "adres": "Via Municipio, c/o Municipio, Colico Piano",
+  "ts": 1785246542450
+ },
+ "it|via napoli, 56, c/o chiesa anglicana, roma": {
+  "mis": true,
+  "adres": "Via Napoli, 56, c/o Chiesa Anglicana, Roma",
+  "ts": 1785246542450
+ },
+ "it|via natale bruni, 129, c/o parrocchia di brodano, vignola": {
+  "mis": true,
+  "adres": "Via Natale Bruni, 129, c/o parrocchia di Brodano, Vignola",
+  "ts": 1785246542450
+ },
+ "it|via nenni 2, parco ca' ranuzza, castelfranco emilia": {
+  "lat": 44.5886154,
+  "lng": 11.0481386,
+  "adres": "Via Nenni 2, Parco Ca' Ranuzza, Castelfranco Emilia",
+  "ts": 1785246542450
+ },
+ "it|via nurra, 3b, sassari": {
+  "lat": 40.7336624,
+  "lng": 8.5615021,
+  "adres": "Via Nurra, 3B, Sassari",
+  "ts": 1785246542450
+ },
+ "it|via oberdan, 83, brugherio": {
+  "lat": 45.5500425,
+  "lng": 9.3079905,
+  "adres": "Via Oberdan, 83, Brugherio",
+  "ts": 1785246542450
+ },
+ "it|via odescalchi, 181, c/o parr. s. maria del rosario, ladispoli": {
+  "mis": true,
+  "adres": "Via Odescalchi, 181, c/o Parr. S. Maria del Rosario, Ladispoli",
+  "ts": 1785246542450
+ },
+ "it|via orgnano, 2, c/o poliamb. medico, carpeneto": {
+  "mis": true,
+  "adres": "Via Orgnano, 2, c/o Poliamb. Medico, Carpeneto",
+  "ts": 1785246542450
+ },
+ "it|via p. borsieri, 6, milano": {
+  "mis": true,
+  "adres": "Via P. Borsieri, 6, Milano",
+  "ts": 1785246542450
+ },
+ "it|via palestro, 55/b, manerbio": {
+  "lat": 45.3548926,
+  "lng": 10.1303933,
+  "adres": "Via Palestro, 55/b, Manerbio",
+  "ts": 1785246542450
+ },
+ "it|via paolo gaidano, 77, torino": {
+  "lat": 45.0405231,
+  "lng": 7.6242708,
+  "adres": "Via Paolo Gaidano, 77, Torino",
+  "ts": 1785246542450
+ },
+ "it|via parigi, 101, c/o parrocchia s. camillo de lellis, villa raspa di spoltore": {
+  "mis": true,
+  "adres": "Via Parigi, 101, c/o Parrocchia S. Camillo De Lellis, Villa Raspa di Spoltore",
+  "ts": 1785246542450
+ },
+ "it|via pasquale scura, 17, c/o chiesa delle pentite, napoli": {
+  "mis": true,
+  "adres": "Via Pasquale Scura, 17, c/o Chiesa delle Pentite, Napoli",
+  "ts": 1785246542450
+ },
+ "it|via pegoraro 46, c/o locali adiacenti alla chiesa parrocchiale di s. alessandro, gallarate": {
+  "lat": 45.6659495,
+  "lng": 8.7923868,
+  "adres": "Via Pegoraro 46, c/o locali adiacenti alla Chiesa Parrocchiale di S. Alessandro, Gallarate",
+  "ts": 1785246542450
+ },
+ "it|via pendice scoglietto, 6, trieste": {
+  "mis": true,
+  "adres": "Via Pendice Scoglietto, 6, Trieste",
+  "ts": 1785246542450
+ },
+ "it|via piandarana, 4, la spezia": {
+  "lat": 44.1101789,
+  "lng": 9.8122104,
+  "adres": "Via Piandarana, 4, La Spezia",
+  "ts": 1785246542450
+ },
+ "it|via piave, 12, c/o chiesa gesù operaio, monterotondo": {
+  "mis": true,
+  "adres": "Via Piave, 12, c/o Chiesa Gesù Operaio, Monterotondo",
+  "ts": 1785246542450
+ },
+ "it|via piemonte 4, c/o santa maria dell'agnena, vitulazio": {
+  "mis": true,
+  "adres": "Via Piemonte 4, c/o Santa Maria dell'Agnena, Vitulazio",
+  "ts": 1785246542450
+ },
+ "it|via piero strozzi, 6b, milano": {
+  "lat": 45.4584947,
+  "lng": 9.1441919,
+  "adres": "Via Piero Strozzi, 6b, Milano",
+  "ts": 1785246542450
+ },
+ "it|via pietro castelli, 174, c/o santa maria delle grazie in gravitelli, messina": {
+  "mis": true,
+  "adres": "Via Pietro Castelli, 174, c/o Santa Maria delle Grazie in Gravitelli, Messina",
+  "ts": 1785246542450
+ },
+ "it|via pietro colobini, 6, c/o parrocchia s. ilario e taziano, gorizia": {
+  "mis": true,
+  "adres": "Via Pietro Colobini, 6, c/o Parrocchia S. Ilario e Taziano, Gorizia",
+  "ts": 1785246542450
+ },
+ "it|via pietro delvecchio, 2, c/o centro anziani \"la torretta\", mondovì": {
+  "mis": true,
+  "adres": "Via Pietro Delvecchio, 2, c/o Centro anziani \"La Torretta\", Mondovì",
+  "ts": 1785246542450
+ },
+ "it|via pietro pernigotti, 12, c/o accademia di musica perosi, tortona": {
+  "mis": true,
+  "adres": "Via Pietro Pernigotti, 12, c/o Accademia di musica Perosi, Tortona",
+  "ts": 1785246542450
+ },
+ "it|via pieve, c/o seminario francescano, chiampo": {
+  "mis": true,
+  "adres": "Via Pieve, c/o Seminario Francescano, Chiampo",
+  "ts": 1785246542450
+ },
+ "it|via piovese, 74, palazzo ufficio postale - sul retro, padova": {
+  "mis": true,
+  "adres": "Via Piovese, 74, Palazzo ufficio postale - sul retro, Padova",
+  "ts": 1785246542450
+ },
+ "it|via pistoia, 3, c/o parr.s.massimiliano colbe, lecce": {
+  "mis": true,
+  "adres": "Via Pistoia, 3, c/o Parr.S.Massimiliano Colbe, Lecce",
+  "ts": 1785246542450
+ },
+ "it|via po 16, c/o biblioteca sarmeola, rubano": {
+  "lat": 45.4187364,
+  "lng": 11.8258081,
+  "adres": "Via Po 16, c/o Biblioteca Sarmeola, Rubano",
+  "ts": 1785246542450
+ },
+ "it|via polese, 25, bologna": {
+  "lat": 44.5000502,
+  "lng": 11.3399454,
+  "adres": "Via Polese, 25, Bologna",
+  "ts": 1785246542450
+ },
+ "it|via pomari, c/o centro sociale diurno, camisano vicentino": {
+  "mis": true,
+  "adres": "Via Pomari, c/o Centro Sociale Diurno, Camisano Vicentino",
+  "ts": 1785246542450
+ },
+ "it|via portichetto, 19, c/o il centro, desio": {
+  "mis": true,
+  "adres": "Via Portichetto, 19, c/o Il Centro, Desio",
+  "ts": 1785246542450
+ },
+ "it|via porto, 260, san giovanni lupatoto": {
+  "lat": 45.3934044,
+  "lng": 11.044314,
+  "adres": "Via Porto, 260, San Giovanni Lupatoto",
+  "ts": 1785246542450
+ },
+ "it|via pozzo, 24, c/o piccola fraternità valpantena, grezzana": {
+  "mis": true,
+  "adres": "Via Pozzo, 24, c/o Piccola Fraternità Valpantena, Grezzana",
+  "ts": 1785246542450
+ },
+ "it|via pradamano, 21, c/o 4 circoscrizione udine sud, udine": {
+  "mis": true,
+  "adres": "Via Pradamano, 21, c/o 4 Circoscrizione Udine sud, Udine",
+  "ts": 1785246542450
+ },
+ "it|via pradamano, 21, c/o sala consiliare quarta circoscrizione, udine": {
+  "mis": true,
+  "adres": "Via Pradamano, 21, c/o Sala Consiliare quarta circoscrizione, Udine",
+  "ts": 1785246542450
+ },
+ "it|via privata miramare, 9, c/o casa delle associazioni, milano": {
+  "mis": true,
+  "adres": "Via Privata Miramare, 9, c/o Casa delle Associazioni, Milano",
+  "ts": 1785246542450
+ },
+ "it|via quirini, 1, , tv, italia, c/o parrocchia, castello di godego": {
+  "mis": true,
+  "adres": "Via Quirini, 1, , TV, Italia, c/o Parrocchia, Castello di Godego",
+  "ts": 1785246542450
+ },
+ "it|via r. manganaro 158, portoferraio": {
+  "mis": true,
+  "adres": "Via R. Manganaro 158, Portoferraio",
+  "ts": 1785246542450
+ },
+ "it|via remesina interna, 56 -carpi-, c/o parrocchia san giuseppe - palazzina a sx della chiesa primo piano, carpi": {
+  "lat": 44.7737564,
+  "lng": 10.8781564,
+  "adres": "Via Remesina Interna, 56 -Carpi-, c/o Parrocchia San Giuseppe - Palazzina a sx della chiesa Primo piano, Carpi",
+  "ts": 1785246542450
+ },
+ "it|via ripagrande, 7/a, ferrara": {
+  "lat": 44.8359278,
+  "lng": 11.6138861,
+  "adres": "Via Ripagrande, 7/a, Ferrara",
+  "ts": 1785246542450
+ },
+ "it|via roberto caruso, 1 - ex via bengasi, c/o palestra scuola elemen. via miceli, cosenza": {
+  "mis": true,
+  "adres": "Via Roberto Caruso, 1 - ex via Bengasi, c/o Palestra Scuola Elemen. Via Miceli, Cosenza",
+  "ts": 1785246542450
+ },
+ "it|via rodolfo manganaro 158, c/o associazione blu argento, portoferraio": {
+  "lat": 42.813961,
+  "lng": 10.3174152,
+  "adres": "Via Rodolfo Manganaro 158, c/o Associazione Blu Argento, Portoferraio",
+  "ts": 1785246542450
+ },
+ "it|via roma, 119, c/o oratorio regina pacis, saronno": {
+  "mis": true,
+  "adres": "Via Roma, 119, c/o Oratorio Regina Pacis, Saronno",
+  "ts": 1785246542450
+ },
+ "it|via roma, 140, c/o casa parrocchiale caversaccio, valmorea": {
+  "mis": true,
+  "adres": "Via Roma, 140, c/o Casa Parrocchiale Caversaccio, Valmorea",
+  "ts": 1785246542450
+ },
+ "it|via roma, 9, solagna": {
+  "lat": 45.8155052,
+  "lng": 11.7207411,
+  "adres": "Via Roma, 9, Solagna",
+  "ts": 1785246542450
+ },
+ "it|via roncaglie, 2, c/o centro diurno disabili, palazzolo sull'oglio": {
+  "mis": true,
+  "adres": "Via Roncaglie, 2, c/o Centro diurno disabili, Palazzolo sull'Oglio",
+  "ts": 1785246542450
+ },
+ "it|via ronzinella, 176, c/o centro comunitario, mogliano veneto": {
+  "mis": true,
+  "adres": "Via Ronzinella, 176, c/o Centro Comunitario, Mogliano Veneto",
+  "ts": 1785246542450
+ },
+ "it|via rovereto, 46, c/o oratorio maria immacolata, varese": {
+  "mis": true,
+  "adres": "Via Rovereto, 46, c/o Oratorio Maria Immacolata, Varese",
+  "ts": 1785246542450
+ },
+ "it|via rovigana, monselice": {
+  "mis": true,
+  "adres": "Via Rovigana, Monselice",
+  "ts": 1785246542450
+ },
+ "it|via rupinaro, 11, chiavari": {
+  "lat": 44.3193917,
+  "lng": 9.3216667,
+  "adres": "Via Rupinaro, 11, Chiavari",
+  "ts": 1785246542450
+ },
+ "it|via s. antonio, 2-4, c/o oratorio di sopraponte, gavardo": {
+  "mis": true,
+  "adres": "Via S. Antonio, 2-4, c/o Oratorio di Sopraponte, Gavardo",
+  "ts": 1785246542450
+ },
+ "it|via s. francesco d'assisi, 2, c/o sede cissac, caluso": {
+  "mis": true,
+  "adres": "Via S. Francesco D'Assisi, 2, c/o Sede CISSAC, Caluso",
+  "ts": 1785246542450
+ },
+ "it|via s. francesco d'assisi, 7, c/o convento cappuccini, fidenza": {
+  "mis": true,
+  "adres": "Via S. Francesco d'Assisi, 7, c/o Convento Cappuccini, Fidenza",
+  "ts": 1785246542450
+ },
+ "it|via s. francesco, 2, c/o centro polival.comunale, arma di taggia": {
+  "mis": true,
+  "adres": "Via S. Francesco, 2, c/o Centro Polival.Comunale, Arma di Taggia",
+  "ts": 1785246542450
+ },
+ "it|via s. giovanni bosco, 22/a, borgosatollo": {
+  "lat": 45.4781598,
+  "lng": 10.2434349,
+  "adres": "Via S. Giovanni Bosco, 22/A, Borgosatollo",
+  "ts": 1785246542450
+ },
+ "it|via s. rocco, 6, c/o convento cappuccini, sanluri": {
+  "mis": true,
+  "adres": "Via S. Rocco, 6, c/o Convento Cappuccini, Sanluri",
+  "ts": 1785246542450
+ },
+ "it|via san bernardino, 8, c/o chiesa san bernardino degli zoccolanti, urbino": {
+  "mis": true,
+  "adres": "Via San Bernardino, 8, c/o Chiesa San Bernardino degli Zoccolanti, Urbino",
+  "ts": 1785246542450
+ },
+ "it|via san carlo, 1, c/o casa albergo, muggiò": {
+  "mis": true,
+  "adres": "Via San Carlo, 1, c/o Casa Albergo, Muggiò",
+  "ts": 1785246542450
+ },
+ "it|via san celso, 3, c/o convento domenicane di s.cecilia, bracciano": {
+  "mis": true,
+  "adres": "Via San Celso, 3, c/o Convento Domenicane di S.Cecilia, Bracciano",
+  "ts": 1785246542450
+ },
+ "it|via san domenico, 6, vicenza": {
+  "lat": 45.8834217,
+  "lng": 11.502565,
+  "adres": "Via San Domenico, 6, Vicenza",
+  "ts": 1785246542450
+ },
+ "it|via san francesco d'assisi, 31, c/o santuario s.s.crocefisso, boca": {
+  "mis": true,
+  "adres": "Via San Francesco D'Assisi, 31, c/o Santuario S.S.Crocefisso, Boca",
+  "ts": 1785246542450
+ },
+ "it|via san giovanni battista la salle, 11b, c/o oratorio s. gioacchino, torino": {
+  "mis": true,
+  "adres": "Via San Giovanni Battista la Salle, 11b, c/o Oratorio S. Gioacchino, Torino",
+  "ts": 1785246542450
+ },
+ "it|via san giovanni battista, 21, c/o parrocchia della natività, genova": {
+  "mis": true,
+  "adres": "Via San Giovanni Battista, 21, c/o Parrocchia della Natività, Genova",
+  "ts": 1785246542450
+ },
+ "it|via san giovanni, 258, c/o oratorio parr. s. giovanni, montichiari": {
+  "mis": true,
+  "adres": "Via San Giovanni, 258, c/o Oratorio Parr. S. Giovanni, Montichiari",
+  "ts": 1785246542450
+ },
+ "it|via san luca, c/o azienda ospedaliera universitaria padiglione 13, careggi": {
+  "mis": true,
+  "adres": "Via San Luca, c/o Azienda Ospedaliera Universitaria Padiglione 13, Careggi",
+  "ts": 1785246542450
+ },
+ "it|via san luigi, 5, c/o scuola materna audino, castel goffredo": {
+  "mis": true,
+  "adres": "Via San Luigi, 5, c/o Scuola Materna Audino, Castel Goffredo",
+  "ts": 1785246542450
+ },
+ "it|via san mamante, 44, empoli": {
+  "lat": 43.7156191,
+  "lng": 10.9263512,
+  "adres": "Via San Mamante, 44, Empoli",
+  "ts": 1785246542450
+ },
+ "it|via san marco, 32, piacenza": {
+  "lat": 45.0558991,
+  "lng": 9.6899713,
+  "adres": "Via San Marco, 32, Piacenza",
+  "ts": 1785246542450
+ },
+ "it|via san martino, 1, c/o chiesa tempio regina dei gigli, san giorgio a cremano": {
+  "mis": true,
+  "adres": "Via San Martino, 1, c/o Chiesa Tempio Regina dei Gigli, San Giorgio a Cremano",
+  "ts": 1785246542450
+ },
+ "it|via san martino, 11, c/o centro culturale paolo vi, magenta": {
+  "mis": true,
+  "adres": "Via San Martino, 11, c/o Centro Culturale Paolo VI, Magenta",
+  "ts": 1785246542450
+ },
+ "it|via san massimiliano kolbe, 1, c/o parrocchia san massimiliano kolbe, jesi": {
+  "mis": true,
+  "adres": "Via San Massimiliano Kolbe, 1, c/o Parrocchia San Massimiliano Kolbe, Jesi",
+  "ts": 1785246542450
+ },
+ "it|via san nicola, 10, frattaminore": {
+  "mis": true,
+  "adres": "Via San Nicola, 10, Frattaminore",
+  "ts": 1785246542450
+ },
+ "it|via san tomaso de' calvi, 1, c/o centro terza età, bergamo": {
+  "mis": true,
+  "adres": "Via San Tomaso de' Calvi, 1, c/o Centro Terza Età, Bergamo",
+  "ts": 1785246542450
+ },
+ "it|via santa margherita, 1, c/o ex scuole elementari, vigonza": {
+  "mis": true,
+  "adres": "Via Santa Margherita, 1, c/o Ex Scuole Elementari, Vigonza",
+  "ts": 1785246542450
+ },
+ "it|via santa maria di non, 80, curtarolo": {
+  "lat": 45.5123574,
+  "lng": 11.8514545,
+  "adres": "Via Santa Maria di Non, 80, Curtarolo",
+  "ts": 1785246542450
+ },
+ "it|via sendi, 34, forlimpopoli": {
+  "lat": 44.1881248,
+  "lng": 12.1278526,
+  "adres": "Via Sendi, 34, Forlimpopoli",
+  "ts": 1785246542450
+ },
+ "it|via serraglio, 16, c/o associazione volontà romagna -suonare campanello interno 2, cesena": {
+  "mis": true,
+  "adres": "Via Serraglio, 16, c/o Associazione Volontà Romagna -suonare campanello interno 2, Cesena",
+  "ts": 1785246542450
+ },
+ "it|via sighinolfi, 20, c/o oratorio della parrocchia di san paolo, ravenna": {
+  "mis": true,
+  "adres": "Via Sighinolfi, 20, c/o Oratorio della parrocchia di San Paolo, Ravenna",
+  "ts": 1785246542450
+ },
+ "it|via simone stratico, 9, c/o parrocchia b.v. addolorata, milano": {
+  "mis": true,
+  "adres": "Via Simone Stratico, 9, c/o Parrocchia B.V. Addolorata, Milano",
+  "ts": 1785246542450
+ },
+ "it|via sottocolleverzan, 82, tarcento": {
+  "lat": 46.2143489,
+  "lng": 13.2249705,
+  "adres": "Via Sottocolleverzan, 82, Tarcento",
+  "ts": 1785246542450
+ },
+ "it|via squillace, 3, c/o parr. sant'ignazio, roma": {
+  "mis": true,
+  "adres": "Via Squillace, 3, c/o Parr. Sant'Ignazio, Roma",
+  "ts": 1785246542450
+ },
+ "it|via stazione, 7, c/o ulss, domegliara": {
+  "mis": true,
+  "adres": "Via Stazione, 7, c/o ULSS, Domegliara",
+  "ts": 1785246542450
+ },
+ "it|via tagliata, c/o centro giovanile 2000, chiari": {
+  "mis": true,
+  "adres": "Via Tagliata, c/o Centro Giovanile 2000, Chiari",
+  "ts": 1785246542450
+ },
+ "it|via teresa antonelli, 4, concesio": {
+  "lat": 45.5960169,
+  "lng": 10.2239603,
+  "adres": "Via Teresa Antonelli, 4, Concesio",
+  "ts": 1785246542450
+ },
+ "it|via termopili, 7, milano": {
+  "lat": 45.4913988,
+  "lng": 9.2199808,
+  "adres": "Via Termopili, 7, Milano",
+  "ts": 1785246542450
+ },
+ "it|via tirreno, 2, potenza": {
+  "lat": 40.6316036,
+  "lng": 15.7922707,
+  "adres": "Via Tirreno, 2, Potenza",
+  "ts": 1785246542450
+ },
+ "it|via tommaso crivelli, 9, treviglio": {
+  "lat": 45.5197356,
+  "lng": 9.5979555,
+  "adres": "Via Tommaso Crivelli, 9, Treviglio",
+  "ts": 1785246542450
+ },
+ "it|via torino, 26, c/o oratorio parrocchia san francesco, san lazzaro di savena": {
+  "mis": true,
+  "adres": "Via Torino, 26, c/o Oratorio Parrocchia San Francesco, San Lazzaro di Savena",
+  "ts": 1785246542450
+ },
+ "it|via torino, 6, c/o centro comunitario parrocchiale, caldogno": {
+  "mis": true,
+  "adres": "Via Torino, 6, c/o Centro comunitario Parrocchiale, Caldogno",
+  "ts": 1785246542450
+ },
+ "it|via toscana, 147, c/o parr. sant'antonio, san benedetto del tronto": {
+  "mis": true,
+  "adres": "Via Toscana, 147, c/o Parr. Sant'Antonio, San Benedetto del Tronto",
+  "ts": 1785246542450
+ },
+ "it|via trapani, 10, verona": {
+  "lat": 45.4500757,
+  "lng": 10.9582153,
+  "adres": "Via Trapani, 10, Verona",
+  "ts": 1785246542450
+ },
+ "it|via trepola, 195, c/o comunità fraternità, ospitaletto": {
+  "mis": true,
+  "adres": "Via Trepola, 195, c/o Comunità Fraternità, Ospitaletto",
+  "ts": 1785246542450
+ },
+ "it|via ugo betti, 62, c/o chiesa ss. martiri anauniensi, milano": {
+  "mis": true,
+  "adres": "Via Ugo Betti, 62, c/o Chiesa SS. Martiri Anauniensi, Milano",
+  "ts": 1785246542450
+ },
+ "it|via ugo foscolo, 3, genova": {
+  "lat": 44.4065243,
+  "lng": 8.9403467,
+  "adres": "Via Ugo Foscolo, 3, Genova",
+  "ts": 1785246542450
+ },
+ "it|via umbria, 10, c/o chiesa regina mundi, melito": {
+  "mis": true,
+  "adres": "Via Umbria, 10, c/o chiesa Regina Mundi, Melito",
+  "ts": 1785246542450
+ },
+ "it|via vaccari, 107, c/o circoscrizione, 7, vicenza": {
+  "mis": true,
+  "adres": "Via Vaccari, 107, c/o Circoscrizione, 7, Vicenza",
+  "ts": 1785246542450
+ },
+ "it|via valle della schioia, 157, c/o chiesa centro ecumenico, anzio": {
+  "mis": true,
+  "adres": "Via Valle della Schioia, 157, c/o Chiesa Centro Ecumenico, Anzio",
+  "ts": 1785246542450
+ },
+ "it|via valleggio, 19, c/o oratorio san giuseppe, como": {
+  "mis": true,
+  "adres": "Via Valleggio, 19, c/o Oratorio San Giuseppe, Como",
+  "ts": 1785246542450
+ },
+ "it|via vincenzo bellini, 1, c/o noa, seregno": {
+  "mis": true,
+  "adres": "Via Vincenzo Bellini, 1, c/o NOA, Seregno",
+  "ts": 1785246542450
+ },
+ "it|via vincenzo gioberti, 15, fabriano": {
+  "lat": 43.3342827,
+  "lng": 12.904474,
+  "adres": "Via Vincenzo Gioberti, 15, Fabriano",
+  "ts": 1785246542450
+ },
+ "it|via vittime di bologna, c/o centro religioso sangone, rivalta di torino": {
+  "mis": true,
+  "adres": "Via Vittime di Bologna, c/o Centro Religioso Sangone, Rivalta di Torino",
+  "ts": 1785246542450
+ },
+ "it|via vittorio veneto, 1, c/o opere parrocchiali palazzetto dello sport, castelfranco veneto": {
+  "mis": true,
+  "adres": "Via Vittorio Veneto, 1, c/o Opere Parrocchiali Palazzetto dello sport, Castelfranco Veneto",
+  "ts": 1785246542450
+ },
+ "it|via vittorio veneto, 13, ventimiglia": {
+  "lat": 43.7894856,
+  "lng": 7.6094527,
+  "adres": "Via Vittorio Veneto, 13, Ventimiglia",
+  "ts": 1785246542450
+ },
+ "it|via volturno, 20, verona": {
+  "lat": 45.4165175,
+  "lng": 10.9861792,
+  "adres": "Via Volturno, 20, Verona",
+  "ts": 1785246542450
+ },
+ "it|via xxiv maggio, c/o oratorio parrocchiale, borgo valsugana": {
+  "mis": true,
+  "adres": "Via XXIV Maggio, c/o Oratorio Parrocchiale, Borgo Valsugana",
+  "ts": 1785246542450
+ },
+ "it|viale aldo moro, 7, c/o scuola media - casella postale cp 17, sandrigo": {
+  "mis": true,
+  "adres": "Viale Aldo Moro, 7, c/o Scuola Media - Casella Postale CP 17, Sandrigo",
+  "ts": 1785246542450
+ },
+ "it|viale bruno buozzi, parr. sacro cuore di gesù ingresso adiacente alla chiesa da via silvio canevari, viterbo": {
+  "mis": true,
+  "adres": "Viale Bruno Buozzi, Parr. Sacro Cuore di Gesù Ingresso adiacente alla chiesa da Via Silvio Canevari, Viterbo",
+  "ts": 1785246542450
+ },
+ "it|viale corsica, 68, c/o centro kolbe, milano": {
+  "mis": true,
+  "adres": "Viale Corsica, 68, c/o Centro Kolbe, Milano",
+  "ts": 1785246542450
+ },
+ "it|viale dei platani, 6, arese": {
+  "lat": 45.5561864,
+  "lng": 9.0744194,
+  "adres": "Viale dei Platani, 6, Arese",
+  "ts": 1785246542450
+ },
+ "it|viale della pace, 89, c/o villa tacchi, vicenza": {
+  "mis": true,
+  "adres": "Viale della Pace, 89, c/o Villa Tacchi, Vicenza",
+  "ts": 1785246542450
+ },
+ "it|viale della repubblica, 9, c/o parr. s. francesco, verona": {
+  "mis": true,
+  "adres": "Viale della Repubblica, 9, c/o Parr. S. Francesco, Verona",
+  "ts": 1785246542450
+ },
+ "it|viale della venezia giulia, 21, c/o parrocchia s. agapito, roma": {
+  "mis": true,
+  "adres": "Viale della Venezia Giulia, 21, c/o Parrocchia S. Agapito, Roma",
+  "ts": 1785246542450
+ },
+ "it|viale duilio cambellotti, 18, c/o parr. s.m. madre redentore, roma": {
+  "mis": true,
+  "adres": "Viale Duilio Cambellotti, 18, c/o Parr. S.M. Madre Redentore, Roma",
+  "ts": 1785246542450
+ },
+ "it|viale europa, 20, c/o polo scolastico ipsia, follonica": {
+  "mis": true,
+  "adres": "Viale Europa, 20, c/o polo scolastico IPSIA, Follonica",
+  "ts": 1785246542450
+ },
+ "it|viale europa, 22, c/o ex pediatria-ostetricia ospedale s. martino, belluno": {
+  "mis": true,
+  "adres": "Viale Europa, 22, c/o ex pediatria-ostetricia ospedale S. Martino, Belluno",
+  "ts": 1785246542450
+ },
+ "it|viale europa, 53f, bolzano": {
+  "lat": 46.492135,
+  "lng": 11.3228418,
+  "adres": "Viale Europa, 53f, Bolzano",
+  "ts": 1785246542450
+ },
+ "it|viale g. carducci 26 b, imola": {
+  "mis": true,
+  "adres": "viale G. Carducci 26 B, Imola",
+  "ts": 1785246542450
+ },
+ "it|viale giacomo matteotti, 27, c/o centro giovanile, asiago": {
+  "mis": true,
+  "adres": "Viale Giacomo Matteotti, 27, c/o Centro Giovanile, Asiago",
+  "ts": 1785246542450
+ },
+ "it|viale giulio cesare 378, c/o oratorio parrocchia madonna pellegrina, novara": {
+  "lat": 45.4354819,
+  "lng": 8.630838,
+  "adres": "Viale Giulio Cesare 378, c/o Oratorio Parrocchia Madonna Pellegrina, Novara",
+  "ts": 1785246542450
+ },
+ "it|viale luigi merello, 7, c/o il cortile ss. annunziata, cagliari": {
+  "mis": true,
+  "adres": "Viale Luigi Merello, 7, c/o Il Cortile SS. Annunziata, Cagliari",
+  "ts": 1785246542450
+ },
+ "it|viale san giuseppe, c/o centro parrocchiale, cassola": {
+  "mis": true,
+  "adres": "Viale San Giuseppe, c/o Centro Parrocchiale, Cassola",
+  "ts": 1785246542450
+ },
+ "it|viale spartaco 19, c/o parrocchia assunzione di maria, roma": {
+  "lat": 41.8583788,
+  "lng": 12.5545507,
+  "adres": "Viale Spartaco 19, c/o Parrocchia Assunzione di Maria, Roma",
+  "ts": 1785246542450
+ },
+ "it|vicolo s.agostino, c/o caritas diocesiale aversa, aversa": {
+  "mis": true,
+  "adres": "Vicolo S.Agostino, c/o Caritas Diocesiale Aversa, Aversa",
+  "ts": 1785246542450
+ },
+ "it|vicolo santa croce, 13, macerata": {
+  "lat": 43.2995147,
+  "lng": 13.4352617,
+  "adres": "Vicolo Santa Croce, 13, Macerata",
+  "ts": 1785246542450
+ },
+ "it|villaggio prealpino via traversa quattordicesima, 4, c/o parrocchia s.giulia, brescia": {
+  "mis": true,
+  "adres": "Villaggio Prealpino via Traversa Quattordicesima, 4, c/o Parrocchia S.Giulia, Brescia",
+  "ts": 1785246542450
+ },
  "lv|bārddziņu iela 2, rīga": {
   "lat": 56.9390506,
   "lng": 24.1321099,
@@ -6682,5 +8732,216 @@
   "lng": 6.8766727,
   "adres": "Zenderenbrink 4, 7544 DZ, Enschede",
   "ts": 1785163224787
+ },
+ "ua|english-speaking group": {
+  "mis": true,
+  "adres": "English-speaking group",
+  "ts": 1785246542450
+ },
+ "ua|бульвар шевченка, 1, запоріжжя": {
+  "lat": 47.8495276,
+  "lng": 35.1157344,
+  "adres": "бульвар Шевченка, 1, Запоріжжя",
+  "ts": 1785246542450
+ },
+ "ua|вул київська, 4, костел св’ятого йоана з дуклі., житомир": {
+  "mis": true,
+  "adres": "вул Київська, 4, костел св’ятого Йоана з Дуклі., Житомир",
+  "ts": 1785246542450
+ },
+ "ua|вул. 1 лінія, 34а, миколаїв": {
+  "lat": 46.9525895,
+  "lng": 32.0440947,
+  "adres": "вул. 1 лінія, 34а, Миколаїв",
+  "ts": 1785246542450
+ },
+ "ua|вул. велика китаївська, 83, . київ": {
+  "lat": 50.3990603,
+  "lng": 30.5318025,
+  "adres": "вул. Велика Китаївська, 83, . Київ",
+  "ts": 1785246542450
+ },
+ "ua|вул. верхня горова , 178, приміщення благодійного фонду “вам”, поряд з готелем “апельсин”., черкаси": {
+  "mis": true,
+  "adres": "вул. Верхня Горова , 178, приміщення благодійного фонду “ВАМ”, поряд з готелем “Апельсин”., Черкаси",
+  "ts": 1785246542450
+ },
+ "ua|вул. гоголя 13, мукачево": {
+  "lat": 48.4354438,
+  "lng": 22.7240229,
+  "adres": "вул. Гоголя 13, Мукачево",
+  "ts": 1785246542450
+ },
+ "ua|вул. довженка, 2 , київський міський центр соціальних служб для сім’ї, дітей та молоді., київ": {
+  "mis": true,
+  "adres": "вул. Довженка, 2 , Київський Міський Центр Соціальних Служб для сім’ї, дітей та молоді., Київ",
+  "ts": 1785246542450
+ },
+ "ua|вул. довженка, 2 приміщення київського міського центру соціальних служб для сім’ї, дітей та молоді., київ": {
+  "mis": true,
+  "adres": "вул. Довженка, 2 Приміщення Київського Міського Центру Соціальних Служб для сім’ї, дітей та молоді., Київ",
+  "ts": 1785246542450
+ },
+ "ua|вул. лариси руденко, 3, , в приміщені медичної клініки “ангелія”, кімната №005": {
+  "mis": true,
+  "adres": "вул. Лариси Руденко, 3, , в приміщені медичної клініки “Ангелія”, кімната №005",
+  "ts": 1785246542450
+ },
+ "ua|вул. піонерська, 53 , 2-й поверх, бердянськ": {
+  "mis": true,
+  "adres": "вул. Піонерська, 53 , 2-й поверх, Бердянськ",
+  "ts": 1785246542450
+ },
+ "ua|вул. соборна, 12, вінниця": {
+  "lat": 49.23342,
+  "lng": 28.4734603,
+  "adres": "вул. Соборна, 12, Вінниця",
+  "ts": 1785246542450
+ },
+ "ua|вул. старокозацька 24, днiпро": {
+  "lat": 48.4634638,
+  "lng": 35.0403304,
+  "adres": "вул. Старокозацька 24, Днiпро",
+  "ts": 1785246542450
+ },
+ "ua|вул. старокозацька 24, дніпро": {
+  "lat": 48.4634638,
+  "lng": 35.0403304,
+  "adres": "вул. Старокозацька 24, Дніпро",
+  "ts": 1785246542450
+ },
+ "ua|вул. чорнобильська, 2 , в приміщенні храму святого феодосія черніговського., київ": {
+  "mis": true,
+  "adres": "вул. Чорнобильська, 2 , в приміщенні Храму святого Феодосія Черніговського., Київ",
+  "ts": 1785246542450
+ },
+ "ua|вул. ярослава мудрого, 44а, кривий ріг": {
+  "lat": 47.9121106,
+  "lng": 33.3985138,
+  "adres": "вул. Ярослава Мудрого, 44а, Кривий Ріг",
+  "ts": 1785246542450
+ },
+ "ua|вул.карпенка-карого, 5, луцьк": {
+  "lat": 50.7555296,
+  "lng": 25.3541507,
+  "adres": "вул.Карпенка-Карого, 5, Луцьк",
+  "ts": 1785246542450
+ },
+ "ua|вул.карпенка-карого, 5., луцьк": {
+  "lat": 50.7555296,
+  "lng": 25.3541507,
+  "adres": "вул.Карпенка-Карого, 5., Луцьк",
+  "ts": 1785246542450
+ },
+ "ua|вул.трьохсвятительська, 4-б, , вхід в у двір через арку., київ": {
+  "mis": true,
+  "adres": "вул.Трьохсвятительська, 4-Б, , вхід в у двір через арку., Київ",
+  "ts": 1785246542450
+ },
+ "ua|вулиця реміснича, 49, істо чернігів": {
+  "mis": true,
+  "adres": "вулиця Реміснича, 49, істо Чернігів",
+  "ts": 1785246542450
+ },
+ "ua|вулиця черняховського, 12., етро “нивки”": {
+  "mis": true,
+  "adres": "вулиця Черняховського, 12., етро “Нивки”",
+  "ts": 1785246542450
+ },
+ "ua|вінницька обл, селище чернівці, костел св.миколая": {
+  "mis": true,
+  "adres": "Вінницька обл, селище Чернівці, костел Св.Миколая",
+  "ts": 1785246542450
+ },
+ "ua|група тимчасово не збирається": {
+  "mis": true,
+  "adres": "ГРУПА ТИМЧАСОВО НЕ ЗБИРАЄТЬСЯ",
+  "ts": 1785246542450
+ },
+ "ua|київська обл., м. бориспіль, вул.бережівка, 35. зібрання проводяться на території римо-католицького костелу, у одноповерховому будинку по лівій стороні від будинку костелу.": {
+  "mis": true,
+  "adres": "Київська обл., м. Бориспіль, вул.Бережівка, 35. Зібрання проводяться на території римо-католицького костелу, у одноповерховому будинку по лівій стороні від будинку костелу.",
+  "ts": 1785246542450
+ },
+ "ua|київська обл., м. боярка, вул. хрещатик, 83, в приміщенні києво-святошинського районного центру соціальних служб для сім’ї, дітей та молоді.": {
+  "mis": true,
+  "adres": "Київська обл., м. Боярка, вул. Хрещатик, 83, в приміщенні Києво-Святошинського районного центру соціальних служб для сім’ї, дітей та молоді.",
+  "ts": 1785246542450
+ },
+ "ua|київська обл., м. бровари, вул. симона петлюри, 34.": {
+  "mis": true,
+  "adres": "Київська обл., м. Бровари, вул. Симона Петлюри, 34.",
+  "ts": 1785246542450
+ },
+ "ua|київська обл., м. біла церква, вул. василя стуса, 41. корпус 8": {
+  "mis": true,
+  "adres": "Київська обл., м. Біла Церква, вул. Василя Стуса, 41. Корпус 8",
+  "ts": 1785246542450
+ },
+ "ua|просп. волі, 10, луцьк": {
+  "lat": 50.7459532,
+  "lng": 25.3316055,
+  "adres": "просп. Волі, 10, Луцьк",
+  "ts": 1785246542450
+ },
+ "us|\"what any lengths looks like\" 2501 international park drive, birmingham": {
+  "mis": true,
+  "adres": "\"What Any Lengths Looks Like\" 2501 International Park Drive, Birmingham",
+  "ts": 1785248126320
+ },
+ "us|31214 coleman lane spanish, fort": {
+  "lat": 30.679583,
+  "lng": -87.83483,
+  "adres": "31214 Coleman Lane Spanish, Fort",
+  "ts": 1785248126320
+ },
+ "us|4300 hampton heights rd, birmingham": {
+  "lat": 33.4701991,
+  "lng": -86.8347247,
+  "adres": "4300 Hampton Heights Rd, Birmingham",
+  "ts": 1785248126320
+ },
+ "us|741 volare dr, hoover": {
+  "mis": true,
+  "adres": "741 Volare Dr, Hoover",
+  "ts": 1785248126320
+ },
+ "us|857 downtowner blvd, mobile": {
+  "lat": 30.6709615,
+  "lng": -88.140024,
+  "adres": "857 Downtowner Blvd, Mobile",
+  "ts": 1785248126320
+ },
+ "us|902 church st., moody": {
+  "lat": 33.5941869,
+  "lng": -86.4967478,
+  "adres": "902 Church St., Moody",
+  "ts": 1785248126320
+ },
+ "us|freedom church101 ecor rouge place, fairhope": {
+  "mis": true,
+  "adres": "Freedom Church101 Ecor Rouge Place, Fairhope",
+  "ts": 1785248126320
+ },
+ "us|peir 3103 airport blvd ste 160, mobile": {
+  "mis": true,
+  "adres": "PEIR 3103 Airport Blvd Ste 160, Mobile",
+  "ts": 1785248126320
+ },
+ "us|recovery house for women 1519 w sanders st, anniston": {
+  "mis": true,
+  "adres": "Recovery House for Women 1519 W Sanders St, Anniston",
+  "ts": 1785248126320
+ },
+ "us|st. andrews methodist church 431 north 16th st, oxford": {
+  "lat": 34.3709365,
+  "lng": -89.5136959,
+  "adres": "St. Andrews Methodist Church 431 North 16th St, Oxford",
+  "ts": 1785248126320
+ },
+ "us|united steelworker’s union hall 1923 culver road, tuscaloosa": {
+  "mis": true,
+  "adres": "United Steelworker’s Union Hall 1923 Culver Road, Tuscaloosa",
+  "ts": 1785248126320
  }
 }
