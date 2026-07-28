@@ -455,6 +455,12 @@
   "adres": "Av. Manuel Hermoso Rojas, 4, Santa Cruz de Tenerife",
   "ts": 1785182768819
  },
+ "es|av. nuestro padre jesús cautivo, 43, fuengirola": {
+  "lat": 36.552085,
+  "lng": -4.6164636,
+  "adres": "Av. Nuestro Padre Jesús Cautivo, 43, Fuengirola",
+  "ts": 1785218650735
+ },
  "es|av. virgen de las angustias, 3, cuenca": {
   "lat": 40.0627347,
   "lng": -2.1377577,
@@ -3057,6 +3063,876 @@
   "lng": -2.5067192,
   "adres": "Zeharkalea, 34, Ermua",
   "ts": 1785182768819
+ },
+ "fi|a- kilta, pääskyvuorenrinne 1, turku": {
+  "lat": 60.4458157,
+  "lng": 22.3304745,
+  "adres": "A- kilta, Pääskyvuorenrinne 1, Turku",
+  "ts": 1785218650735
+ },
+ "fi|aarteenetsijänpolku, helsinki": {
+  "lat": 60.2397328,
+  "lng": 25.1051465,
+  "adres": "Aarteenetsijänpolku, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|ajurinkuja 4, espoo": {
+  "lat": 60.2257435,
+  "lng": 24.8132507,
+  "adres": "Ajurinkuja 4, Espoo",
+  "ts": 1785218650735
+ },
+ "fi|aleksanterinkatu 29, lahti": {
+  "lat": 60.9820952,
+  "lng": 25.6658061,
+  "adres": "Aleksanterinkatu 29, Lahti",
+  "ts": 1785218650735
+ },
+ "fi|aleksi 1, lempäälä": {
+  "lat": 61.3145391,
+  "lng": 23.7542184,
+  "adres": "Aleksi 1, Lempäälä",
+  "ts": 1785218650735
+ },
+ "fi|alppikylänkatu 22-24, helsinki": {
+  "lat": 60.2575828,
+  "lng": 25.0682942,
+  "adres": "Alppikylänkatu 22-24, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|annankatu 7 a, helsinki": {
+  "lat": 60.1639335,
+  "lng": 24.9417881,
+  "adres": "Annankatu 7 a, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|asema-aukio 2, lieksa": {
+  "mis": true,
+  "adres": "Asema-Aukio 2, Lieksa",
+  "ts": 1785218650735
+ },
+ "fi|asemakatu 11 b, jyväskylä": {
+  "lat": 62.2421875,
+  "lng": 25.7484011,
+  "adres": "Asemakatu 11 B, Jyväskylä",
+  "ts": 1785218650735
+ },
+ "fi|asemakatu 5, loimaa": {
+  "lat": 60.8482899,
+  "lng": 23.059489,
+  "adres": "Asemakatu 5, Loimaa",
+  "ts": 1785218650735
+ },
+ "fi|aureentie 10, ylöjärvi": {
+  "lat": 61.9810383,
+  "lng": 23.3588022,
+  "adres": "Aureentie 10, Ylöjärvi",
+  "ts": 1785218650735
+ },
+ "fi|eliel saarisen tie 15 b, helsinki": {
+  "lat": 60.2194291,
+  "lng": 24.8937325,
+  "adres": "Eliel Saarisen tie 15 B, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|erkontie 3, orimattila": {
+  "lat": 60.8026437,
+  "lng": 25.7350843,
+  "adres": "Erkontie 3, Orimattila",
+  "ts": 1785218650735
+ },
+ "fi|felix fromin katu 4, raasepori": {
+  "lat": 60.0721395,
+  "lng": 23.6597358,
+  "adres": "Felix Fromin katu 4, Raasepori",
+  "ts": 1785218650735
+ },
+ "fi|fleminginkatu 30, helsinki": {
+  "lat": 60.1892898,
+  "lng": 24.9525176,
+  "adres": "Fleminginkatu 30, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|haapaniemenkatu 7-9 b, helsinki": {
+  "lat": 60.1795732,
+  "lng": 24.9590325,
+  "adres": "Haapaniemenkatu 7-9 B, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|haapaniemenkatu 7-9, helsinki": {
+  "lat": 60.1800002,
+  "lng": 24.9597919,
+  "adres": "Haapaniemenkatu 7-9, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|hallituskatu 15, rovaniemi": {
+  "lat": 66.4983938,
+  "lng": 25.7181437,
+  "adres": "Hallituskatu 15, Rovaniemi",
+  "ts": 1785218650735
+ },
+ "fi|halmstadinkatu 7 b, hanko": {
+  "lat": 59.8299871,
+  "lng": 22.9652626,
+  "adres": "Halmstadinkatu 7 B, Hanko",
+  "ts": 1785218650735
+ },
+ "fi|harjukatu 7, helsinki": {
+  "lat": 60.1892168,
+  "lng": 24.958969,
+  "adres": "Harjukatu 7, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|harjutie 2, järvenpää": {
+  "lat": 60.4710475,
+  "lng": 25.0751769,
+  "adres": "Harjutie 2, Järvenpää",
+  "ts": 1785218650735
+ },
+ "fi|helsinginkatu 50/alppikatu 2 f elim-talo., helsinki": {
+  "mis": true,
+  "adres": "Helsinginkatu 50/Alppikatu 2 F Elim-talo., Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|hietakummuntie 19 b, helsinki": {
+  "lat": 60.2481337,
+  "lng": 25.0142535,
+  "adres": "Hietakummuntie 19 B, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|hietakummuntie 19b, helsinki": {
+  "lat": 60.2494893,
+  "lng": 25.0128211,
+  "adres": "Hietakummuntie 19b, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|hirvikankaantie 226, kankaanpää": {
+  "lat": 61.8395518,
+  "lng": 22.3157752,
+  "adres": "Hirvikankaantie 226, Kankaanpää",
+  "ts": 1785218650735
+ },
+ "fi|huovilankatu 4 , 3krs. sali, lahti": {
+  "lat": 60.9740261,
+  "lng": 25.6561722,
+  "adres": "Huovilankatu 4 , 3krs. Sali, Lahti",
+  "ts": 1785218650735
+ },
+ "fi|hämeenkatu 28, turku": {
+  "lat": 60.4486873,
+  "lng": 22.2728796,
+  "adres": "Hämeenkatu 28, Turku",
+  "ts": 1785218650735
+ },
+ "fi|hämeentie 18 d, akaa": {
+  "lat": 61.1971461,
+  "lng": 23.8141136,
+  "adres": "Hämeentie 18 D, Akaa",
+  "ts": 1785218650735
+ },
+ "fi|insinöörinkatu 23, tampere": {
+  "lat": 61.4507519,
+  "lng": 23.8509279,
+  "adres": "Insinöörinkatu 23, Tampere",
+  "ts": 1785218650735
+ },
+ "fi|isokatu 15, oulu": {
+  "lat": 65.0137431,
+  "lng": 25.4761012,
+  "adres": "Isokatu 15, Oulu",
+  "ts": 1785218650735
+ },
+ "fi|isolinnankatu 28, pori": {
+  "lat": 61.4830063,
+  "lng": 21.798765,
+  "adres": "Isolinnankatu 28, Pori",
+  "ts": 1785218650735
+ },
+ "fi|isoympyräkatu 20, hamina": {
+  "lat": 60.5681542,
+  "lng": 27.1946512,
+  "adres": "Isoympyräkatu 20, Hamina",
+  "ts": 1785218650735
+ },
+ "fi|jokikatu 7, porvoo": {
+  "lat": 60.3876635,
+  "lng": 25.6645647,
+  "adres": "Jokikatu 7, Porvoo",
+  "ts": 1785218650735
+ },
+ "fi|jämintie 2, kankaanpää": {
+  "lat": 61.8055965,
+  "lng": 22.3935988,
+  "adres": "Jämintie 2, Kankaanpää",
+  "ts": 1785218650735
+ },
+ "fi|kaivotie 1, parikkala": {
+  "lat": 61.6957475,
+  "lng": 29.688663,
+  "adres": "Kaivotie 1, Parikkala",
+  "ts": 1785218650735
+ },
+ "fi|kalliokatu 7, kajaani": {
+  "lat": 64.222678,
+  "lng": 27.7246802,
+  "adres": "Kalliokatu 7, Kajaani",
+  "ts": 1785218650735
+ },
+ "fi|kallionkatu 10, kyrölän palvelukeskus, nurmes": {
+  "lat": 63.5466388,
+  "lng": 29.1617102,
+  "adres": "Kallionkatu 10, Kyrölän palvelukeskus, Nurmes",
+  "ts": 1785218650735
+ },
+ "fi|kallionkatu 10, nurmes": {
+  "lat": 63.5466388,
+  "lng": 29.1617102,
+  "adres": "Kallionkatu 10, Nurmes",
+  "ts": 1785218650735
+ },
+ "fi|kartanonkaari 29, helsinki": {
+  "lat": 60.2499458,
+  "lng": 24.8697983,
+  "adres": "Kartanonkaari 29, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|kastelholmantie 1, helsinki": {
+  "lat": 60.2146497,
+  "lng": 25.0818186,
+  "adres": "Kastelholmantie 1, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|katajistontie 10, ylivieska": {
+  "lat": 64.079067,
+  "lng": 24.5360552,
+  "adres": "Katajistontie 10, Ylivieska",
+  "ts": 1785218650735
+ },
+ "fi|kauppakatu 20 – 22, jyväskylä": {
+  "lat": 62.2419776,
+  "lng": 25.7480188,
+  "adres": "Kauppakatu 20 – 22, Jyväskylä",
+  "ts": 1785218650735
+ },
+ "fi|kauppakatu 35, joensuu": {
+  "lat": 62.6040248,
+  "lng": 29.7636431,
+  "adres": "Kauppakatu 35, Joensuu",
+  "ts": 1785218650735
+ },
+ "fi|kauppakatu 46, kuopio": {
+  "lat": 62.89116,
+  "lng": 27.6693316,
+  "adres": "Kauppakatu 46, Kuopio",
+  "ts": 1785218650735
+ },
+ "fi|kauppakeskus forum kauppakatu 20-22, jyväskylä": {
+  "mis": true,
+  "adres": "Kauppakeskus Forum Kauppakatu 20-22, Jyväskylä",
+  "ts": 1785218650735
+ },
+ "fi|kauppatori 6, varkaus": {
+  "lat": 62.3148706,
+  "lng": 27.8906151,
+  "adres": "Kauppatori 6, Varkaus",
+  "ts": 1785218650735
+ },
+ "fi|keinulaudankuja 4, helsinki": {
+  "lat": 60.2364584,
+  "lng": 25.0849721,
+  "adres": "Keinulaudankuja 4, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|kesolantie 5, joutseno": {
+  "lat": 61.1197451,
+  "lng": 28.5078794,
+  "adres": "Kesolantie 5, Joutseno",
+  "ts": 1785218650735
+ },
+ "fi|kirkkokatu 18a, 2 krs, joensuu": {
+  "lat": 62.6008192,
+  "lng": 29.7592221,
+  "adres": "Kirkkokatu 18A, 2 krs, Joensuu",
+  "ts": 1785218650735
+ },
+ "fi|kirkkokatu 18a, joensuu": {
+  "lat": 62.6008192,
+  "lng": 29.7592221,
+  "adres": "Kirkkokatu 18A, Joensuu",
+  "ts": 1785218650735
+ },
+ "fi|kirkkokatu 4, lahti": {
+  "lat": 60.9856354,
+  "lng": 25.657065,
+  "adres": "Kirkkokatu 4, Lahti",
+  "ts": 1785218650735
+ },
+ "fi|kirkkokatu 5, lahti": {
+  "lat": 60.9848623,
+  "lng": 25.6554725,
+  "adres": "Kirkkokatu 5, Lahti",
+  "ts": 1785218650735
+ },
+ "fi|kirkkolahdenkatu 6b, savonlinna": {
+  "lat": 61.8673312,
+  "lng": 28.875899,
+  "adres": "Kirkkolahdenkatu 6B, Savonlinna",
+  "ts": 1785218650735
+ },
+ "fi|kisakentänkatu 18, tampere": {
+  "lat": 61.4957081,
+  "lng": 23.7405574,
+  "adres": "Kisakentänkatu 18, Tampere",
+  "ts": 1785218650735
+ },
+ "fi|kivistöntie 14, mäntsälä": {
+  "lat": 60.6356255,
+  "lng": 25.326059,
+  "adres": "Kivistöntie 14, Mäntsälä",
+  "ts": 1785218650735
+ },
+ "fi|kokkokalliontie 3, juuka": {
+  "lat": 63.2428413,
+  "lng": 29.2562575,
+  "adres": "Kokkokalliontie 3, Juuka",
+  "ts": 1785218650735
+ },
+ "fi|kolmas linja 28 d, helsinki": {
+  "lat": 60.1840371,
+  "lng": 24.9446898,
+  "adres": "Kolmas Linja 28 D, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|kontionkatu 8, lohja": {
+  "lat": 60.2495994,
+  "lng": 24.0766644,
+  "adres": "Kontionkatu 8, Lohja",
+  "ts": 1785218650735
+ },
+ "fi|korsontie 2, vantaa": {
+  "lat": 60.3501003,
+  "lng": 25.0761048,
+  "adres": "Korsontie 2, Vantaa",
+  "ts": 1785218650735
+ },
+ "fi|koskikatu 25, joensuu": {
+  "lat": 62.6016402,
+  "lng": 29.7514291,
+  "adres": "Koskikatu 25, Joensuu",
+  "ts": 1785218650735
+ },
+ "fi|kotkankatu 14, helsinki": {
+  "lat": 60.4159962,
+  "lng": 25.1061691,
+  "adres": "Kotkankatu 14, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|kotkankatu 14-16, helsinki": {
+  "lat": 60.192662,
+  "lng": 24.9435643,
+  "adres": "Kotkankatu 14-16, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|koulukatu 10, kotka": {
+  "lat": 60.45977,
+  "lng": 26.9401313,
+  "adres": "Koulukatu 10, Kotka",
+  "ts": 1785218650735
+ },
+ "fi|koulukatu 23, hämeenlinna": {
+  "lat": 60.9981642,
+  "lng": 24.4565223,
+  "adres": "Koulukatu 23, Hämeenlinna",
+  "ts": 1785218650735
+ },
+ "fi|koulukatu 26, vaasa": {
+  "lat": 63.094148,
+  "lng": 21.6069286,
+  "adres": "Koulukatu 26, Vaasa",
+  "ts": 1785218650735
+ },
+ "fi|koulukatu 7, joensuu": {
+  "lat": 62.5948398,
+  "lng": 29.7504027,
+  "adres": "Koulukatu 7, Joensuu",
+  "ts": 1785218650735
+ },
+ "fi|kuninkaankatu 30, kuopio": {
+  "lat": 62.8944981,
+  "lng": 27.6838423,
+  "adres": "Kuninkaankatu 30, Kuopio",
+  "ts": 1785218650735
+ },
+ "fi|kuokkalantie 2, nurmijärvi": {
+  "lat": 60.4631964,
+  "lng": 24.803674,
+  "adres": "Kuokkalantie 2, Nurmijärvi",
+  "ts": 1785218650735
+ },
+ "fi|kuparisepänkatu 3, kerava": {
+  "lat": 60.4013138,
+  "lng": 25.1084752,
+  "adres": "Kuparisepänkatu 3, Kerava",
+  "ts": 1785218650735
+ },
+ "fi|kupittaankatu 108, turku": {
+  "lat": 60.4403333,
+  "lng": 22.2680303,
+  "adres": "Kupittaankatu 108, Turku",
+  "ts": 1785218650735
+ },
+ "fi|lammaskuja 2a, vantaa": {
+  "lat": 60.2618026,
+  "lng": 24.8052671,
+  "adres": "Lammaskuja 2a, Vantaa",
+  "ts": 1785218650735
+ },
+ "fi|lapväärtintie 163 c, kristiinankaupunki": {
+  "lat": 62.2656407,
+  "lng": 21.4080744,
+  "adres": "Lapväärtintie 163 C, Kristiinankaupunki",
+  "ts": 1785218650735
+ },
+ "fi|larin kyöstintie 7, helsinki": {
+  "lat": 60.2275238,
+  "lng": 24.9691479,
+  "adres": "Larin Kyöstintie 7, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|lautsiankuja 20, alvettula": {
+  "lat": 61.2352365,
+  "lng": 24.4381282,
+  "adres": "Lautsiankuja 20, Alvettula",
+  "ts": 1785218650735
+ },
+ "fi|liisankatu 27 k, helsinki": {
+  "lat": 60.1741326,
+  "lng": 24.9517798,
+  "adres": "Liisankatu 27 K, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|liisankuja 3, espoo": {
+  "lat": 60.1541991,
+  "lng": 24.7449096,
+  "adres": "Liisankuja 3, Espoo",
+  "ts": 1785218650735
+ },
+ "fi|linnankatu 39, turku": {
+  "lat": 60.4451676,
+  "lng": 22.2540216,
+  "adres": "Linnankatu 39, Turku",
+  "ts": 1785218650735
+ },
+ "fi|liusketie 3 a, helsinki": {
+  "lat": 60.320512,
+  "lng": 24.8466764,
+  "adres": "Liusketie 3 A, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|lutakonaukio 3, jyväskylä": {
+  "lat": 62.239272,
+  "lng": 25.7546243,
+  "adres": "Lutakonaukio 3, Jyväskylä",
+  "ts": 1785218650735
+ },
+ "fi|lähteenkatu 11 n, tampere": {
+  "lat": 61.4982536,
+  "lng": 23.7833949,
+  "adres": "Lähteenkatu 11 N, Tampere",
+  "ts": 1785218650735
+ },
+ "fi|lähteenkatu 11n, tampere": {
+  "lat": 61.4982536,
+  "lng": 23.7833949,
+  "adres": "Lähteenkatu 11N, Tampere",
+  "ts": 1785218650735
+ },
+ "fi|maaherrankatu 5, mikkeli": {
+  "lat": 61.6853188,
+  "lng": 27.2714189,
+  "adres": "Maaherrankatu 5, Mikkeli",
+  "ts": 1785218650735
+ },
+ "fi|mainiementie 29, lammi, hämeenlinna": {
+  "lat": 61.1073577,
+  "lng": 24.9944684,
+  "adres": "Mainiementie 29, Lammi, Hämeenlinna",
+  "ts": 1785218650735
+ },
+ "fi|mannerheiminkatu 14, loviisa": {
+  "lat": 60.4588729,
+  "lng": 26.2308456,
+  "adres": "Mannerheiminkatu 14, Loviisa",
+  "ts": 1785218650735
+ },
+ "fi|mariankatu 17, helsinki": {
+  "lat": 60.1726896,
+  "lng": 24.9569773,
+  "adres": "Mariankatu 17, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|merisaapas 1a, espoo": {
+  "lat": 60.1481846,
+  "lng": 24.6430163,
+  "adres": "Merisaapas 1A, Espoo",
+  "ts": 1785218650735
+ },
+ "fi|messukylänkatu 36, tampere": {
+  "lat": 61.4860582,
+  "lng": 23.8384818,
+  "adres": "Messukylänkatu 36, Tampere",
+  "ts": 1785218650735
+ },
+ "fi|metsolantie 14, käpylän kirkko, helsinki": {
+  "lat": 60.2135823,
+  "lng": 24.9511123,
+  "adres": "Metsolantie 14, Käpylän kirkko, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|multisillankatu 5, tampere": {
+  "lat": 61.4409309,
+  "lng": 23.7458066,
+  "adres": "Multisillankatu 5, Tampere",
+  "ts": 1785218650735
+ },
+ "fi|myllypurontie 22, helsinki": {
+  "lat": 60.2238492,
+  "lng": 25.0616427,
+  "adres": "Myllypurontie 22, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|noljakantie 81, joensuu": {
+  "lat": 62.6246934,
+  "lng": 29.6952898,
+  "adres": "Noljakantie 81, Joensuu",
+  "ts": 1785218650735
+ },
+ "fi|nordenskiöldinkatu 20, rakennus 15, b-rappu, helsinki": {
+  "lat": 60.1925849,
+  "lng": 24.9243084,
+  "adres": "Nordenskiöldinkatu 20, rakennus 15, B-rappu, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|norderskiöldinkatu 20, rakennus 15, helsinki": {
+  "mis": true,
+  "adres": "Norderskiöldinkatu 20, rakennus 15, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|norolantie 19, mikkeli": {
+  "lat": 61.7098713,
+  "lng": 27.3917998,
+  "adres": "Norolantie 19, Mikkeli",
+  "ts": 1785218650735
+ },
+ "fi|nostoväenkatu 22, turku": {
+  "lat": 60.492745,
+  "lng": 22.2637795,
+  "adres": "Nostoväenkatu 22, Turku",
+  "ts": 1785218650735
+ },
+ "fi|oklaholmankatu 22 e 1, kemi": {
+  "lat": 65.7306297,
+  "lng": 24.6260471,
+  "adres": "Oklaholmankatu 22 e 1, Kemi",
+  "ts": 1785218650735
+ },
+ "fi|orvokkitie 16, vantaa": {
+  "lat": 60.2987386,
+  "lng": 25.0375667,
+  "adres": "Orvokkitie 16, Vantaa",
+  "ts": 1785218650735
+ },
+ "fi|palokunnankatu 16, hämeenlinna": {
+  "lat": 60.9956298,
+  "lng": 24.4668161,
+  "adres": "Palokunnankatu 16, Hämeenlinna",
+  "ts": 1785218650735
+ },
+ "fi|pappilantie 6, viitasaari": {
+  "lat": 63.0755557,
+  "lng": 25.8606411,
+  "adres": "Pappilantie 6, Viitasaari",
+  "ts": 1785218650735
+ },
+ "fi|peltolantie 2 b, vantaa": {
+  "lat": 60.2930282,
+  "lng": 25.031153,
+  "adres": "Peltolantie 2 B, Vantaa",
+  "ts": 1785218650735
+ },
+ "fi|perämiehenkatu 14, vaasa": {
+  "lat": 63.1089443,
+  "lng": 21.5900625,
+  "adres": "Perämiehenkatu 14, Vaasa",
+  "ts": 1785218650735
+ },
+ "fi|pispalan valtatie 16, tampere": {
+  "lat": 61.5063171,
+  "lng": 23.704801,
+  "adres": "Pispalan valtatie 16, Tampere",
+  "ts": 1785218650735
+ },
+ "fi|pitkäkatu 77, vaasa": {
+  "lat": 63.0987063,
+  "lng": 21.6167098,
+  "adres": "Pitkäkatu 77, Vaasa",
+  "ts": 1785218650735
+ },
+ "fi|pitkäniemenkatu 9, tampere": {
+  "lat": 61.4950481,
+  "lng": 23.5850407,
+  "adres": "Pitkäniemenkatu 9, Tampere",
+  "ts": 1785218650735
+ },
+ "fi|pixnentie 2, maalahti": {
+  "lat": 62.9389127,
+  "lng": 21.5866662,
+  "adres": "Pixnentie 2, Maalahti",
+  "ts": 1785218650735
+ },
+ "fi|porrassalmenkatu 35-37, mikkeli": {
+  "lat": 61.6915669,
+  "lng": 27.2782381,
+  "adres": "Porrassalmenkatu 35-37, Mikkeli",
+  "ts": 1785218650735
+ },
+ "fi|puistokatu 11, lohja": {
+  "lat": 60.2387476,
+  "lng": 24.0735012,
+  "adres": "Puistokatu 11, Lohja",
+  "ts": 1785218650735
+ },
+ "fi|pultrantie 10, seinäjoki": {
+  "lat": 62.7944861,
+  "lng": 22.849035,
+  "adres": "Pultrantie 10, Seinäjoki",
+  "ts": 1785218650735
+ },
+ "fi|rajakatu 11, forssa": {
+  "lat": 60.808962,
+  "lng": 23.6164809,
+  "adres": "Rajakatu 11, Forssa",
+  "ts": 1785218650735
+ },
+ "fi|ratapihankatu 53 c , 3.kerros, turku": {
+  "lat": 60.4515136,
+  "lng": 22.2468111,
+  "adres": "Ratapihankatu 53 C , 3.kerros, Turku",
+  "ts": 1785218650735
+ },
+ "fi|raumantie 3, helsinki": {
+  "lat": 60.2059897,
+  "lng": 24.8751645,
+  "adres": "Raumantie 3, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|reposalmentie 13 e, helsinki": {
+  "lat": 60.178406,
+  "lng": 25.0534319,
+  "adres": "Reposalmentie 13 e, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|riipuksenkatu 13, tampere": {
+  "lat": 61.4716486,
+  "lng": 23.8648599,
+  "adres": "Riipuksenkatu 13, Tampere",
+  "ts": 1785218650735
+ },
+ "fi|roihuvuorentie 3/keijukaistenpolku 14, helsinki": {
+  "mis": true,
+  "adres": "Roihuvuorentie 3/Keijukaistenpolku 14, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|rummunlyöjänkatu 5, salo": {
+  "lat": 60.3866024,
+  "lng": 23.1314992,
+  "adres": "Rummunlyöjänkatu 5, Salo",
+  "ts": 1785218650735
+ },
+ "fi|rykmentintie 34, tuusula": {
+  "lat": 60.3988841,
+  "lng": 25.0335621,
+  "adres": "Rykmentintie 34, Tuusula",
+  "ts": 1785218650735
+ },
+ "fi|sahamäenkatu 1, hyvinkää": {
+  "mis": true,
+  "adres": "Sahamäenkatu 1, Hyvinkää",
+  "ts": 1785218650735
+ },
+ "fi|sairaalantie 14, harjavalta": {
+  "lat": 61.3011731,
+  "lng": 22.1489887,
+  "adres": "sairaalantie 14, Harjavalta",
+  "ts": 1785218650735
+ },
+ "fi|sankarinkatu 15, iisalmi": {
+  "lat": 63.5563645,
+  "lng": 27.1996664,
+  "adres": "Sankarinkatu 15, Iisalmi",
+  "ts": 1785218650735
+ },
+ "fi|savilankatu 10, rauma": {
+  "lat": 61.1263778,
+  "lng": 21.5074789,
+  "adres": "Savilankatu 10, Rauma",
+  "ts": 1785218650735
+ },
+ "fi|savonkatu 23, kouvola": {
+  "lat": 60.8729369,
+  "lng": 26.6915066,
+  "adres": "Savonkatu 23, Kouvola",
+  "ts": 1785218650735
+ },
+ "fi|siltakatu 42, heinola": {
+  "lat": 61.2067881,
+  "lng": 26.0433022,
+  "adres": "Siltakatu 42, Heinola",
+  "ts": 1785218650735
+ },
+ "fi|solkikuja 8 a, vantaa": {
+  "lat": 60.2585949,
+  "lng": 24.8601714,
+  "adres": "Solkikuja 8 A, Vantaa",
+  "ts": 1785218650735
+ },
+ "fi|sovatek-säätiö, keskussairaalantie 20 b, jyväskylä": {
+  "lat": 62.2333153,
+  "lng": 25.7083702,
+  "adres": "Sovatek-säätiö, Keskussairaalantie 20 B, Jyväskylä",
+  "ts": 1785218650735
+ },
+ "fi|ståhlberginkatu 8, haapajärvi": {
+  "lat": 63.7515735,
+  "lng": 25.3136788,
+  "adres": "Ståhlberginkatu 8, Haapajärvi",
+  "ts": 1785218650735
+ },
+ "fi|taitoniekantie 14, jyväskylä": {
+  "lat": 62.2488405,
+  "lng": 25.7171419,
+  "adres": "Taitoniekantie 14, Jyväskylä",
+  "ts": 1785218650735
+ },
+ "fi|tampereen valtatie 23, tampere": {
+  "lat": 61.4912111,
+  "lng": 23.7800182,
+  "adres": "Tampereen Valtatie 23, Tampere",
+  "ts": 1785218650735
+ },
+ "fi|tervakukkatie 54, oulu": {
+  "lat": 65.0714993,
+  "lng": 25.4158631,
+  "adres": "Tervakukkatie 54, Oulu",
+  "ts": 1785218650735
+ },
+ "fi|topeliuksenkatu 4, helsinki": {
+  "lat": 60.1796633,
+  "lng": 24.9212103,
+  "adres": "Topeliuksenkatu 4, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|topparikuja 2, helsinki": {
+  "lat": 60.1991802,
+  "lng": 24.9425349,
+  "adres": "Topparikuja 2, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|turkismiehenkuja 4, pitäjänmäen kirkko, helsinki": {
+  "lat": 60.2246074,
+  "lng": 24.8605458,
+  "adres": "Turkismiehenkuja 4, Pitäjänmäen kirkko, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|turunlinnantie 3, helsinki": {
+  "lat": 60.2114923,
+  "lng": 25.079253,
+  "adres": "Turunlinnantie 3, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|työpajankatu 14 a, helsinki": {
+  "lat": 60.1879687,
+  "lng": 24.9806078,
+  "adres": "Työpajankatu 14 A, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|valtakatu 22, pori": {
+  "lat": 61.488554,
+  "lng": 21.7895687,
+  "adres": "Valtakatu 22, Pori",
+  "ts": 1785218650735
+ },
+ "fi|valtakatu 66, lappeenranta": {
+  "lat": 61.0601864,
+  "lng": 28.1988189,
+  "adres": "Valtakatu 66, Lappeenranta",
+  "ts": 1785218650735
+ },
+ "fi|valtionkatu 1, seinäjoki": {
+  "lat": 62.791718,
+  "lng": 22.8428521,
+  "adres": "Valtionkatu 1, Seinäjoki",
+  "ts": 1785218650735
+ },
+ "fi|vespertie 12, helsinki": {
+  "lat": 60.2154396,
+  "lng": 24.8999585,
+  "adres": "Vespertie 12, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|veturitallinpolku 4, pori": {
+  "lat": 61.486666,
+  "lng": 21.7741271,
+  "adres": "Veturitallinpolku 4, Pori",
+  "ts": 1785218650735
+ },
+ "fi|vilhonvuorenkatu 7-9, helsinki": {
+  "lat": 60.1872763,
+  "lng": 24.9650736,
+  "adres": "Vilhonvuorenkatu 7-9, Helsinki",
+  "ts": 1785218650735
+ },
+ "fi|vipusenkatu 6, tampere": {
+  "lat": 61.4939498,
+  "lng": 23.8289855,
+  "adres": "Vipusenkatu 6, Tampere",
+  "ts": 1785218650735
+ },
+ "fi|vuorelanmäki 1, kerava": {
+  "lat": 60.3859188,
+  "lng": 25.1084282,
+  "adres": "Vuorelanmäki 1, Kerava",
+  "ts": 1785218650735
+ },
+ "fi|vuorikatu 14, lahti": {
+  "lat": 60.9814964,
+  "lng": 25.6539408,
+  "adres": "Vuorikatu 14, Lahti",
+  "ts": 1785218650735
+ },
+ "fi|vähäuusikatu 3, pori": {
+  "lat": 61.4847861,
+  "lng": 21.8072201,
+  "adres": "Vähäuusikatu 3, Pori",
+  "ts": 1785218650735
+ },
+ "fi|välikatu 2, nokia": {
+  "lat": 61.4784625,
+  "lng": 23.5135697,
+  "adres": "Välikatu 2, Nokia",
+  "ts": 1785218650735
+ },
+ "fi|yliopistonkatu 10, turku": {
+  "lat": 60.4538938,
+  "lng": 22.2720661,
+  "adres": "Yliopistonkatu 10, Turku",
+  "ts": 1785218650735
+ },
+ "fi|öllerinkatu 3, riihimäki": {
+  "lat": 60.7363449,
+  "lng": 24.7751607,
+  "adres": "Öllerinkatu 3, Riihimäki",
+  "ts": 1785218650735
  },
  "fr|1 av. de la division leclerc, puteaux": {
   "lat": 48.8949287,
