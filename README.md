@@ -81,7 +81,7 @@ meeting daar heeft geen coördinaten.
 Vrij te gebruiken. Het is niet van mij — het is van de fellowships, en die
 publiceren het zelf al. Wil je het ophalen:
 
-    https://raw.githubusercontent.com/jeroenrosier/fellow-finder-data/main/meetings.json
+    https://raw.githubusercontent.com/fellowfinder/fellow-finder-data/main/meetings.json
 
 Doe het hooguit een keer per dag; vaker heeft geen zin, want het verandert maar
 één keer per nacht. En cache het aan jouw kant, zodat het ook werkt als je
