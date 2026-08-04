@@ -3898,6 +3898,11 @@
   "adres": "Topparikuja 2, Helsinki",
   "ts": 1785218650735
  },
+ "fi|topparinkuja 2, helsinki": {
+  "mis": true,
+  "adres": "Topparinkuja 2, Helsinki",
+  "ts": 1785823541796
+ },
  "fi|turkismiehenkuja 4, pitäjänmäen kirkko, helsinki": {
   "lat": 60.2246074,
   "lng": 24.8605458,
