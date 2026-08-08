@@ -3661,6 +3661,12 @@
   "adres": "Myllypurontie 22, Helsinki",
   "ts": 1785218650735
  },
+ "fi|mäkelänkatu 50 b, helsinki": {
+  "lat": 60.1963778,
+  "lng": 24.9518361,
+  "adres": "Mäkelänkatu 50 B, Helsinki",
+  "ts": 1786163253264
+ },
  "fi|noljakantie 81, joensuu": {
   "lat": 62.6246934,
   "lng": 29.6952898,
