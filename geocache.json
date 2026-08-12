@@ -3485,6 +3485,12 @@
   "adres": "Korsontie 2, Vantaa",
   "ts": 1785218650735
  },
+ "fi|koskikatu 12, joensuu": {
+  "lat": 62.6024698,
+  "lng": 29.752366,
+  "adres": "Koskikatu 12, Joensuu",
+  "ts": 1786510936566
+ },
  "fi|koskikatu 25, joensuu": {
   "lat": 62.6016402,
   "lng": 29.7514291,
@@ -3807,6 +3813,12 @@
   "lng": 24.8751645,
   "adres": "Raumantie 3, Helsinki",
   "ts": 1785218650735
+ },
+ "fi|raumantie 5, helsinki": {
+  "lat": 60.2063018,
+  "lng": 24.8737976,
+  "adres": "Raumantie 5, Helsinki",
+  "ts": 1786510936566
  },
  "fi|reposalmentie 13 e, helsinki": {
   "lat": 60.178406,
