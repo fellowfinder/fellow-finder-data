@@ -382,6 +382,12 @@
   "adres": "499 5e avenue, église St-Paul , Shawinigan, secteur Grand-Mère, Québec, G9T 2M3",
   "ts": 1785163224787
  },
+ "ca|97 rue ozias-leduc, sherbrooke, québec, j1h 1m7": {
+  "lat": 45.402486,
+  "lng": -71.8926092,
+  "adres": "97 rue Ozias-Leduc, Sherbrooke, Québec, J1H 1M7",
+  "ts": 1786597855566
+ },
  "cw|kaya kooyman 43, willemstad": {
   "mis": true,
   "adres": "Kaya Kooyman 43, Willemstad",
