@@ -3199,6 +3199,12 @@
   "adres": "Asemakatu 5, Loimaa",
   "ts": 1785218650735
  },
+ "fi|asematie 1, lempäälä": {
+  "lat": 61.3142399,
+  "lng": 23.7549966,
+  "adres": "Asematie 1, Lempäälä",
+  "ts": 1787198561007
+ },
  "fi|aureentie 10, ylöjärvi": {
   "lat": 61.9810383,
   "lng": 23.3588022,
@@ -3240,6 +3246,12 @@
   "lng": 24.9597919,
   "adres": "Haapaniemenkatu 7-9, Helsinki",
   "ts": 1785218650735
+ },
+ "fi|hakopolku 2, vantaa": {
+  "lat": 60.3230997,
+  "lng": 25.0620385,
+  "adres": "Hakopolku 2, Vantaa",
+  "ts": 1787198561007
  },
  "fi|hallituskatu 15, rovaniemi": {
   "lat": 66.4983938,
@@ -3587,6 +3599,12 @@
   "adres": "Lautsiankuja 20, Alvettula",
   "ts": 1785218650735
  },
+ "fi|lautsiankuja 20, hämeenlinna": {
+  "lat": 61.235247,
+  "lng": 24.4359847,
+  "adres": "Lautsiankuja 20, Hämeenlinna",
+  "ts": 1787198561007
+ },
  "fi|leppävaarankatu 10, espoo": {
   "lat": 60.216866,
   "lng": 24.810667,
@@ -3634,6 +3652,12 @@
   "lng": 23.7833949,
   "adres": "Lähteenkatu 11N, Tampere",
   "ts": 1785218650735
+ },
+ "fi|maaherrankatu 27, kuopio": {
+  "lat": 62.894351,
+  "lng": 27.6878434,
+  "adres": "Maaherrankatu 27, Kuopio",
+  "ts": 1787198561007
  },
  "fi|maaherrankatu 5, mikkeli": {
   "lat": 61.6853188,
@@ -3948,6 +3972,12 @@
   "lng": 24.8605458,
   "adres": "Turkismiehenkuja 4, Pitäjänmäen kirkko, Helsinki",
   "ts": 1785218650735
+ },
+ "fi|turunlinnantie 1, helsinki": {
+  "lat": 60.2119276,
+  "lng": 25.0801652,
+  "adres": "Turunlinnantie 1, Helsinki",
+  "ts": 1787198561007
  },
  "fi|turunlinnantie 3, helsinki": {
   "lat": 60.2114923,
