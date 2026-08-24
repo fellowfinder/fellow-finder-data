@@ -246,6 +246,12 @@
   "adres": "Rue de la stratégie 3, 1160 Auderghem, Bruxelles",
   "ts": 1785163224787
  },
+ "be|rue de la stratégie 3, auderghem": {
+  "lat": 50.8239067,
+  "lng": 4.4004549,
+  "adres": "Rue de la stratégie 3, Auderghem",
+  "ts": 1787544575109
+ },
  "be|rue du jardin des olives 8, bruxelles": {
   "lat": 50.8453562,
   "lng": 4.3479173,
