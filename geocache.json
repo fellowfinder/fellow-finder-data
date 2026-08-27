@@ -6787,6 +6787,11 @@
   "adres": "411 Via Medici, 411, c/o Parrocchia Sacro Cuore, Sant'Agata di Militello",
   "ts": 1785246542450
  },
+ "it|belvedere san francesco 6, c/o convento sant’antonio da padova, favara": {
+  "mis": true,
+  "adres": "Belvedere San Francesco 6, c/o Convento Sant’Antonio da Padova, Favara",
+  "ts": 1787839884610
+ },
  "it|casa della gioventù, povolaro": {
   "lat": 45.6271541,
   "lng": 11.5724849,
@@ -7947,6 +7952,12 @@
   "lng": 15.6477982,
   "adres": "Via Giudecca, 31, Reggio Calabria",
   "ts": 1785246542450
+ },
+ "it|via giulia 96, c/o oratorio, caserta": {
+  "lat": 41.076607,
+  "lng": 14.3604623,
+  "adres": "via Giulia 96, c/o Oratorio, Caserta",
+  "ts": 1787839884610
  },
  "it|via giuseppe giusti, 2, c/o centro civico stellanda, rho": {
   "mis": true,
