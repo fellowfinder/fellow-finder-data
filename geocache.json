@@ -4008,6 +4008,12 @@
   "adres": "Työpajankatu 14 A, Helsinki",
   "ts": 1785218650735
  },
+ "fi|urpiaisentie 14, vantaa": {
+  "lat": 60.3517602,
+  "lng": 25.0761713,
+  "adres": "Urpiaisentie 14, Vantaa",
+  "ts": 1787930685797
+ },
  "fi|valtakatu 22, pori": {
   "lat": 61.488554,
   "lng": 21.7895687,
@@ -6804,6 +6810,11 @@
   "adres": "Centro giovanile San Piamarta, Via Manzoni 227, Roseto degli Abruzzi",
   "ts": 1785246542450
  },
+ "it|chiesa di san giuseppe moscati a scampia, napoli": {
+  "mis": true,
+  "adres": "Chiesa di San Giuseppe Moscati a Scampia, Napoli",
+  "ts": 1787930685797
+ },
  "it|circonvallazione gianicolense, 12, c/o chiesa ss. patroni, roma": {
   "mis": true,
   "adres": "Circonvallazione Gianicolense, 12, c/o Chiesa SS. Patroni, Roma",
@@ -7952,6 +7963,12 @@
   "lng": 15.6477982,
   "adres": "Via Giudecca, 31, Reggio Calabria",
   "ts": 1785246542450
+ },
+ "it|via giulia 72, c/o oratorio, caserta": {
+  "lat": 41.076607,
+  "lng": 14.3604623,
+  "adres": "via Giulia 72, c/o Oratorio, Caserta",
+  "ts": 1787930685797
  },
  "it|via giulia 96, c/o oratorio, caserta": {
   "lat": 41.076607,
