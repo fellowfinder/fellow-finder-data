@@ -8828,6 +8828,11 @@
   "adres": "Bārddziņu iela 2, Rīga",
   "ts": 1785163224787
  },
+ "lv|bārddziņuiela 2, rīga": {
+  "mis": true,
+  "adres": "Bārddziņuiela 2, Rīga",
+  "ts": 1788081338585
+ },
  "lv|deglava iela 63a, rīga": {
   "lat": 56.9505354,
   "lng": 24.1840724,
@@ -8846,6 +8851,12 @@
   "adres": "Mālkalnes prospekts 30, LV-5001, Ogre",
   "ts": 1785163224787
  },
+ "lv|mālkalnes prospekts 30, ogre": {
+  "lat": 56.8225082,
+  "lng": 24.5999874,
+  "adres": "Mālkalnes prospekts 30, Ogre",
+  "ts": 1788081338585
+ },
  "lv|rūpniecības iela 22, 1. stāvs, ventspils": {
   "lat": 57.380923,
   "lng": 21.5928262,
@@ -8858,10 +8869,21 @@
   "adres": "Rūpniecības iela 7, Bauskas pilsēta, Bauskas sociālais dienests, Bauska",
   "ts": 1785163224787
  },
+ "lv|rūpniecības iela 7, bauskas sociālais dienests, bauska": {
+  "lat": 56.4073317,
+  "lng": 24.1803715,
+  "adres": "Rūpniecības iela 7, Bauskas sociālais dienests, Bauska",
+  "ts": 1788081338585
+ },
  "lv|src \"ratnieki\", salas pagasts, lv-2105, mārupes novads": {
   "mis": true,
   "adres": "SRC \"Ratnieki\", Salas pagasts, LV-2105, Mārupes novads",
   "ts": 1785163224787
+ },
+ "lv|src \"ratnieki\", salas pagasts, mārupes novads": {
+  "mis": true,
+  "adres": "SRC \"Ratnieki\", Salas pagasts, Mārupes novads",
+  "ts": 1788081338585
  },
  "lv|stabu iela 11, rīga": {
   "lat": 56.9592672,
