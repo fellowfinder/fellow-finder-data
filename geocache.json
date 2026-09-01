@@ -3478,6 +3478,12 @@
   "adres": "Kirkkolahdenkatu 6B, Savonlinna",
   "ts": 1785218650735
  },
+ "fi|kirkkotie 34, hyrylä": {
+  "lat": 60.4130375,
+  "lng": 25.0330167,
+  "adres": "Kirkkotie 34, Hyrylä",
+  "ts": 1788252115377
+ },
  "fi|kisakentänkatu 18, tampere": {
   "lat": 61.4957081,
   "lng": 23.7405574,
