@@ -2337,6 +2337,12 @@
   "adres": "C/ Santa Creu, 2, Barcelona",
   "ts": 1785182768819
  },
+ "es|c/ santa eulalia de mérida, 4, oviedo": {
+  "lat": 43.3598825,
+  "lng": -5.8628279,
+  "adres": "C/ Santa Eulalia de Mérida, 4, Oviedo",
+  "ts": 1788422591545
+ },
  "es|c/ santa felicidad, 31 locales aa.vv., madrid": {
   "mis": true,
   "adres": "C/ Santa Felicidad, 31 Locales AA.VV., Madrid",
