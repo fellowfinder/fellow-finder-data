@@ -4423,6 +4423,12 @@
   "adres": "12 Rue des Fossés Saint-Jacques, Paris",
   "ts": 1785184761256
  },
+ "fr|12 rue du moulin des lapins, paris": {
+  "lat": 48.8342579,
+  "lng": 2.3208654,
+  "adres": "12 Rue du Moulin des Lapins, Paris",
+  "ts": 1788854684154
+ },
  "fr|12 rue gustave eiffel, saint-brieuc, france": {
   "lat": 48.5187842,
   "lng": -2.7779649,
