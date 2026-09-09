@@ -6905,6 +6905,12 @@
   "adres": "Largo degli Alicorni, 28, PRZY PL SW. PIOTRA, Roma",
   "ts": 1785246542450
  },
+ "it|largo emilio quadrelli 5, roma": {
+  "lat": 41.8484766,
+  "lng": 12.4113547,
+  "adres": "Largo Emilio Quadrelli 5, Roma",
+  "ts": 1788941357810
+ },
  "it|largo san nazaro, 3, c/o parrocchia s. nazaro, verona": {
   "mis": true,
   "adres": "Largo San Nazaro, 3, c/o Parrocchia S. Nazaro, Verona",
