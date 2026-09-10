@@ -388,6 +388,12 @@
   "adres": "499 5e avenue, église St-Paul , Shawinigan, secteur Grand-Mère, Québec, G9T 2M3",
   "ts": 1785163224787
  },
+ "ca|712 rue de lanaudière, joliette, québec, j6e 3n1": {
+  "lat": 46.0205628,
+  "lng": -73.4414725,
+  "adres": "712 Rue de lanaudière, Joliette, Québec, J6E 3N1",
+  "ts": 1789027778343
+ },
  "ca|97 rue ozias-leduc, sherbrooke, québec, j1h 1m7": {
   "lat": 45.402486,
   "lng": -71.8926092,
@@ -1278,6 +1284,12 @@
   "lng": -3.6776305,
   "adres": "C/ Duque de Sesto, 9, Madrid",
   "ts": 1785182768819
+ },
+ "es|c/ ecuador, 1, alicante": {
+  "lat": 38.5356348,
+  "lng": -0.8201881,
+  "adres": "C/ Ecuador, 1, Alicante",
+  "ts": 1789027778343
  },
  "es|c/ ecuador, 2, valladolid": {
   "lat": 41.6309955,
@@ -5476,6 +5488,12 @@
   "adres": "4 Avenue Pasteur, Saint-Mandé, France",
   "ts": 1785184761256
  },
+ "fr|4 bd robert maurice, saint-étienne": {
+  "lat": 45.4277109,
+  "lng": 4.3833754,
+  "adres": "4 Bd Robert Maurice, Saint-Étienne",
+  "ts": 1789027778343
+ },
  "fr|4 place de l'église, conflans-sainte-honorine": {
   "lat": 48.9920436,
   "lng": 2.094898,
@@ -6758,6 +6776,12 @@
   "lng": 0.0783644,
   "adres": "Rue Louis de Broglie, Tarbes, France",
   "ts": 1785184761256
+ },
+ "fr|rue lucien jonas, valenciennes": {
+  "lat": 50.3526346,
+  "lng": 3.4894631,
+  "adres": "Rue Lucien Jonas, Valenciennes",
+  "ts": 1789027778343
  },
  "fr|rue marius lacroix, la rochelle, france": {
   "lat": 46.1762222,
