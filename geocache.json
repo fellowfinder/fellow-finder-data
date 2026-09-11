@@ -3961,6 +3961,12 @@
   "adres": "Solkikuja 8 A, Vantaa",
   "ts": 1785218650735
  },
+ "fi|sotkamontie, kajaani": {
+  "lat": 64.2052641,
+  "lng": 27.7351881,
+  "adres": "Sotkamontie, Kajaani",
+  "ts": 1789113802296
+ },
  "fi|sovatek-säätiö, keskussairaalantie 20 b, jyväskylä": {
   "lat": 62.2333153,
   "lng": 25.7083702,
