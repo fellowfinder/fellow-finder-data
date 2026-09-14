@@ -6284,6 +6284,12 @@
   "adres": "8D Avenue de Moka, Saint-Malo",
   "ts": 1785184761256
  },
+ "fr|9 bis rue georges berges, bayonne": {
+  "lat": 43.4955284,
+  "lng": -1.4873735,
+  "adres": "9 Bis Rue Georges Berges, Bayonne",
+  "ts": 1789376220502
+ },
  "fr|9 cr gambetta, montpellier": {
   "mis": true,
   "adres": "9 Cr Gambetta, Montpellier",
