@@ -6105,6 +6105,12 @@
   "adres": "7 Rue Auguste Vacquerie, Paris, France",
   "ts": 1785184761256
  },
+ "fr|7 rue d'harcourt, rouen": {
+  "lat": 49.440443,
+  "lng": 1.084778,
+  "adres": "7 Rue d'Harcourt, Rouen",
+  "ts": 1789547886757
+ },
  "fr|7 rue de poitiers, paris": {
   "lat": 48.859109,
   "lng": 2.3262734,
@@ -8415,6 +8421,11 @@
   "mis": true,
   "adres": "Via Quirini, 1, , TV, Italia, c/o Parrocchia, Castello di Godego",
   "ts": 1785246542450
+ },
+ "it|via r. liguria 13, c/o biblioteca \"ridare la parola\", firenze zona le piagge": {
+  "mis": true,
+  "adres": "Via R. Liguria 13, c/o Biblioteca \"Ridare la Parola\", FIRENZE zona Le Piagge",
+  "ts": 1789547886757
  },
  "it|via r. manganaro 158, portoferraio": {
   "mis": true,
