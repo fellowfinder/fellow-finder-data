@@ -7611,6 +7611,12 @@
   "adres": "Via degli Aceri, 1, c/o Albergo Popolare, Firenze",
   "ts": 1785246542450
  },
+ "it|via degli aceri, 1, firenze": {
+  "lat": 43.7768232,
+  "lng": 11.2174253,
+  "adres": "Via degli Aceri, 1, Firenze",
+  "ts": 1789804982617
+ },
  "it|via degli antegnati, 17, c/o oratorio s. antonio, brescia": {
   "mis": true,
   "adres": "Via degli Antegnati, 17, c/o oratorio S. Antonio, Brescia",
