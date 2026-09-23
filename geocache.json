@@ -8940,6 +8940,12 @@
   "adres": "Mālkalnes prospekts 30, Ogre",
   "ts": 1788081338585
  },
+ "lv|rupniecibas iela 22, ground floor, ventspils": {
+  "lat": 57.380923,
+  "lng": 21.5928262,
+  "adres": "Rupniecibas iela 22, ground floor, Ventspils",
+  "ts": 1790152419101
+ },
  "lv|rūpniecības iela 22, 1. stāvs, ventspils": {
   "lat": 57.380923,
   "lng": 21.5928262,
@@ -8974,10 +8980,21 @@
   "adres": "Stabu iela 11, Rīga",
   "ts": 1785163224787
  },
+ "lv|tornkalna iela 3, rīga, rīga": {
+  "mis": true,
+  "adres": "Tornkalna iela 3, Rīga, Rīga",
+  "ts": 1790152419101
+ },
  "lv|torņkalna iela 3, rīga": {
   "mis": true,
   "adres": "Torņkalna iela 3, Rīga",
   "ts": 1785163224787
+ },
+ "lv|vidrizu iela 1c, rīga": {
+  "lat": 56.9778015,
+  "lng": 24.1775828,
+  "adres": "Vidrizu iela 1C, Rīga",
+  "ts": 1790152419101
  },
  "lv|vidrižu iela 1c, rīga": {
   "lat": 56.9778015,
