@@ -525,7 +525,7 @@
  "es|avd. juan sebastián el cano, 2, málaga": {
   "mis": true,
   "adres": "Avd. Juan Sebastián El Cano, 2, Málaga",
-  "ts": 1785431298155
+  "ts": 1790675323782
  },
  "es|avd. libertad, 3, muriedas": {
   "mis": true,
@@ -2197,7 +2197,7 @@
  "es|c/ río de las pasadas, s/nº urbanización el albero - las lagunas, mijas-costa": {
   "mis": true,
   "adres": "C/ Río de las Pasadas, s/nº Urbanización El Albero - Las Lagunas, Mijas-Costa",
-  "ts": 1785431298155
+  "ts": 1790675323782
  },
  "es|c/ río de las pasadas, s/nº urbanización el albero las lagunas, mijas-costa": {
   "mis": true,
@@ -8952,6 +8952,12 @@
   "lng": 24.5999874,
   "adres": "Mālkalnes prospekts 30, Ogre",
   "ts": 1788081338585
+ },
+ "lv|rupniecibas iela 22, 1.stāvs;, ventspils": {
+  "lat": 57.380923,
+  "lng": 21.5928262,
+  "adres": "Rupniecibas iela 22, 1.stāvs;, Ventspils",
+  "ts": 1790675323782
  },
  "lv|rupniecibas iela 22, ground floor, ventspils": {
   "lat": 57.380923,
