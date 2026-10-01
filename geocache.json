@@ -2477,6 +2477,12 @@
   "adres": "C/ Trinidad Grund, 21, Málaga",
   "ts": 1785182768819
  },
+ "es|c/ trinidad, 14, peligros": {
+  "lat": 37.2321406,
+  "lng": -3.6261115,
+  "adres": "C/ Trinidad, 14, Peligros",
+  "ts": 1790849406163
+ },
  "es|c/ unceta, 18, zaragoza": {
   "lat": 41.6520184,
   "lng": -0.9020382,
@@ -8964,6 +8970,12 @@
   "lng": 21.5928262,
   "adres": "Rupniecibas iela 22, ground floor, Ventspils",
   "ts": 1790152419101
+ },
+ "lv|rupniecibas iela 22, ground floor;, ventspils": {
+  "lat": 57.380923,
+  "lng": 21.5928262,
+  "adres": "Rupniecibas iela 22, ground floor;, Ventspils",
+  "ts": 1790849406163
  },
  "lv|rūpniecības iela 22, 1. stāvs, ventspils": {
   "lat": 57.380923,
