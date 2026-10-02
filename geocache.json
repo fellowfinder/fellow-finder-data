@@ -110,6 +110,12 @@
   "adres": "Chaussée de Vleurgat 181, 1050 Bruxelles",
   "ts": 1785163224787
  },
+ "be|chemin jean lanneau 39, 1420 braine-l'alleud, braine-l'alleud": {
+  "lat": 50.6814251,
+  "lng": 4.3397201,
+  "adres": "Chemin Jean Lanneau 39, 1420 Braine-l'Alleud, Braine-l'Alleud",
+  "ts": 1790934222332
+ },
  "be|dokter haeckstraat 33, grembergen": {
   "mis": true,
   "adres": "Dokter Haeckstraat 33, Grembergen",
@@ -3891,6 +3897,11 @@
   "lng": 22.2468111,
   "adres": "Ratapihankatu 53 C , 3.kerros, Turku",
   "ts": 1785218650735
+ },
+ "fi|ratapihankatu 53c 3.krs, turku": {
+  "mis": true,
+  "adres": "Ratapihankatu 53C 3.krs, Turku",
+  "ts": 1790934222332
  },
  "fi|raumantie 3, helsinki": {
   "lat": 60.2059897,
