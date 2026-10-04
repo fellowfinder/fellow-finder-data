@@ -7926,6 +7926,11 @@
   "adres": "Via Filiselle, 1, c/o ex scuole elementari, Castelnuovo del Garda",
   "ts": 1790500519356
  },
+ "it|via firenze, 36, c/o la casa degli orti, mirandola": {
+  "mis": true,
+  "adres": "Via Firenze, 36, c/o La Casa degli Orti, Mirandola",
+  "ts": 1791107124092
+ },
  "it|via forese, 56, c/o distretto sanitario, campo san martino": {
   "mis": true,
   "adres": "Via Forese, 56, c/o Distretto Sanitario, Campo San Martino",
