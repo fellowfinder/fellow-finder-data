@@ -1134,6 +1134,12 @@
   "adres": "C/ Chile, 4, Los Realejos",
   "ts": 1785182768819
  },
+ "es|c/ claudio coello, 1, plasencia": {
+  "lat": 40.0342362,
+  "lng": -6.0902367,
+  "adres": "C/ Claudio Coello, 1, Plasencia",
+  "ts": 1791195842405
+ },
  "es|c/ clavel, s/nº, tauste": {
   "mis": true,
   "adres": "C/ Clavel, s/nº, Tauste",
@@ -1372,6 +1378,12 @@
   "lng": -1.8468372,
   "adres": "C/ Federico García Lorca, 20, Albacete",
   "ts": 1785182768819
+ },
+ "es|c/ federico garcía lorca, 67, huétor tájar": {
+  "lat": 37.1977272,
+  "lng": -4.045035,
+  "adres": "C/ Federico García Lorca, 67, Huétor Tájar",
+  "ts": 1791195842405
  },
  "es|c/ federico garcía lorca, puerto de santa maría": {
   "lat": 36.5950918,
