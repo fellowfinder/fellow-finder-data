@@ -1027,6 +1027,12 @@
   "adres": "C/ Brasil, 1, Peligros",
   "ts": 1785182768819
  },
+ "es|c/ bruselas, 20, cártama": {
+  "lat": 36.7363092,
+  "lng": -4.6123939,
+  "adres": "C/ Bruselas, 20, Cártama",
+  "ts": 1791281697164
+ },
  "es|c/ buen pastor, 80, san fernando": {
   "lat": 36.4381873,
   "lng": -6.2120269,
