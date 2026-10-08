@@ -1082,6 +1082,12 @@
   "adres": "C/ Cambria, 5, Pontevedra",
   "ts": 1785182768819
  },
+ "es|c/ camp vell, 14, torredembarra": {
+  "lat": 41.1440514,
+  "lng": 1.3949843,
+  "adres": "C/ Camp Vell, 14, Torredembarra",
+  "ts": 1791455511445
+ },
  "es|c/ campo de la verdad, 10, sevilla": {
   "lat": 37.3882468,
   "lng": -5.9230188,
