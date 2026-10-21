@@ -7608,6 +7608,12 @@
   "adres": "Via Cesana, 35, Modena",
   "ts": 1785246542450
  },
+ "it|via cesare battisti 31, c/o canonica parrocchia tre santi, bolzano": {
+  "lat": 46.5003511,
+  "lng": 11.3372582,
+  "adres": "Via Cesare Battisti 31, c/o Canonica parrocchia Tre Santi, Bolzano",
+  "ts": 1792571594941
+ },
  "it|via cesare battisti, 259, c/o s. teresa del bambin gesù, taranto": {
   "mis": true,
   "adres": "Via Cesare Battisti, 259, c/o S. Teresa del Bambin Gesù, Taranto",
