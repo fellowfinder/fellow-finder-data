@@ -523,6 +523,11 @@
   "adres": "Avd. Blanca Paloma, 32, Jerez",
   "ts": 1790411704215
  },
+ "es|avd. de alvar núñez, 2, sevilla": {
+  "mis": true,
+  "adres": "Avd. de Alvar Núñez, 2, Sevilla",
+  "ts": 1792829226449
+ },
  "es|avd. del calvario, s/nº, marbella": {
   "mis": true,
   "adres": "Avd. del Calvario, s/nº, Marbella",
@@ -2697,7 +2702,7 @@
  "es|entrada per c/sant roc , 2, vilassar de mar": {
   "mis": true,
   "adres": "Entrada per C/Sant Roc , 2, Vilassar de Mar",
-  "ts": 1787630599550
+  "ts": 1792829226449
  },
  "es|erdiko kalea, s/n, markina-xemein": {
   "lat": 43.2676887,
