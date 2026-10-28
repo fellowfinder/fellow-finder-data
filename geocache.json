@@ -3807,6 +3807,11 @@
   "adres": "Multisillankatu 5, Tampere",
   "ts": 1785218650735
  },
+ "fi|mykymäentie 1 a as3, varislahti": {
+  "mis": true,
+  "adres": "Mykymäentie 1 a as3, Varislahti",
+  "ts": 1793180573412
+ },
  "fi|myllypurontie 22, helsinki": {
   "lat": 60.2238492,
   "lng": 25.0616427,
@@ -6938,7 +6943,7 @@
  "it|chiesa di san giuseppe moscati a scampia, napoli": {
   "mis": true,
   "adres": "Chiesa di San Giuseppe Moscati a Scampia, Napoli",
-  "ts": 1787930685797
+  "ts": 1793180573412
  },
  "it|circonvallazione gianicolense, 12, c/o chiesa ss. patroni, roma": {
   "mis": true,
