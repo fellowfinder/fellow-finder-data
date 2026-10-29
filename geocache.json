@@ -2367,6 +2367,12 @@
   "adres": "C/ Sant Antoni, 60, Premiá De Mar",
   "ts": 1785182768819
  },
+ "es|c/ sant pere mártir, 5, barcelona": {
+  "lat": 41.6058801,
+  "lng": 1.6434053,
+  "adres": "C/ Sant Pere Mártir, 5, Barcelona",
+  "ts": 1793267705969
+ },
  "es|c/ sant roc, 2, vilassar de mar": {
   "lat": 41.5025514,
   "lng": 2.3915251,
@@ -3621,6 +3627,12 @@
   "adres": "Kotkankatu 14-16, Helsinki",
   "ts": 1785218650735
  },
+ "fi|koulukatu 1, outokumpu": {
+  "lat": 62.7258599,
+  "lng": 29.016521,
+  "adres": "Koulukatu 1, Outokumpu",
+  "ts": 1793267705969
+ },
  "fi|koulukatu 10, kotka": {
   "lat": 60.45977,
   "lng": 26.9401313,
@@ -3800,6 +3812,12 @@
   "lng": 24.9511123,
   "adres": "Metsolantie 14, Käpylän kirkko, Helsinki",
   "ts": 1785218650735
+ },
+ "fi|muistokatu 18, pori": {
+  "lat": 61.4862978,
+  "lng": 21.7802426,
+  "adres": "Muistokatu 18, Pori",
+  "ts": 1793267705969
  },
  "fi|multisillankatu 5, tampere": {
   "lat": 61.4409309,
@@ -9085,7 +9103,7 @@
  "lv|src \"ratnieki\", salas pagasts, mārupes novads": {
   "mis": true,
   "adres": "SRC \"Ratnieki\", Salas pagasts, Mārupes novads",
-  "ts": 1788081338585
+  "ts": 1793267705969
  },
  "lv|stabu iela 11, rīga": {
   "lat": 56.9592672,
