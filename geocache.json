@@ -4197,6 +4197,12 @@
   "adres": "Välikatu 2, Nokia",
   "ts": 1785218650735
  },
+ "fi|x, x": {
+  "lat": 62.2370311,
+  "lng": 25.7316921,
+  "adres": "x, x",
+  "ts": 1793354357746
+ },
  "fi|yliopistonkatu 10, turku": {
   "lat": 60.4538938,
   "lng": 22.2720661,
