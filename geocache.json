@@ -388,6 +388,12 @@
   "adres": "310 York St, Cornwall, Ontario, Québec, K6J 3Z3",
   "ts": 1785163224787
  },
+ "ca|356 rue notre-dame, lanoraie, québec, j0k 1e0": {
+  "lat": 45.9574327,
+  "lng": -73.2205897,
+  "adres": "356 rue Notre-Dame, Lanoraie, Québec, J0K 1E0",
+  "ts": 1793962235981
+ },
  "ca|356 rue waterloo, waterloo, québec, j0e 2n0": {
   "lat": 45.3432756,
   "lng": -72.5262228,
@@ -1342,6 +1348,12 @@
   "lng": -4.7472057,
   "adres": "C/ Ecuador, 2, Valladolid",
   "ts": 1785182768819
+ },
+ "es|c/ el globo, 17, zaragoza": {
+  "lat": 41.6842219,
+  "lng": -0.873387,
+  "adres": "C/ El Globo, 17, Zaragoza",
+  "ts": 1793962235981
  },
  "es|c/ el globo, 27, zaragoza": {
   "lat": 41.6836989,
