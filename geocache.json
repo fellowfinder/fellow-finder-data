@@ -4089,6 +4089,12 @@
   "adres": "Sovatek-säätiö, Keskussairaalantie 20 B, Jyväskylä",
   "ts": 1785218650735
  },
+ "fi|sturenkatu 11, helsinki": {
+  "lat": 60.1884957,
+  "lng": 24.9461642,
+  "adres": "Sturenkatu 11, Helsinki",
+  "ts": 1794223644689
+ },
  "fi|ståhlberginkatu 8, haapajärvi": {
   "lat": 63.7515735,
   "lng": 25.3136788,
@@ -9081,6 +9087,12 @@
   "lng": 23.6924823,
   "adres": "Filozofu iela 69, Ģintermuiža, Jelgava",
   "ts": 1785163224787
+ },
+ "lv|latgales iela 309 a, rīga": {
+  "lat": 56.9096669,
+  "lng": 24.1820639,
+  "adres": "Latgales iela 309 A, Rīga",
+  "ts": 1794223644689
  },
  "lv|mālkalnes prospekts 30, lv-5001, ogre": {
   "lat": 56.8225082,
