@@ -9059,6 +9059,17 @@
   "adres": "Villaggio Prealpino via Traversa Quattordicesima, 4, c/o Parrocchia S.Giulia, Brescia",
   "ts": 1790500519356
  },
+ "it|zona le piagge, via r. liguria 13, c/o biblioteca \"ridare la parola\", firenze": {
+  "mis": true,
+  "adres": "Zona Le Piagge, Via R. Liguria 13, c/o Biblioteca \"Ridare la Parola\", FIRENZE",
+  "ts": 1794567325926
+ },
+ "lv|, bārddziņu iela 2, rīga": {
+  "lat": 56.9390506,
+  "lng": 24.1321099,
+  "adres": ", Bārddziņu iela 2, Rīga",
+  "ts": 1794567325926
+ },
  "lv|bārddziņu iela 2, rīga": {
   "lat": 56.9390506,
   "lng": 24.1321099,
