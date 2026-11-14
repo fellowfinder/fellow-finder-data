@@ -7541,6 +7541,12 @@
   "adres": "Via Assisi, 2,, Ascoli Piceno",
   "ts": 1785246542450
  },
+ "it|via ausonia 11, c/o chiesa gesù maria è giuseppe, palermo": {
+  "lat": 38.1498342,
+  "lng": 13.3345736,
+  "adres": "Via Ausonia 11, c/o chiesa Gesù Maria è Giuseppe, Palermo",
+  "ts": 1794651518544
+ },
  "it|via avondo, 8, c/o csv, aosta": {
   "mis": true,
   "adres": "Via Avondo, 8, c/o CSV, Aosta",
