@@ -903,6 +903,12 @@
   "adres": "C/ Amílcar, 133, Barcelona",
   "ts": 1785182768819
  },
+ "es|c/ ancha, 1, lodosa": {
+  "lat": 42.4244058,
+  "lng": -2.0780624,
+  "adres": "C/ Ancha, 1, Lodosa",
+  "ts": 1795001913688
+ },
  "es|c/ andalucía,14, vitoria": {
   "lat": 42.849275,
   "lng": -2.6583784,
