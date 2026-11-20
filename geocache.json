@@ -1905,6 +1905,12 @@
   "adres": "C/ Montpalau, 6, Pineda de Mar",
   "ts": 1785182768819
  },
+ "es|c/ montserrat, 44, calafell": {
+  "lat": 41.188797,
+  "lng": 1.5723252,
+  "adres": "C/ Montserrat, 44, Calafell",
+  "ts": 1795174236505
+ },
  "es|c/ murcia, nº 3, torrox costa": {
   "lat": 36.7363029,
   "lng": -3.9809631,
