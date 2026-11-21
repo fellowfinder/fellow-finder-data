@@ -3650,6 +3650,12 @@
   "adres": "Koskikatu 25, Joensuu",
   "ts": 1785218650735
  },
+ "fi|koskikatu 5, imatra": {
+  "lat": 61.1967586,
+  "lng": 28.7784387,
+  "adres": "Koskikatu 5, Imatra",
+  "ts": 1795258694005
+ },
  "fi|kotkankatu 14, helsinki": {
   "lat": 60.4159962,
   "lng": 25.1061691,
