@@ -3644,6 +3644,12 @@
   "adres": "Koskikatu 12, Joensuu",
   "ts": 1786510936566
  },
+ "fi|koskikatu 2, imatra": {
+  "lat": 61.1961848,
+  "lng": 28.7790097,
+  "adres": "Koskikatu 2, Imatra",
+  "ts": 1795346140630
+ },
  "fi|koskikatu 25, joensuu": {
   "lat": 62.6016402,
   "lng": 29.7514291,
@@ -9196,7 +9202,7 @@
  "lv|tornkalna iela 3, rīga, rīga": {
   "mis": true,
   "adres": "Tornkalna iela 3, Rīga, Rīga",
-  "ts": 1790152419101
+  "ts": 1795346140630
  },
  "lv|torņkalna iela 3, rīga": {
   "mis": true,
