@@ -3263,6 +3263,11 @@
   "adres": "Zeharkalea, 34, Ermua",
   "ts": 1785182768819
  },
+ "fi|519 55 pattayasaisong 9 aly, pattaya city, bang lamung district, chon buri 20150, thaimaa, pattaya": {
+  "mis": true,
+  "adres": "519 55 Pattayasaisong 9 Aly, Pattaya City, Bang Lamung District, Chon Buri 20150, Thaimaa, Pattaya",
+  "ts": 1795527561269
+ },
  "fi|a- kilta, pääskyvuorenrinne 1, turku": {
   "lat": 60.4458157,
   "lng": 22.3304745,
@@ -4064,6 +4069,12 @@
   "lng": 22.1489887,
   "adres": "sairaalantie 14, Harjavalta",
   "ts": 1785218650735
+ },
+ "fi|sammalkalliontie 5, espoo": {
+  "lat": 60.175838,
+  "lng": 24.7342622,
+  "adres": "Sammalkalliontie 5, Espoo",
+  "ts": 1795527561269
  },
  "fi|sammonkatu 10, lieksa": {
   "lat": 63.330444,
